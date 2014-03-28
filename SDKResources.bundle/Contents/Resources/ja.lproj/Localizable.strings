@@ -1,0 +1,128 @@
+/*
+ Localizable.strings
+ AdPOPcornSDKRevision
+ 
+ Created by wonje,song on 13. 2. 5..
+ Copyright (c) 2013년 wonje,song. All rights reserved.
+ */
+
+/* Title used for offer wall top bar */
+"offerWallTopBarTitle" = "イベント";
+
+/* Title used for offer wall table cell */
+"max" = "最大";
+
+/* Title used for alert view title */
+"alertViewTitle" = "アドワーズポップコーン";
+
+/* Message used for alert view message for general error */
+"alertViewGeneralErrorMessage" = "広告要求はスムーズではありません。\nしばらくすると再び利用お願い致します。";
+
+/* Message used for alert view message for no campaign error */
+"alertViewNoCampaignErrorMessage" = "利用可能なキャンペーンはありません。";
+
+/* Message used for alert view message for already participated campaign error */
+"alertViewAlreadyParticipatedCampaignErrorMessage" = "既にこのキャンペーンに参加しました。";
+
+/* Message used for alert view message for mediakeys were incorrect error */
+"alertViewMediaKeyIncorrectErrorMessage" = "彼のメディアキーが間違っていました。";
+
+/* Title used for alert view confirm button */
+"confirm" = "確認";
+
+/* Title used for landing view close button */
+"close" = "閉じる";
+
+/* Message used for bridge view of popup view */
+"moving" = "に移動中です。";
+
+/* Title used for bridgr view of back button */
+"back" = "戻る";
+
+"alerViewAlreadyInstalledAppMessage" = "すでにアプリケーションインストールされています。そして、参加することはできません。ご確認をお願い致します。";
+
+"alerViewNotYetInstalledMessage" = "アプリは、まだインストールされていません。あなたは、セットアップ画面に移動しますか？";
+"alerViewNotOpenToInstallAppURLMessage" = "App Storeは移動できません。カスタマーサービスまでご連絡ください。";
+
+"checkParticipate" = "参加を確認する";
+"participating" = "に参加して..";
+"checkingScheme" = "スキーマの確認..";
+"checkingIsFavorite" = "同様のチェック..";
+
+"alreadyfavorited" = "すでにファンです！残念ながら、ファンの同一性は、イベントに参加することが既に可能である。";
+
+"rewardComplete" = "こちらの商品は正常に支払い要求している。支払いは、ネットワーク項目の対象となり、最大5分かかる場合があります。";
+
+"notYetisFavoriteComplete" = "それでも好きでは完全ではありません。ご確認をお願い致します。";
+
+"participate" = "参加する";
+"viewDetail" = "詳細はこちら";
+
+"rewardConditionMessageCPIIns" = "条件を稼ぐ\nインストール後、インストールを確認してください。";
+"wrongURLAddress" = "無効なURLアドレス。カスタマーサービスまでご連絡ください。";
+
+"checkInstall" = "インストールの確認";
+"checkParticipate" = "参加を確認する";
+
+"copyRecommendCode" = "推奨されるコードがコピーされました。";
+
+"rewardWaiting" = "保留中のお支払い";
+"rewardCompleted" = "完済する";
+
+"adListAll" = "すべて(%d)";
+"participateList" = "参加の歴史(%d)";
+
+"participateListTableHeaderText" = "完全な補償は、ネットワークに、それは2時間ほどかかる場合があり、完了状況の参加により広告を支払った。";
+"csGuideText" = "ご不明な点がございましたら、こちらを残してください。その答えは、私にすぐにしましょう​​。";
+"csNotiText" = "*収集した個人情報（電子メールアドレス）は、CS処理や問題解決のために使用され、は、保存期間後に削除されます。";
+
+"selectCategoryText" = "カテゴリをご連絡ください。";
+
+"alertNoEmailMessage" = "返信を受け取るメールアドレスを入力してください。";
+"alertNoAskMessage" = "あなたの連絡先の詳細を入力してください。";
+
+"alertCSAddedMessage" = "連絡先情報が受信されている。";
+
+"alertSendMailFailMessage" = "メール配信に失敗しました。";
+
+"cancel" = "キャンセル";
+"select" = "選択する";
+
+"wrongEmailFormatMessage" = "電子メールの形式が正しくありません。チェックしてください、再入力してください。";
+
+"csTypeEmailSubject" = "【お問い合わせ先 AdPopcorn]%@";
+
+"csTypeEmailMessageBody" = "返信メールアドレスを受信 : %@\nお問い合わせ : %@";
+
+"couponCopyGuide" = "を押して、クーポンコードを保持するには、コピーされます。";
+
+"noCouponListMessage" = "クーポンが存在しません。";
+
+"couponCopiedMessage" = "%@ クーポンコードがコピーされました。";
+
+"noPopiconFunctionNotiMessage" = "Popicon機能はもはやサポートされていません。 offwall機能を使用してください。";
+
+"notSupportThisFunctionMessage" = "この機能は、もはやサポートされていません。";
+
+"notSupportAdPopcornRewardServerTypePoint" = "RewardServerTypePointはサポートされなくなりました。";
+
+"pleaseSelectTheEventYouWantToContactTitle" = "あなたが連絡するイベントを選択してください。";
+
+"couponList" = "クーポン一覧";
+
+"customerService" = "顧客サービス";
+
+"send" = "送信";
+
+// refresh
+"pullDownToRefresh" = "リフレッシュして、プルダウン...";
+"releaseToRefresh" = "リフレッシュして放し...";
+"loading" = "荷重...";
+
+
+// adbrix
+"alertViewTitleForAdBrix" = "AdBrix";
+"install" = "インストール";
+"acquisition" = "買収";
+"alerViewCantParticipateEventMessage" = "イベントに参加することはできません。";
+"alerViewCompletedParticipateEventMessage" = "イベントへの参加が完了します。";
