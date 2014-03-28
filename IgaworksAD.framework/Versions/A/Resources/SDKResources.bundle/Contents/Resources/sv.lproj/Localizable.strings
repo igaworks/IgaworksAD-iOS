@@ -69,16 +69,12 @@
 "rewardWaiting" = "I väntan på betalning";
 "rewardCompleted" = "komplett betalning";
 
-"adListAll" = "Alla(%d)";
-"participateList" = "Historien om deltagande(%d)";
 
 "participateListTableHeaderText" = "Komplett ersättning reklam genom deltagande i färdigstatus, på grund av nätverket, kan det ta upp till 2 timmar.";
 
 "csGuideText" = "Om du har några frågor, vänligen lämna här. Som svar, låt mig snabbt.";
 
 "csNotiText" = "* De insamlade personuppgifter (e-postadress) används för CS bearbetning och problemlösning, och kommer att tas bort efter en tids lagring.";
-
-"selectCategoryText" = "Vänligen kontakta kategorierna.";
 
 "alertNoEmailMessage" = "Ange din e-postadress för att få svar.";
 "alertNoAskMessage" = "Ange dina kontaktuppgifter.";
@@ -106,7 +102,6 @@
 
 "notSupportThisFunctionMessage" = "Den här funktionen stöds inte längre.";
 
-"notSupportAdPopcornRewardServerTypePoint" = "Stöds inte längre RewardServerTypePoint.";
 
 "pleaseSelectTheEventYouWantToContactTitle" = "Välj den händelse som du vill kontakta.";
 
@@ -116,10 +111,6 @@
 
 "send" = "Skicka";
 
-// refresh
-"pullDownToRefresh" = "Dra ner för att uppdatera...";
-"releaseToRefresh" = "Släpp för att uppdatera...";
-"loading" = "Loading...";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

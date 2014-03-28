@@ -71,8 +71,6 @@
 "rewardWaiting" = "待付款";
 "rewardCompleted" = "完成付款";
 
-"adListAll" = "所有(%d)";
-"participateList" = "参与历史(%d)";
 
 "participateListTableHeaderText" = "完整的补偿支付的广告由参与完成状态，由于网络，它可能需要长达2个小时。";
 
@@ -80,7 +78,6 @@
 
 "csNotiText" = "*所收集的个人信息（电子邮件地址）被用于CS处理和解决问题的能力，并在一段存储后会被删除。";
 
-"selectCategoryText" = "请联系类别。";
 
 "alertNoEmailMessage" = "请输入您的电子邮件地址来接收回复。";
 "alertNoAskMessage" = "请输入您的联系方式。";
@@ -108,7 +105,6 @@
 
 "notSupportThisFunctionMessage" = "不支持此功能了。";
 
-"notSupportAdPopcornRewardServerTypePoint" = "RewardServerTypePoint不再支持。";
 
 "pleaseSelectTheEventYouWantToContactTitle" = "请选择您想要联系的事件。";
 
@@ -118,10 +114,6 @@
 
 "send" = "发送";
 
-// refresh
-"pullDownToRefresh" = "下拉刷新...";
-"releaseToRefresh" = "发布刷新...";
-"loading" = "载入中...";
 
 
 // adbrix

@@ -72,14 +72,12 @@
 "rewardWaiting" = "Bis zur Erfüllung";
 "rewardCompleted" = "Die vollständige Bezahlung";
 
-"adListAll" = "Alle(%d)";
-"participateList" = "Geschichte der Beteiligung(%d)";
+
 
 "participateListTableHeaderText" = "Eine vollständige Kompensation bezahlte Werbung durch die Teilnahme an der Abschlussstatus aufgrund der Netzwerk, kann es bis zu 2 Stunden dauern.";
 "csGuideText" = "Wenn Sie irgendwelche Fragen haben, lassen Sie bitte hier. In der Antwort, lassen Sie mich schnell.";
 "csNotiText" = "*Die gesammelten persönlichen Daten (E-Mail-Adresse) wird für CS Verarbeitung und Problemlösung verwendet werden, und wird nach einer Zeit der Speicher gelöscht werden.";
 
-"selectCategoryText" = "Bitte kontaktieren Sie die Kategorien.";
 
 "alertNoEmailMessage" = "Bitte geben Sie Ihre E-Mail-Adresse, um Antworten zu erhalten.";
 "alertNoAskMessage" = "Bitte geben Sie Ihre Kontaktdaten.";
@@ -107,8 +105,6 @@
 
 "notSupportThisFunctionMessage" = "Diese Funktion wird nicht mehr unterstützt.";
 
-"notSupportAdPopcornRewardServerTypePoint" = "RewardServerTypePoint wird nicht mehr unterstützt.";
-
 "pleaseSelectTheEventYouWantToContactTitle" = "Bitte wählen Sie die Veranstaltung, die Sie kontaktieren möchten.";
 
 "couponList" = "Coupon-Liste";
@@ -117,10 +113,6 @@
 
 "send" = "Senden";
 
-// refresh
-"pullDownToRefresh" = "Ziehen Sie zu aktualisieren...";
-"releaseToRefresh" = "Lassen Sie zu erfrischen..";
-"loading" = "Verladung...";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

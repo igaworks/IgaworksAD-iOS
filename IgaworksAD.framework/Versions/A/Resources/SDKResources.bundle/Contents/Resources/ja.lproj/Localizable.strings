@@ -69,14 +69,9 @@
 "rewardWaiting" = "保留中のお支払い";
 "rewardCompleted" = "完済する";
 
-"adListAll" = "すべて(%d)";
-"participateList" = "参加の歴史(%d)";
-
 "participateListTableHeaderText" = "完全な補償は、ネットワークに、それは2時間ほどかかる場合があり、完了状況の参加により広告を支払った。";
 "csGuideText" = "ご不明な点がございましたら、こちらを残してください。その答えは、私にすぐにしましょう​​。";
 "csNotiText" = "*収集した個人情報（電子メールアドレス）は、CS処理や問題解決のために使用され、は、保存期間後に削除されます。";
-
-"selectCategoryText" = "カテゴリをご連絡ください。";
 
 "alertNoEmailMessage" = "返信を受け取るメールアドレスを入力してください。";
 "alertNoAskMessage" = "あなたの連絡先の詳細を入力してください。";
@@ -104,7 +99,6 @@
 
 "notSupportThisFunctionMessage" = "この機能は、もはやサポートされていません。";
 
-"notSupportAdPopcornRewardServerTypePoint" = "RewardServerTypePointはサポートされなくなりました。";
 
 "pleaseSelectTheEventYouWantToContactTitle" = "あなたが連絡するイベントを選択してください。";
 
@@ -114,10 +108,6 @@
 
 "send" = "送信";
 
-// refresh
-"pullDownToRefresh" = "リフレッシュして、プルダウン...";
-"releaseToRefresh" = "リフレッシュして放し...";
-"loading" = "荷重...";
 
 
 // adbrix

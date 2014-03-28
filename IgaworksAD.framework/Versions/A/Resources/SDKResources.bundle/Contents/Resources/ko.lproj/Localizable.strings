@@ -72,8 +72,6 @@
 "rewardWaiting" = "지급 대기중";
 "rewardCompleted" = "지급 완료";
 
-"adListAll" = "전체(%d)";
-"participateList" = "참여 이력(%d)";
 
 //"participateListTableHeaderText" = "광고 참여 완료 상태에서 보상 지급 완료까지는 네트워크 사정에 따라 최대 2시간까지 소요될 수 있습니다.";
 "participateListTableHeaderText" = "아이템 지급은 네트워크 사정에 따라 최대 2시간까지 소요될 수 있습니다.";
@@ -81,7 +79,6 @@
 "csGuideText" = "문의 사항이 있으시면 이곳에 남겨주세요. 빠른 시간안에 답변을 드리도록 하겠습니다.";
 "csNotiText" = "*수집된 개인정보(이메일 주소)는 CS처리 및 문제 해결을 위해 사용되며, 일정기간 보관 후 삭제됩니다.";
 
-"selectCategoryText" = "문의할 카테고리를 선택해 주세요.";
 
 "alertNoEmailMessage" = "회신 받을 이메일 주소를 입력해 주세요.";
 "alertNoAskMessage" = "문의 내용을 입력해 주세요.";
@@ -109,7 +106,6 @@
 
 "notSupportThisFunctionMessage" = "해당 기능은 더이상 지원하지 않습니다.";
 
-"notSupportAdPopcornRewardServerTypePoint" = "RewardServerTypePoint는 더이상 지원하지 않습니다.";
 
 "pleaseSelectTheEventYouWantToContactTitle" = "문의할 이벤트를 선택해주세요.";
 
@@ -122,11 +118,6 @@
 "adParticiateButtonText" = "광고참여";
 "particiateHistoryButtonText" = "참여이력";
 "promotingButtonText" = "친구초대";
-
-// refresh
-"pullDownToRefresh" = "아래로 당겨 새로 고치기...";
-"releaseToRefresh" = "손을 놓으면 새로 고침됩니다...";
-"loading" = "로딩중...";
 
 "promotingLinkType" = "링크형";
 "promotingCouponType" = "쿠폰형";

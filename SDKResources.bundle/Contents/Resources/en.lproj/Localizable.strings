@@ -70,14 +70,11 @@
 "rewardWaiting" = "Pending payment";
 "rewardCompleted" = "Complete payment";
 
-"adListAll" = "All(%d)";
-"participateList" = "History of participation(%d)";
 
 "participateListTableHeaderText" = "Complete compensation paid advertising by participation in the completion status, due to the network, it may take up to 2 hours.";
 "csGuideText" = "If you have any questions, please leave here. In answer, let me quickly.";
 "csNotiText" = "*The collected personal information (email address) is used for CS processing and problem solving, and will be deleted after a period of storage.";
 
-"selectCategoryText" = "Please contact the categories.";
 
 "alertNoEmailMessage" = "Please enter your email address to receive replies.";
 "alertNoAskMessage" = "Please enter your contact details.";
@@ -105,7 +102,6 @@
 
 "notSupportThisFunctionMessage" = "This feature is not supported anymore.";
 
-"notSupportAdPopcornRewardServerTypePoint" = "RewardServerTypePoint is no longer supported.";
 
 "pleaseSelectTheEventYouWantToContactTitle" = "Please select the event you want to contact.";
 
@@ -115,11 +111,28 @@
 
 "send" = "Send";
 
-// refresh
-"pullDownToRefresh" = "Pull down to refresh...";
-"releaseToRefresh" = "Release to refresh...";
-"loading" = "Loading...";
+"adParticiateButtonText" = "Ads participation";
+"particiateHistoryButtonText" = "History of participation";
+"promotingButtonText" = "Invite a friend";
 
+"promotingLinkType" = "Link type";
+"promotingCouponType" = "Coupon Type";
+
+"promotingItemQuantity" = "%@ points per invite";
+
+"invitedCount" = "Invite Success : %@ patients (%@/%@)";
+"earnedReward" = "Obtained %@ 1000 %@";
+
+"copy" = "Copy";
+"viewRanking" = "View rank";
+
+"promotingPartipateMethod1" = "1. In a variety of ways to introduce friends to the app. Introduction can be edited directly used.";
+"promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the \ n3. Number of friends to participate in the purchased item.";
+
+"textCopied" = "Copied";
+
+"inviteCompensation" = "Invite compensation";
+"rankCompensation" = "Rank compensation";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
