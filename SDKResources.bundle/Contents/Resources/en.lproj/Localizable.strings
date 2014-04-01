@@ -76,6 +76,10 @@
 "csNotiText" = "*The collected personal information (email address) is used for CS processing and problem solving, and will be deleted after a period of storage.";
 
 
+"inquiry" = "Inquiry";
+"receiveAReplyEmail" = "Receive A Reply Email";
+"pleaseEnterYourEmail"= "Please Enter Your Email.";
+
 "alertNoEmailMessage" = "Please enter your email address to receive replies.";
 "alertNoAskMessage" = "Please enter your contact details.";
 
@@ -118,10 +122,10 @@
 "promotingLinkType" = "Link type";
 "promotingCouponType" = "Coupon Type";
 
-"promotingItemQuantity" = "%@ points per invite";
+"promotingItemQuantity" = "%@ %@ per invite";
 
-"invitedCount" = "Invite Success : %@ patients (%@/%@)";
-"earnedReward" = "Obtained %@ 1000 %@";
+"invitedCount" = "Invite Success : %@ patients";
+"earnedReward" = "Obtain a total of %@ %@";
 
 "copy" = "Copy";
 "viewRanking" = "View rank";
@@ -129,10 +133,21 @@
 "promotingPartipateMethod1" = "1. In a variety of ways to introduce friends to the app. Introduction can be edited directly used.";
 "promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the \ n3. Number of friends to participate in the purchased item.";
 
+"promotingCautionMessage" = "Attention! Invite a friend to introduce you to the app, so I have installed the app service Rewards will be excluded from acquisition.";
+
 "textCopied" = "Copied";
 
 "inviteCompensation" = "Invite compensation";
 "rankCompensation" = "Rank compensation";
+
+"isOverseaOfferMessage" = "Advertising choice overseas advertising. If you have downloaded the app to the past history of reward is not paid. Reward payments are subject to the network, it may take up to 2 hours. Do you want to continue?";
+
+"yes" = "yes";
+"no" = "no";
+
+"howToParticipate" = "How to participate";
+
+"description" = "description";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

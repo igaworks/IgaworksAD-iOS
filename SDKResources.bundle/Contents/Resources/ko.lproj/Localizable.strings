@@ -79,6 +79,9 @@
 "csGuideText" = "문의 사항이 있으시면 이곳에 남겨주세요. 빠른 시간안에 답변을 드리도록 하겠습니다.";
 "csNotiText" = "*수집된 개인정보(이메일 주소)는 CS처리 및 문제 해결을 위해 사용되며, 일정기간 보관 후 삭제됩니다.";
 
+"inquiry" = "문의내용";
+"receiveAReplyEmail" = "회신받을 이메일";
+"pleaseEnterYourEmail"= "이메일을 입력해주세요.";
 
 "alertNoEmailMessage" = "회신 받을 이메일 주소를 입력해 주세요.";
 "alertNoAskMessage" = "문의 내용을 입력해 주세요.";
@@ -122,9 +125,9 @@
 "promotingLinkType" = "링크형";
 "promotingCouponType" = "쿠폰형";
 
-"promotingItemQuantity" = "초대 건당 %@ 포인트";
+"promotingItemQuantity" = "초대 건당 %@ %@";
 
-"invitedCount" = "초대성공 : %@명 (%@/%@)";
+"invitedCount" = "초대성공 : %@명";
 "earnedReward" = "총 %@ %@ 획득";
 
 "copy" = "복사하기";
@@ -133,10 +136,21 @@
 "promotingPartipateMethod1" = "1. 다양한 방법으로 친구들에게 앱을 소개합니다. 소개 글은 직접 편집에서 사용하실 수 있습니다.";
 "promotingPartipateMethod2" = "2. 소개글의 설치 링크를 통해 친구가 앱을 설치, 실행하면\n3. 참여한 친구 수만큼 아이템을 획득하게됩니다.";
 
+"promotingCautionMessage" = "주의! 친구초대는 앱을 소개하기 위한 서비스이므로 본인이 설치한 앱은 리워드 획득에서 제외됩니다.";
+
 "textCopied" = "복사되었습니다.";
 
 "inviteCompensation" = "초대보상";
 "rankCompensation" = "순위보상";
+
+"isOverseaOfferMessage" = "선택하신 광고는 '해외광고'이며, 참여보상은 최초 참여시 1회만 지급됩니다. 리워드 지급은 네트워크 사정에 따라 최대 2시간까지 소요될 수 있습니다. 계속 진행하시겠습니까?";
+
+"yes" = "예";
+"no" = "아니오";
+
+"howToParticipate" = "참여 방법";
+
+"description" = "설명";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

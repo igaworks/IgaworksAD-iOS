@@ -73,6 +73,10 @@
 "csGuideText" = "ご不明な点がございましたら、こちらを残してください。その答えは、私にすぐにしましょう​​。";
 "csNotiText" = "*収集した個人情報（電子メールアドレス）は、CS処理や問題解決のために使用され、は、保存期間後に削除されます。";
 
+"inquiry" = "お問い合わせ";
+"receiveAReplyEmail" = "返信メールを受信";
+"pleaseEnterYourEmail"= "メールアドレスを入力してください。";
+
 "alertNoEmailMessage" = "返信を受け取るメールアドレスを入力してください。";
 "alertNoAskMessage" = "あなたの連絡先の詳細を入力してください。";
 
@@ -109,6 +113,39 @@
 "send" = "送信";
 
 
+"adParticiateButtonText" = "広告への参加";
+"particiateHistoryButtonText" = "参加の歴史";
+"promotingButtonText" = "友人を招待";
+
+"promotingLinkType" = "リンク型";
+"promotingCouponType" = "クーポンの種類";
+
+"promotingItemQuantity" = "招待につき%@%@";
+
+"invitedCount" = "成功招待：患者%@を";
+"earnedReward" = "%@%@の合計を取得";
+
+"copy" = "コピー";
+"viewRanking" = "ビューランク";
+
+"promotingPartipateMethod1" = "1。アプリに友人を紹介するさまざまな方法で。はじめに直接使用編集することができる。";
+"promotingPartipateMethod2" = "2。インストールリンクの導入による友人がアプリをインストールするためには、\n3。購入したアイテムに参加する友人の数。";
+
+"promotingCautionMessage" = "ご注意！アプリをご紹介し友人を招待して下さい、私はアプリのサービス報酬をインストールして、取得対象から除外されます。";
+
+"textCopied" = "コピー";
+
+"inviteCompensation" = "補償を招待";
+"rankCompensation" = "ランク補償";
+
+"isOverseaOfferMessage" = "広告の選択、海外の広告。あなたは報酬の過去の歴史をアプリにダウンロードした場合に支払われていません。報酬の支払いは、ネットワークの対象となり、それが2時間かかることがあります。続行しますか?";
+
+"yes" = "はい";
+"no" = "いいえ";
+
+"howToParticipate" = "参加方法";
+
+"description" = "説明";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
