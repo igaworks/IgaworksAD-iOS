@@ -79,6 +79,11 @@
 "csNotiText" = "*所收集的个人信息（电子邮件地址）被用于CS处理和解决问题的能力，并在一段存储后会被删除。";
 
 
+"inquiry" = "查询";
+"receiveAReplyEmail" = "收到回复电子邮件";
+"pleaseEnterYourEmail"= "请输入您的电子邮件地址。";
+
+
 "alertNoEmailMessage" = "请输入您的电子邮件地址来接收回复。";
 "alertNoAskMessage" = "请输入您的联系方式。";
 
@@ -113,6 +118,41 @@
 "customerService" = "顾客服务";
 
 "send" = "发送";
+
+
+"adParticiateButtonText" = "Ads participation";
+"particiateHistoryButtonText" = "History of participation";
+"promotingButtonText" = "Invite a friend";
+
+"promotingLinkType" = "Link Type";
+"promotingCouponType" = "Coupon Type";
+
+"promotingItemQuantity" = "%@ %@\nper invite";
+
+"invitedCount" = "Invite Success : %@ patients";
+"earnedReward" = "Obtain a total of %@ %@";
+
+"copy" = "Copy";
+"viewRanking" = "View rank";
+
+"promotingPartipateMethod1" = "1. In a variety of ways to introduce friends to the app. Introduction can be edited directly used.";
+"promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the\n3. Number of friends to participate in the purchased item.";
+
+"promotingCautionMessage" = "Attention! Invite a friend to introduce you to the app, so I have installed the app service Rewards will be excluded from acquisition.";
+
+"textCopied" = "Copied";
+
+"inviteCompensation" = "Invite compensation";
+"rankCompensation" = "Rank compensation";
+
+"isOverseaOfferMessage" = "Advertising choice overseas advertising. If you have downloaded the app to the past history of reward is not paid. Reward payments are subject to the network, it may take up to 2 hours. Do you want to continue?";
+
+"yes" = "yes";
+"no" = "no";
+
+"howToParticipate" = "How to participate";
+
+"description" = "description";
 
 
 

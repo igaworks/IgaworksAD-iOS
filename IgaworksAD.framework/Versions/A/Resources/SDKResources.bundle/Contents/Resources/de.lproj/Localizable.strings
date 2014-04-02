@@ -39,8 +39,6 @@
 /* Title used for bridgr view of back button */
 "back" = "Zurück";
 
-"install" = "installieren";
-
 
 "alerViewAlreadyInstalledAppMessage" = "Bereits installierte App. Dann kann nicht teilnehmen. Fragen Sie nach Bestätigung.";
 
@@ -79,6 +77,10 @@
 "csNotiText" = "*Die gesammelten persönlichen Daten (E-Mail-Adresse) wird für CS Verarbeitung und Problemlösung verwendet werden, und wird nach einer Zeit der Speicher gelöscht werden.";
 
 
+"inquiry" = "Anfrage";
+"receiveAReplyEmail" = "Erhalten Sie eine Antwort per E-Mail";
+"pleaseEnterYourEmail"= "Bitte geben Sie Ihre E-Mail.";
+
 "alertNoEmailMessage" = "Bitte geben Sie Ihre E-Mail-Adresse, um Antworten zu erhalten.";
 "alertNoAskMessage" = "Bitte geben Sie Ihre Kontaktdaten.";
 
@@ -112,6 +114,40 @@
 "customerService" = "Kundenservice";
 
 "send" = "Senden";
+
+"adParticiateButtonText" = "Anzeigen Beteiligung";
+"particiateHistoryButtonText" = "Geschichte der Beteiligung";
+"promotingButtonText" = "Lade einen Freund ein";
+
+"promotingLinkType" = "Link-Typ";
+"promotingCouponType" = "Kupon-Typ";
+
+"promotingItemQuantity" = "%@ %@\npro Einladung";
+
+"invitedCount" = "Einladen Erfolg : %@ Patienten";
+"earnedReward" = "Besorgen Sie sich eine insgesamt %@ %@";
+
+"copy" = "Kopie";
+"viewRanking" = "Ansicht Rang";
+
+"promotingPartipateMethod1" = "1. In einer Vielzahl von Möglichkeiten, um Freunde, um die App vorstellen. Einführung bearbeitet direkt verwendet werden.";
+"promotingPartipateMethod2" = "2. Freunde durch die Einführung des Install Link, um die Anwendung zu installieren, führen Sie den\n3. Anzahl der Freunde in der Kaufsache zu beteiligen.";
+
+"promotingCautionMessage" = "Achtung! Laden Sie einen Freund, Sie auf der App vorstellen, so habe ich die App installiert Belohnungen Service wird von der Erfassung ausgeschlossen werden.";
+
+"textCopied" = "Kopierte";
+
+"inviteCompensation" = "Entschädigung einladen";
+"rankCompensation" = "Rang Entschädigung";
+
+"isOverseaOfferMessage" = "Werbung in Übersee Wahl-Werbung. Wenn Sie die App auf die Vergangenheit der Belohnung heruntergeladen haben, wird nicht bezahlt. Belohnung Zahlungen unterliegen dem Netzwerk, kann es bis zu 2 Stunden dauern. Wollen Sie fortfahren?";
+
+"yes" = "ja";
+"no" = "nicht";
+
+"howToParticipate" = "Wie kann man teilnehmen";
+
+"description" = "Beschreibung";
 
 
 // adbrix

@@ -76,6 +76,11 @@
 
 "csNotiText" = "* De insamlade personuppgifter (e-postadress) används för CS bearbetning och problemlösning, och kommer att tas bort efter en tids lagring.";
 
+"inquiry" = "Förfrågan";
+"receiveAReplyEmail" = "Få svar E";
+"pleaseEnterYourEmail"= "Ange din e.";
+
+
 "alertNoEmailMessage" = "Ange din e-postadress för att få svar.";
 "alertNoAskMessage" = "Ange dina kontaktuppgifter.";
 
@@ -110,6 +115,41 @@
 "customerService" = "Kundtjänst";
 
 "send" = "Skicka";
+
+
+"adParticiateButtonText" = "Ads deltagande";
+"particiateHistoryButtonText" = "Historien om deltagande";
+"promotingButtonText" = "Bjud in en vän";
+
+"promotingLinkType" = "Länk Typ";
+"promotingCouponType" = "Kupong Typ";
+
+"promotingItemQuantity" = "%@ %@\nper inbjudningskort";
+
+"invitedCount" = "inviterar Framgång : %@ patienter";
+"earnedReward" = "Skaffa totalt of %@ %@";
+
+"copy" = "Kopiera";
+"viewRanking" = "Se rang";
+
+"promotingPartipateMethod1" = "1. I en mängd olika sätt att introducera vänner till appen. Introduktion kan redigeras direkt användas.";
+"promotingPartipateMethod2" = "2. Vänner genom införandet av Install länken för att installera programmet genom att köra \n3. Antal vänner att delta i det köpta objektet.";
+
+"promotingCautionMessage" = "OBS! Bjud in en vän att introducera dig till programmet, så jag har installerat appen tjänster belöningar kommer att uteslutas från förvärvet.";
+
+"textCopied" = "Copied";
+
+"inviteCompensation" = "inviterar kompensation";
+"rankCompensation" = "Placering kompensation";
+
+"isOverseaOfferMessage" = "Reklam val utomlands reklam. Om du har laddat ner appen till tidigare historia av belöning betalas inte. Belöning betalningar omfattas av nätverket, kan det ta upp till 2 timmar. Vill du fortsätta?";
+
+"yes" = "ja";
+"no" = "nej";
+
+"howToParticipate" = "Hur man deltar";
+
+"description" = "beskrivning";
 
 
 // adbrix

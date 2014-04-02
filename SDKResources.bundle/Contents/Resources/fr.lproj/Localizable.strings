@@ -74,6 +74,11 @@
 "csGuideText" = "Si vous avez des questions, s'il vous plaît laissez ici. En réponse, laissez-moi rapidement.";
 "csNotiText" = "*Les renseignements personnels recueillis (adresse e-mail) est utilisé pour le traitement CS et la résolution de problèmes, et sera supprimé après une période de stockage.";
 
+"inquiry" = "enquête";
+"receiveAReplyEmail" = "Recevoir une réponse e-mail";
+"pleaseEnterYourEmail"= "S'il vous plaît Entrez votre e-mail.";
+
+
 "alertNoEmailMessage" = "S'il vous plaît, entrez votre adresse e-mail pour recevoir des réponses.";
 "alertNoAskMessage" = "S'il vous plaît entrer vos coordonnées.";
 
@@ -108,6 +113,40 @@
 "customerService" = "Service à la clientèle";
 
 "send" = "Envoyer";
+
+"adParticiateButtonText" = "annonces participation";
+"particiateHistoryButtonText" = "Histoire de participation";
+"promotingButtonText" = "Invitez un ami";
+
+"promotingLinkType" = "type de lien";
+"promotingCouponType" = "Type de coupon";
+
+"promotingItemQuantity" = "%@ %@\npar invitation";
+
+"invitedCount" = "Invitez succès : %@ patients";
+"earnedReward" = "Obtenir un total de %@ %@";
+
+"copy" = "copie";
+"viewRanking" = "Voir classement";
+
+"promotingPartipateMethod1" = "1. Dans une variété de façons d'introduire des amis à l'application. Introduction peut être modifié directement utilisé.";
+"promotingPartipateMethod2" = "2. Amis à travers la mise en place de la liaison Installer pour installer l'application, exécutez la\n3. Nombre d'amis pour participer à l'article acheté.";
+
+"promotingCautionMessage" = "Attention! Inviter un ami à vous présenter à l'application, j'ai donc installé les récompenses de service de l'application seront exclus de l'acquisition.";
+
+"textCopied" = "copié";
+
+"inviteCompensation" = "Invitez compensation";
+"rankCompensation" = "Compensation de Rang";
+
+"isOverseaOfferMessage" = "Choix de la publicité la publicité à l'étranger. Si vous avez téléchargé l'application à l'histoire passée de la récompense n'est pas payé. Paiements de récompense sont soumises au réseau, il peut prendre jusqu'à deux heures. Voulez-vous continuer?";
+
+"yes" = "oui";
+"no" = "aucun";
+
+"howToParticipate" = "Comment participer";
+
+"description" = "description";
 
 
 // adbrix

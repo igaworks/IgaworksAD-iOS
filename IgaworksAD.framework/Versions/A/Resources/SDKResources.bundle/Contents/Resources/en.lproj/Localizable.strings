@@ -119,7 +119,7 @@
 "particiateHistoryButtonText" = "History of participation";
 "promotingButtonText" = "Invite a friend";
 
-"promotingLinkType" = "Link type";
+"promotingLinkType" = "Link Type";
 "promotingCouponType" = "Coupon Type";
 
 "promotingItemQuantity" = "%@ %@\nper invite";
@@ -131,7 +131,7 @@
 "viewRanking" = "View rank";
 
 "promotingPartipateMethod1" = "1. In a variety of ways to introduce friends to the app. Introduction can be edited directly used.";
-"promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the \ n3. Number of friends to participate in the purchased item.";
+"promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the\n3. Number of friends to participate in the purchased item.";
 
 "promotingCautionMessage" = "Attention! Invite a friend to introduce you to the app, so I have installed the app service Rewards will be excluded from acquisition.";
 

@@ -75,6 +75,12 @@
 "csGuideText" = "Si usted tiene alguna pregunta, por favor deje aquí. En respuesta, déjeme rápidamente.";
 "csNotiText" = "*Los datos personales recogidos (correo electrónico) se utiliza para el procesamiento de CS y resolución de problemas, y se eliminará después de un período de almacenamiento.";
 
+
+"inquiry" = "investigación";
+"receiveAReplyEmail" = "Recibir una respuesta de correo electrónico";
+"pleaseEnterYourEmail"= "Ingrese su correo electrónico.";
+
+
 "alertNoEmailMessage" = "Introduzca su dirección de correo electrónico para recibir respuestas.";
 "alertNoAskMessage" = "Por favor introduzca sus datos de contacto.";
 
@@ -109,6 +115,40 @@
 "customerService" = "Servicio al cliente";
 
 "send" = "Enviar";
+
+"adParticiateButtonText" = "participación Anuncios";
+"particiateHistoryButtonText" = "Historia de la participación";
+"promotingButtonText" = "Invite a un amigo";
+
+"promotingLinkType" = "Tipo de enlace";
+"promotingCouponType" = "Tipo Cupón";
+
+"promotingItemQuantity" = "%@ %@\npor invitación";
+
+"invitedCount" = "Invite éxito : %@ pacientes";
+"earnedReward" = "Obtener un total de %@ %@";
+
+"copy" = "copia";
+"viewRanking" = "Ver rango";
+
+"promotingPartipateMethod1" = "1. En una variedad de maneras de introducir amigos a la aplicación. Introducción se puede editar utilizar directamente.";
+"promotingPartipateMethod2" = "2. Amigos a través de la introducción del enlace de instalación para instalar la aplicación, ejecute el\n3. Numero de amigos para que participen en el artículo comprado.";
+
+"promotingCautionMessage" = "¡Atención! Invite a un amigo para presentarle a la aplicación, por lo que he instalado las recompensas de servicios de aplicaciones serán excluidos de la adquisición.";
+
+"textCopied" = "copiado";
+
+"inviteCompensation" = "Invite a indemnización";
+"rankCompensation" = "Rango de compensación";
+
+"isOverseaOfferMessage" = "Elección Publicidad publicidad en el extranjero. Si ha descargado la aplicación a la historia pasada de la recompensa no se paga. Pagos de recompensa están sujetos a la red, puede tardar hasta 2 horas. ¿Quieres continuar?";
+
+"yes" = "sí";
+"no" = "no";
+
+"howToParticipate" = "Cómo participar";
+
+"description" = "descripción";
 
 
 // adbrix

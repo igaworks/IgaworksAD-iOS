@@ -77,6 +77,10 @@
 
 "csNotiText" = "*Os dados pessoais recolhidos (e-mail) é usado para o processamento de CS e resolução de problemas, e será apagado após um período de armazenamento.";
 
+"inquiry" = "inquérito";
+"receiveAReplyEmail" = "Receber uma resposta e-mail";
+"pleaseEnterYourEmail"= "Por favor, insira o seu email.";
+
 
 "alertNoEmailMessage" = "Digite seu e-mail para receber as respostas.";
 "alertNoAskMessage" = "Por favor, informe seus dados de contato.";
@@ -112,6 +116,40 @@
 "customerService" = "Atendimento ao cliente";
 
 "send" = "Enviar";
+
+"adParticiateButtonText" = "participação anúncios";
+"particiateHistoryButtonText" = "História da participação";
+"promotingButtonText" = "Convide um amigo";
+
+"promotingLinkType" = "Tipo de Ligação";
+"promotingCouponType" = "Tipo de Cupom";
+
+"promotingItemQuantity" = "%@ %@\npor convite";
+
+"invitedCount" = "Convidar Sucesso : %@ pacientes";
+"earnedReward" = "Obter um total de %@ %@";
+
+"copy" = "cópia";
+"viewRanking" = "Ver classificação";
+
+"promotingPartipateMethod1" = "1. Em uma variedade de maneiras de introduzir amigos para o app. Introdução pode ser editada directamente utilizado.";
+"promotingPartipateMethod2" = "2. Amigos através da introdução do link Install para instalar o aplicativo, execute o \n3. Número de amigos para participar do item comprado.";
+
+"promotingCautionMessage" = "Atenção! Convide um amigo para apresentá-lo ao aplicativo, para que eu tenha instalado as recompensas de aplicativo será excluído da aquisição.";
+
+"textCopied" = "copiado";
+
+"inviteCompensation" = "Convidar compensação";
+"rankCompensation" = "Posição compensação";
+
+"isOverseaOfferMessage" = "Publicidade exterior escolha Advertising. Se você tiver baixado o aplicativo para a história passada de recompensa não é paga. O pagamento do prêmio estão sujeitos à rede, pode demorar até 2 horas. Você quer continuar?";
+
+"yes" = "sim";
+"no" = "não";
+
+"howToParticipate" = "Como participar";
+
+"description" = "descrição";
 
 
 
