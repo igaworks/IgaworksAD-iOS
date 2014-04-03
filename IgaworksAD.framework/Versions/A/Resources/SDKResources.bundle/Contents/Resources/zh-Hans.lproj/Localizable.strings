@@ -120,39 +120,39 @@
 "send" = "发送";
 
 
-"adParticiateButtonText" = "Ads participation";
-"particiateHistoryButtonText" = "History of participation";
-"promotingButtonText" = "Invite a friend";
+"adParticiateButtonText" = "广告参与";
+"particiateHistoryButtonText" = "参与历史";
+"promotingButtonText" = "邀请朋友";
 
-"promotingLinkType" = "Link Type";
-"promotingCouponType" = "Coupon Type";
+"promotingLinkType" = "链接类型";
+"promotingCouponType" = "优惠券类型";
 
-"promotingItemQuantity" = "%@ %@\nper invite";
+"promotingItemQuantity" = "每邀请%@%@";
 
-"invitedCount" = "Invite Success : %@ patients";
-"earnedReward" = "Obtain a total of %@ %@";
+"invitedCount" = "邀请成功 : %@ 例";
+"earnedReward" = "得到总共 %@ %@";
 
-"copy" = "Copy";
-"viewRanking" = "View rank";
+"copy" = "复制";
+"viewRanking" = "查看排名";
 
-"promotingPartipateMethod1" = "1. In a variety of ways to introduce friends to the app. Introduction can be edited directly used.";
-"promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the\n3. Number of friends to participate in the purchased item.";
+"promotingPartipateMethod1" = "1. 在各种不同的方式来介绍朋友来的应用程序。介绍可以编辑直接使用。";
+"promotingPartipateMethod2" = "2. 通过引进安装链接的朋友来安装应用程序，运行\n3. 朋友参与购买的物品数量。";
 
-"promotingCautionMessage" = "Attention! Invite a friend to introduce you to the app, so I have installed the app service Rewards will be excluded from acquisition.";
+"promotingCautionMessage" = "注意！邀请朋友给你介绍的应用程序，所以我已经安装了应用程序服务奖励将被排除在收购。";
 
-"textCopied" = "Copied";
+"textCopied" = "复制";
 
-"inviteCompensation" = "Invite compensation";
-"rankCompensation" = "Rank compensation";
+"inviteCompensation" = "邀请补偿";
+"rankCompensation" = "等级补偿";
 
-"isOverseaOfferMessage" = "Advertising choice overseas advertising. If you have downloaded the app to the past history of reward is not paid. Reward payments are subject to the network, it may take up to 2 hours. Do you want to continue?";
+"isOverseaOfferMessage" = "广告选择海外广告。如果您已经下载了应用程序，以奖励过去的历史没有支付。奖励费的规定到网络，它可能需要长达2个小时。你要继续吗？";
 
-"yes" = "yes";
-"no" = "no";
+"yes" = "是的";
+"no" = "无";
 
-"howToParticipate" = "How to participate";
+"howToParticipate" = "如何参与";
 
-"description" = "description";
+"description" = "描述";
 
 
 

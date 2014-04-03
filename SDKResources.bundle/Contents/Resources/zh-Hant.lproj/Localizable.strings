@@ -79,6 +79,11 @@
 "csNotiText" = "*所收集的個人信息（電子郵件地址）被用於CS處理和解決問題的能力，並在一段存儲後會被刪除。";
 
 
+"inquiry" = "查詢";
+"receiveAReplyEmail" = "收到回复電子郵件";
+"pleaseEnterYourEmail"= "請輸入您的電子郵件地址。";
+
+
 "alertNoEmailMessage" = "請輸入您的電子郵件地址來接收回复。";
 "alertNoAskMessage" = "請輸入您的聯繫方式。";
 
@@ -114,6 +119,39 @@
 
 "send" = "發送";
 
+"adParticiateButtonText" = "廣告參與";
+"particiateHistoryButtonText" = "參與歷史";
+"promotingButtonText" = "邀請朋友";
+
+"promotingLinkType" = "鏈接類型";
+"promotingCouponType" = "優惠券類型";
+
+"promotingItemQuantity" = "%@ %@\n每邀請";
+
+"invitedCount" = "邀請成功 : %@ 例";
+"earnedReward" = "得到總共 %@ %@";
+
+"copy" = "複製";
+"viewRanking" = "查看排名";
+
+"promotingPartipateMethod1" = "1. 在各種不同的方式來介紹朋友來的應用程序。介紹可以編輯直接使用。";
+"promotingPartipateMethod2" = "2. 通過引進安裝鏈接的朋友來安裝應用程序，運行\n3. 朋友參與購買的物品數量。";
+
+"promotingCautionMessage" = "注意！邀請朋友給你介紹的應用程序，所以我已經安裝了應用程序服務獎勵將被排除在收購。";
+
+"textCopied" = "複製";
+
+"inviteCompensation" = "邀請補償";
+"rankCompensation" = "等級補償";
+
+"isOverseaOfferMessage" = "廣告選擇海外廣告。如果您已經下載了應用程序，以獎勵過去的歷史沒有支付。獎勵費的規定到網絡，它可能需要長達2個小時。你要繼續嗎？";
+
+"yes" = "是的";
+"no" = "無";
+
+"howToParticipate" = "如何參與";
+
+"description" = "描述";
 
 
 // adbrix
