@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.platform = :ios, '6.0'
   s.author       = { "wonje,song" => "wonje@igaworks.com" }
-  s.source       = { :git => "https://github.com/igaworks/IgaworksAD-iOS.git", :branch => 'master' }
+  s.source       = { :git => "https://github.com/igaworks/IgaworksAD-iOS.git", :tag => "#{s.version}" }
   s.resources = "SDKResources.bundle"
   s.ios.vendored_frameworks = 'IgaworksAD.framework'
   s.frameworks = 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreData', 'QuartzCore', 'CoreTelephony', 'AdSupport', 'Security', 'MessageUI', 'ImageIO', 'CoreText', 'MobileCoreServices'
