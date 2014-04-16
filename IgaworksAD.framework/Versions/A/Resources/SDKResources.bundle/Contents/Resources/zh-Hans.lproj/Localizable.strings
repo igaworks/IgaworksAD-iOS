@@ -154,6 +154,8 @@
 
 "description" = "描述";
 
+"canNotParticipateInThisCampaignMessage" = "不能参加本次活动。";
+
 
 
 // adbrix

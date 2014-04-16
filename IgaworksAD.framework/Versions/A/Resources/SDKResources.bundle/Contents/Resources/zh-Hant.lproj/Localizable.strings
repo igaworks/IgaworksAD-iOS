@@ -153,6 +153,7 @@
 
 "description" = "描述";
 
+"canNotParticipateInThisCampaignMessage" = "不能參加本次活動。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

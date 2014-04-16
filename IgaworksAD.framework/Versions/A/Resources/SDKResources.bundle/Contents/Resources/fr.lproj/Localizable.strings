@@ -148,6 +148,8 @@
 
 "description" = "description";
 
+"canNotParticipateInThisCampaignMessage" = "Vous ne pouvez pas participer à cette campagne.";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

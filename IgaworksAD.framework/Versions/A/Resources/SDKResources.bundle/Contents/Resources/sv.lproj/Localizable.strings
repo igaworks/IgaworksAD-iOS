@@ -151,6 +151,8 @@
 
 "description" = "beskrivning";
 
+"canNotParticipateInThisCampaignMessage" = "Kan inte delta i denna kampanj.";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
