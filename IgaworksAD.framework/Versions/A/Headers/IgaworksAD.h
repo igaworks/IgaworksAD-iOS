@@ -103,14 +103,6 @@ typedef enum _IgaworksADRewardServerType
 
 /*!
  @abstract
- 사용자의 demo정보를 전송하고자 할때 호출한다.
- 
- @param userDemoInfo              user demo info.
- */
-+ (void)setDemographic:(NSDictionary *)userDemoInfo;
-
-/*!
- @abstract
  사용자의 나이 정보를 전송하고자 할때 호출한다.
  
  @param age              age.
