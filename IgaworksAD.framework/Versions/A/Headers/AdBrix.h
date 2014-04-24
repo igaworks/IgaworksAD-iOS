@@ -57,6 +57,15 @@
 
 /*!
  @abstract
+ buy의 Activity에 해당할때 호출한다.
+ 
+ @param activityName              activity name.
+ @param param                     parameter.
+ */
++ (void)buy:(NSString *)activityName param:(NSString *)param;
+
+/*!
+ @abstract
  App.이 최초 실행될때 시작되었음을 서버로 전송하기 위해 호출한다.
  한번만 호출한다.
  
