@@ -125,6 +125,17 @@ typedef enum _IgaworksADRewardServerType
  */
 + (void)setUserId:(NSString *)userId;
 
+/*!
+ @abstract
+ IGAWorks에 리워드 지급 확정 처리를 요청한다.
+ 
+ @discussion
+ 이곳에서 사용자에게 리워드 지급 처리를 한다. 지급 처리가 완료 되었다면, 해당 메소드를 호출하여 IGAWorks에 리워드 지급 확정 처리를 요청한다.
+ 
+ @param rewardKey            리워드 식별키
+ */
++ (void)didGiveRewardItemWithRewardKey:(NSString *)rewardKey;
+
 @end
 
 @protocol IgaworksADClientRewardDelegate <NSObject>
@@ -138,7 +149,7 @@ typedef enum _IgaworksADRewardServerType
  @discussion
  사용자에게 아이템을 지급하고, 지급이 완료되면 didGiveRewardItemWithRewardKey 메소드를 호출하여 지급 완료 확정 처리를 한다.
  */
-- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message itemName:(NSString *)itemName itemKey:(NSString*)itemKey campaignName:(NSString *)campaignName campaignKey:(NSString*)campaignKey rewardKey:(NSString *)rewardkey quantity:(NSUInteger)quantity;
+- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message itemName:(NSString *)itemName itemKey:(NSString *)itemKey campaignName:(NSString *)campaignName campaignKey:(NSString *)campaignKey rewardKey:(NSString *)rewardkey quantity:(NSUInteger)quantity;
 
 
 /*!
@@ -148,7 +159,7 @@ typedef enum _IgaworksADRewardServerType
  @discussion
  사용자에게 아이템을 지급하고, 지급이 완료되면 didGiveRewardItemWithRewardKey 메소드를 호출하여 지급 완료 확정 처리를 한다.
  */
-- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message items:(NSArray *)itemes;
+- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message items:(NSArray *)items;
 
 /*!
  @abstract
