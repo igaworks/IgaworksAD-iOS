@@ -124,7 +124,7 @@
 "promotingLinkType" = "Tipo de Ligação";
 "promotingCouponType" = "Tipo de Cupom";
 
-"promotingItemQuantity" = "%@ %@\npor convite";
+"promotingItemQuantity" = "%@\npor convite";
 
 "invitedCount" = "Convidar Sucesso : %@ pacientes";
 "earnedReward" = "Obter um total de %@ %@";

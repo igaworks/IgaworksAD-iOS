@@ -124,7 +124,7 @@
 "promotingLinkType" = "Länk Typ";
 "promotingCouponType" = "Kupong Typ";
 
-"promotingItemQuantity" = "%@ %@\nper inbjudningskort";
+"promotingItemQuantity" = "%@\nper inbjudningskort";
 
 "invitedCount" = "inviterar Framgång : %@ patienter";
 "earnedReward" = "Skaffa totalt of %@ %@";

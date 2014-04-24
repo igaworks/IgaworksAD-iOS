@@ -127,7 +127,7 @@
 "promotingLinkType" = "链接类型";
 "promotingCouponType" = "优惠券类型";
 
-"promotingItemQuantity" = "每邀请%@%@";
+"promotingItemQuantity" = "每邀请\n%@";
 
 "invitedCount" = "邀请成功 : %@ 例";
 "earnedReward" = "得到总共 %@ %@";

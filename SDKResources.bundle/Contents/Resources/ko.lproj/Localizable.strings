@@ -125,7 +125,7 @@
 "promotingLinkType" = "링크형";
 "promotingCouponType" = "쿠폰형";
 
-"promotingItemQuantity" = "초대 건당\n%@ %@";
+"promotingItemQuantity" = "초대 건당\n%@";
 
 "invitedCount" = "초대성공 : %@명";
 "earnedReward" = "총 %@ %@ 획득";
