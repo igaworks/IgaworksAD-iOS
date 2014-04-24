@@ -126,7 +126,7 @@
 "promotingLinkType" = "鏈接類型";
 "promotingCouponType" = "優惠券類型";
 
-"promotingItemQuantity" = "%@ %@\n每邀請";
+"promotingItemQuantity" = "每邀請\n%@";
 
 "invitedCount" = "邀請成功 : %@ 例";
 "earnedReward" = "得到總共 %@ %@";

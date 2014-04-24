@@ -123,7 +123,7 @@
 "promotingLinkType" = "Tipo de enlace";
 "promotingCouponType" = "Tipo Cupón";
 
-"promotingItemQuantity" = "%@ %@\npor invitación";
+"promotingItemQuantity" = "%@\npor invitación";
 
 "invitedCount" = "Invite éxito : %@ pacientes";
 "earnedReward" = "Obtener un total de %@ %@";
