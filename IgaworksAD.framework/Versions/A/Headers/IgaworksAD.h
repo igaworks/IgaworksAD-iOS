@@ -27,29 +27,14 @@ typedef enum _IgaworksADLogLevel
     IgaworksADLogTrace
 } IgaworksADLogLevel;
 
-/*!
- @typedef RewardServerType enum
- 
- @abstract reward를 사용자에게 지급하는 방식을 설정합니다.
- 
- @discussion
- */
-typedef enum _IgaworksADRewardServerType
-{
-    /*! 고객의 자체 서버를 사용하여, 콜백 URL로 관리  */
-    IgaworksADRewardServerTypeServer,
-    /*! 자체 서버가 없이, AdPopcorn 서버로 관리  */
-    IgaworksADRewardServerTypeClient,
-    /*! 자체 reward가 없이, AdPopcorn point를 reward로 사용하는 경우 */
-} IgaworksADRewardServerType;
- 
+
 
 @interface IgaworksAD : NSObject
 
 @property (nonatomic, readonly) NSString *appKey;
 @property (nonatomic, readonly) NSString *hashKey;
 @property (nonatomic, copy) NSString *userId;
-@property (nonatomic, readonly) IgaworksADRewardServerType rewardServerType;
+@property (nonatomic, readonly) BOOL isUseIgaworksRewardServer;
 
 @property (nonatomic, unsafe_unretained) id<IgaworksADClientRewardDelegate> clientRewardDelegate;
 
@@ -64,9 +49,9 @@ typedef enum _IgaworksADRewardServerType
  
  @param appkey              app. 등록 후, IGAWorks로부터 발급된 키.
  @param hashkey             app. 등록 후 발급된 키.
- @param rewardServerType    reward를 사용자에게 지급하는 방식
+ @param isUseIgaworksRewardServer    igaworks에서 제공하는 reward server를 사용할것인지 여부.
  */
-+ (id)igaworksADWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey rewardServerType:(IgaworksADRewardServerType)rewardServerType;
++ (id)igaworksADWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
 
 
 /*!
@@ -78,9 +63,9 @@ typedef enum _IgaworksADRewardServerType
  
  @param appkey              app. 등록 후, IGAWorks로부터 발급된 키.
  @param hashkey             app. 등록 후 발급된 키.
- @param rewardServerType    reward를 사용자에게 지급하는 방식
+ @param isUseIgaworksRewardServer    igaworks에서 제공하는 reward server를 사용할것인지 여부.
  */
-- (id)initWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey rewardServerType:(IgaworksADRewardServerType)rewardServerType;
+- (id)initWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
 
 
 
