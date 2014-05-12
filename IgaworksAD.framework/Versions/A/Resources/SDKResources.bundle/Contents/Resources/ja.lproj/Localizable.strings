@@ -13,19 +13,19 @@
 "max" = "最大";
 
 /* Title used for alert view title */
-"alertViewTitle" = "アドワーズポップコーン";
+"alertViewTitle" = "アドポップコーン";
 
 /* Message used for alert view message for general error */
-"alertViewGeneralErrorMessage" = "広告要求はスムーズではありません。\nしばらくすると再び利用お願い致します。";
+"alertViewGeneralErrorMessage" = "広告要請がスムーズではありません。\nしばらく後にまたご利用お願い致します。";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "利用可能なキャンペーンはありません。";
+"alertViewNoCampaignErrorMessage" = "該当キャンペーンがありません。";
 
 /* Message used for alert view message for already participated campaign error */
-"alertViewAlreadyParticipatedCampaignErrorMessage" = "既にこのキャンペーンに参加しました。";
+"alertViewAlreadyParticipatedCampaignErrorMessage" = "既に参加したキャンペーンです。";
 
 /* Message used for alert view message for mediakeys were incorrect error */
-"alertViewMediaKeyIncorrectErrorMessage" = "彼のメディアキーが間違っていました。";
+"alertViewMediaKeyIncorrectErrorMessage" = "メディアキーが間違っています。";
 
 /* Title used for alert view confirm button */
 "confirm" = "確認";
@@ -41,59 +41,59 @@
 
 "alerViewAlreadyInstalledAppMessage" = "すでにアプリケーションインストールされています。そして、参加することはできません。ご確認をお願い致します。";
 
-"alerViewNotYetInstalledMessage" = "アプリは、まだインストールされていません。あなたは、セットアップ画面に移動しますか？";
+"alerViewNotYetInstalledMessage" = "まだインストールされていません。インストール画面に移動しますか？";
 "alerViewNotOpenToInstallAppURLMessage" = "App Storeは移動できません。カスタマーサービスまでご連絡ください。";
 
-"checkParticipate" = "参加を確認する";
-"participating" = "に参加して..";
-"checkingScheme" = "スキーマの確認..";
-"checkingIsFavorite" = "同様のチェック..";
+"checkParticipate" = "参加確認";
+"participating" = "参加中";
+"checkingScheme" = "スキーム確認中";
+"checkingIsFavorite" = "いいね確認中";
 
-"alreadyfavorited" = "すでにファンです！残念ながら、ファンの同一性は、イベントに参加することが既に可能である。";
+"alreadyfavorited" = "既にいいねしました！残念ながら今回のイベントに参加できません。";
 
-"rewardComplete" = "こちらの商品は正常に支払い要求している。支払いは、ネットワーク項目の対象となり、最大5分かかる場合があります。";
+"rewardComplete" = "正常的にアイテム発行要請を完了しました。ネットワーク事情によってアイテム発行は最大５分程かかる場合がありません。";
 
-"notYetisFavoriteComplete" = "それでも好きでは完全ではありません。ご確認をお願い致します。";
+"notYetisFavoriteComplete" = "まだいいね！しておりません。ご確認お願い致します。";
 
 "participate" = "参加する";
 "viewDetail" = "詳細はこちら";
 
-"rewardConditionMessageCPIIns" = "条件を稼ぐ\nインストール後、インストールを確認してください。";
+"rewardConditionMessageCPIIns" = "獲得条件\nインストール後、インストール確認してください。";
 "wrongURLAddress" = "無効なURLアドレス。カスタマーサービスまでご連絡ください。";
 
-"checkInstall" = "インストールの確認";
-"checkParticipate" = "参加を確認する";
+"checkInstall" = "インストール確認";
+"checkParticipate" = "参加確認";
 
-"copyRecommendCode" = "推奨されるコードがコピーされました。";
+"copyRecommendCode" = "推奨コードがコピーされました。";
 
-"rewardWaiting" = "保留中のお支払い";
-"rewardCompleted" = "完済する";
+"rewardWaiting" = "発行待機中";
+"rewardCompleted" = "発行完了";
 
-"participateListTableHeaderText" = "完全な補償は、ネットワークに、それは2時間ほどかかる場合があり、完了状況の参加により広告を支払った。";
-"csGuideText" = "ご不明な点がございましたら、こちらを残してください。その答えは、私にすぐにしましょう​​。";
-"csNotiText" = "*収集した個人情報（電子メールアドレス）は、CS処理や問題解決のために使用され、は、保存期間後に削除されます。";
+"participateListTableHeaderText" = "アイテム発行はネットワーク状態によって最大２時間かかる場合もあります。";
+"csGuideText" = "ご不明な点がございましたら、こちらコメントお願い致します。直ぐにお返事させていただきます。";
+"csNotiText" = "*収集した個人情報（メールアドレス）は、CS処理や問題解決のために使用され、保存期間後に削除されます。";
 
 "inquiry" = "お問い合わせ";
-"receiveAReplyEmail" = "返信メールを受信";
+"receiveAReplyEmail" = "返信先メールアドレス";
 "pleaseEnterYourEmail"= "メールアドレスを入力してください。";
 
-"alertNoEmailMessage" = "返信を受け取るメールアドレスを入力してください。";
-"alertNoAskMessage" = "あなたの連絡先の詳細を入力してください。";
+"alertNoEmailMessage" = "返信先メールアドレスを入力してください。";
+"alertNoAskMessage" = "お問い合わせ内容入力してください。";
 
-"alertCSAddedMessage" = "連絡先情報が受信されている。";
+"alertCSAddedMessage" = "お問い合わせが受信されました。";
 
 "alertSendMailFailMessage" = "メール配信に失敗しました。";
 
 "cancel" = "キャンセル";
-"select" = "選択する";
+"select" = "選択";
 
-"wrongEmailFormatMessage" = "電子メールの形式が正しくありません。チェックしてください、再入力してください。";
+"wrongEmailFormatMessage" = "メール形式が正しくありません。ご確認お願い致します。";
 
 "csTypeEmailSubject" = "【お問い合わせ先 AdPopcorn]%@";
 
-"csTypeEmailMessageBody" = "返信メールアドレスを受信 : %@\nお問い合わせ : %@";
+"csTypeEmailMessageBody" = "返信先メールアドレス : %@\nお問い合わせ : %@";
 
-"couponCopyGuide" = "を押して、クーポンコードを保持するには、コピーされます。";
+"couponCopyGuide" = "クーポンコードを長く押すと、コピーされます。";
 
 "noCouponListMessage" = "クーポンが存在しません。";
 
@@ -101,44 +101,44 @@
 
 "noPopiconFunctionNotiMessage" = "Popicon機能はもはやサポートされていません。 offwall機能を使用してください。";
 
-"notSupportThisFunctionMessage" = "この機能は、もはやサポートされていません。";
+"notSupportThisFunctionMessage" = "該当機能はサポートされています。";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "あなたが連絡するイベントを選択してください。";
+"pleaseSelectTheEventYouWantToContactTitle" = "お問い合わせイベントを選択してください。";
 
-"couponList" = "クーポン一覧";
+"couponList" = "クーポンリスト";
 
-"customerService" = "顧客サービス";
+"customerService" = "カスタマサポートセンター";
 
 "send" = "送信";
 
 
-"adParticiateButtonText" = "広告への参加";
-"particiateHistoryButtonText" = "参加の歴史";
-"promotingButtonText" = "友人を招待";
+"adParticiateButtonText" = "広告参加";
+"particiateHistoryButtonText" = "参加履歴";
+"promotingButtonText" = "友達招待";
 
 "promotingLinkType" = "リンク型";
-"promotingCouponType" = "クーポンの種類";
+"promotingCouponType" = "クーポン型";
 
-"promotingItemQuantity" = "招待につき\n%@";
+"promotingItemQuantity" = "招待につき\n%@%@";
 
-"invitedCount" = "成功招待：患者%@を";
-"earnedReward" = "%@%@の合計を取得";
+"invitedCount" = "招待成功：%@名";
+"earnedReward" = "総 %@ %@ 獲得";
 
 "copy" = "コピー";
-"viewRanking" = "ビューランク";
+"viewRanking" = "ランクをみる";
 
-"promotingPartipateMethod1" = "1。アプリに友人を紹介するさまざまな方法で。はじめに直接使用編集することができる。";
-"promotingPartipateMethod2" = "2。インストールリンクの導入による友人がアプリをインストールするためには、\n3。購入したアイテムに参加する友人の数。";
+"promotingPartipateMethod1" = "１．多様な方法で友達をアプリを招待します。招待コメントをご自由に編集して使用できます。";
+"promotingPartipateMethod2" = "２．招待コメントのインストールリンクを通じて友達がアプリをインストールすると\n3.参加した友達の数によっていアイテム獲得することができます。";
 
-"promotingCautionMessage" = "ご注意！アプリをご紹介し友人を招待して下さい、私はアプリのサービス報酬をインストールして、取得対象から除外されます。";
+"promotingCautionMessage" = "ご注意！友達招待はアプリを紹介するためのサービスになりますので本人のインストールは対象外になります。";
 
-"textCopied" = "コピー";
+"textCopied" = "コピーされました。";
 
-"inviteCompensation" = "補償を招待";
-"rankCompensation" = "ランク補償";
+"inviteCompensation" = "招待リワード";
+"rankCompensation" = "ランクリワード";
 
-"isOverseaOfferMessage" = "広告の選択、海外の広告。あなたは報酬の過去の歴史をアプリにダウンロードした場合に支払われていません。報酬の支払いは、ネットワークの対象となり、それが2時間かかることがあります。続行しますか?";
+"isOverseaOfferMessage" = "選択した広告は”海外広告”なので、参加リワード対象は最初一回のみになります。リワード獲得はネットワーク事情によって最大２時間かかる場合もあります。続いて進めますか？";
 
 "yes" = "はい";
 "no" = "いいえ";
@@ -147,11 +147,11 @@
 
 "description" = "説明";
 
-"canNotParticipateInThisCampaignMessage" = "このキャンペーンに参加することはできません。";
+"canNotParticipateInThisCampaignMessage" = "参加できるキャンペーンがありません。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";
-"acquisition" = "買収";
-"alerViewCantParticipateEventMessage" = "イベントに参加することはできません。";
-"alerViewCompletedParticipateEventMessage" = "イベントへの参加が完了します。";
+"acquisition" = "獲得";
+"alerViewCantParticipateEventMessage" = "このキャンペーンに参加することはできません。";
+"alerViewCompletedParticipateEventMessage" = "既に参加完了したキャンペーンです。";
