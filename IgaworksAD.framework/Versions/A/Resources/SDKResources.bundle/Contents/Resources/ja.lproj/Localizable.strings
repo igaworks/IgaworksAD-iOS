@@ -120,7 +120,7 @@
 "promotingLinkType" = "リンク型";
 "promotingCouponType" = "クーポン型";
 
-"promotingItemQuantity" = "招待につき\n%@%@";
+"promotingItemQuantity" = "招待につき\n%@";
 
 "invitedCount" = "招待成功：%@名";
 "earnedReward" = "総 %@ %@ 獲得";
