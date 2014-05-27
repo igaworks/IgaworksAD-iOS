@@ -156,7 +156,7 @@
 
 "canNotParticipateInThisCampaignMessage" = "不能参加本次活动。";
 
-
+"deviceNotConfiguredToSendSMSMessage" = "设备未配置为发送短信。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

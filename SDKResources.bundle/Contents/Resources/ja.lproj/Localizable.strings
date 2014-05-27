@@ -149,6 +149,8 @@
 
 "canNotParticipateInThisCampaignMessage" = "参加できるキャンペーンがありません。";
 
+"deviceNotConfiguredToSendSMSMessage" = "デバイスは、SMSを送信するように構成されていません。";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";

@@ -153,6 +153,8 @@
 
 "canNotParticipateInThisCampaignMessage" = "Não pode participar nesta campanha.";
 
+"deviceNotConfiguredToSendSMSMessage" = "O dispositivo não configurado para enviar SMS.";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "instalar";
