@@ -158,8 +158,6 @@
 
 "deviceNotConfiguredToSendSMSMessage" = "设备未配置为发送短信。";
 
-"shareNotiMessage" = "消息被复制。分享在%@和要求。";
-
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安装";

@@ -153,8 +153,6 @@
 
 "deviceNotConfiguredToSendSMSMessage" = "Device not configured to send SMS.";
 
-"shareNotiMessage" = "Message is copied. Share on %@ and ask.";
-
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "install";
