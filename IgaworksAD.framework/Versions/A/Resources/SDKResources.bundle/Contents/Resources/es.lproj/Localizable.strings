@@ -154,6 +154,7 @@
 
 "deviceNotConfiguredToSendSMSMessage" = "El dispositivo no configurado para enviar SMS.";
 
+"shareNotiMessage" = "Mensaje se copia. Comparte en %@ y preguntar.";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
