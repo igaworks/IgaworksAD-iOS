@@ -160,3 +160,6 @@
 "acquisition" = "Erwerb";
 "alerViewCantParticipateEventMessage" = "Kann nicht an Veranstaltungen teilzunehmen.";
 "alerViewCompletedParticipateEventMessage" = "Die Teilnahme an der Veranstaltung ist abgeschlossen.";
+
+// for anypang2
+"closeConfirmMessage" = "Um das Pop-up schließen ist wirklich ein Ereignis, bitte?\nDer Schwimmer ist nicht Pop-Tages-Veranstaltung.";

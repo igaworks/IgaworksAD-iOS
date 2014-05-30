@@ -161,3 +161,6 @@
 "acquisition" = "adquisición";
 "alerViewCantParticipateEventMessage" = "No se puede participar en los eventos.";
 "alerViewCompletedParticipateEventMessage" = "Se completa participación en el evento.";
+
+// for anypang2
+"closeConfirmMessage" = "Para cerrar el pop-up es realmente un evento, por favor?\nEl flotador no es pop-día del evento.";

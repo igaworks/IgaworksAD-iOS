@@ -162,3 +162,6 @@
 "acquisition" = "förvärv";
 "alerViewCantParticipateEventMessage" = "Kan inte delta i evenemang.";
 "alerViewCompletedParticipateEventMessage" = "Deltagande i händelsen är avslutad.";
+
+// for anypang2
+"closeConfirmMessage" = "För att stänga pop-up är verkligen en händelse, tack?\nFlottören är inte pop-dagars evenemang.";

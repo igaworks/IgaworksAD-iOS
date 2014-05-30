@@ -163,3 +163,6 @@
 "acquisition" = "獲得";
 "alerViewCantParticipateEventMessage" = "不能參加活動。";
 "alerViewCompletedParticipateEventMessage" = "參與事件完成。";
+
+// for anypang2
+"closeConfirmMessage" = "要關閉彈出實在是一個事件，好嗎？\n浮動是不會彈出兩天的活動。";

@@ -159,3 +159,6 @@
 "acquisition" = "획득";
 "alerViewCantParticipateEventMessage" = "참여할 수 없는 이벤트입니다.";
 "alerViewCompletedParticipateEventMessage" = "참여 완료된 이벤트입니다.";
+
+// for anypang2
+"closeConfirmMessage" = "정말로 이벤트 팝업을 닫으시겠어요?\n오늘 하루는 이벤트 팝업이\n 뜨지 않습니다.";
