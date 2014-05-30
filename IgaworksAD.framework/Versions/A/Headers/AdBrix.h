@@ -76,6 +76,12 @@
  */
 + (void)start;
 
+/*!
+ @abstract
+ 쿠폰 이벤트를 노출합니다.
+ 
+ @param parentViewController              노출시키고자 하는 view controller
+ */
 + (void)showRealRewardNotice:(UIViewController *)parentViewController;
 
 @end
