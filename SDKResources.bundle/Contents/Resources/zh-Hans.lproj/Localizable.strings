@@ -127,7 +127,7 @@
 "promotingLinkType" = "链接类型";
 "promotingCouponType" = "优惠券类型";
 
-"promotingItemQuantity" = "每邀请\n%@";
+"promotingItemQuantity" = "每邀请%@%@";
 
 "invitedCount" = "邀请成功 : %@ 例";
 "earnedReward" = "得到总共 %@ %@";
@@ -154,9 +154,7 @@
 
 "description" = "描述";
 
-"canNotParticipateInThisCampaignMessage" = "不能参加本次活动。";
 
-"deviceNotConfiguredToSendSMSMessage" = "设备未配置为发送短信。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -164,6 +162,3 @@
 "acquisition" = "获得";
 "alerViewCantParticipateEventMessage" = "不能参加活动。";
 "alerViewCompletedParticipateEventMessage" = "参与事件完成。";
-
-// for anypang2
-"closeConfirmMessage" = "要关闭弹出实在是一个事件，好吗？\n浮动是不会弹出两天的活动。";

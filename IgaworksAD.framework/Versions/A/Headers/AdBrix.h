@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
 
 @interface AdBrix : NSObject
 
@@ -75,13 +74,5 @@
  Unity plugin의 경우 traceWithAppKey:andHashKey: 메소드 호출 후에, start 메소드를 호출한다.
  */
 + (void)start;
-
-/*!
- @abstract
- 쿠폰 이벤트를 노출합니다.
- 
- @param parentViewController              노출시키고자 하는 view controller
- */
-+ (void)showRealRewardNotice:(UIViewController *)parentViewController;
 
 @end

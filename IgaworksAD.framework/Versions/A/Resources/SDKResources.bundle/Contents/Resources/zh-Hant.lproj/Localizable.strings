@@ -126,7 +126,7 @@
 "promotingLinkType" = "鏈接類型";
 "promotingCouponType" = "優惠券類型";
 
-"promotingItemQuantity" = "每邀請\n%@";
+"promotingItemQuantity" = "%@ %@\n每邀請";
 
 "invitedCount" = "邀請成功 : %@ 例";
 "earnedReward" = "得到總共 %@ %@";
@@ -153,9 +153,6 @@
 
 "description" = "描述";
 
-"canNotParticipateInThisCampaignMessage" = "不能參加本次活動。";
-
-"deviceNotConfiguredToSendSMSMessage" = "設備未配置為發送短信。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -163,6 +160,3 @@
 "acquisition" = "獲得";
 "alerViewCantParticipateEventMessage" = "不能參加活動。";
 "alerViewCompletedParticipateEventMessage" = "參與事件完成。";
-
-// for anypang2
-"closeConfirmMessage" = "要關閉彈出實在是一個事件，好嗎？\n浮動是不會彈出兩天的活動。";

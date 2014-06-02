@@ -122,7 +122,7 @@
 "promotingLinkType" = "Link-Typ";
 "promotingCouponType" = "Kupon-Typ";
 
-"promotingItemQuantity" = "%@\npro Einladung";
+"promotingItemQuantity" = "%@ %@\npro Einladung";
 
 "invitedCount" = "Einladen Erfolg : %@ Patienten";
 "earnedReward" = "Besorgen Sie sich eine insgesamt %@ %@";
@@ -149,10 +149,6 @@
 
 "description" = "Beschreibung";
 
-"canNotParticipateInThisCampaignMessage" = "Kann nicht in dieser Kampagne zu beteiligen.";
-
-"deviceNotConfiguredToSendSMSMessage" = "Gerät nicht konfiguriert, um SMS zu senden.";
-
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -160,6 +156,3 @@
 "acquisition" = "Erwerb";
 "alerViewCantParticipateEventMessage" = "Kann nicht an Veranstaltungen teilzunehmen.";
 "alerViewCompletedParticipateEventMessage" = "Die Teilnahme an der Veranstaltung ist abgeschlossen.";
-
-// for anypang2
-"closeConfirmMessage" = "Um das Pop-up schließen ist wirklich ein Ereignis, bitte?\nDer Schwimmer ist nicht Pop-Tages-Veranstaltung.";

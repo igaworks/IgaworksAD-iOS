@@ -1,0 +1,44 @@
+//
+//  DAPartialInterstitialAd.h
+//  IgaworksAd
+//
+//  Created by wonje,song on 2014. 4. 22..
+//  Copyright (c) 2014년 wonje,song. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "DAService.h"
+
+#import "DAError.h"
+
+@protocol DAPartialInterstitialAdDelegate;
+
+@interface DAPartialInterstitialAd : NSObject
+
+
+@property (nonatomic, unsafe_unretained) id<DAPartialInterstitialAdDelegate> delegate;
+
+
+- (id)initWithKey:(NSString *)mediaKey age:(NSUInteger)age gender:(DAGender)gender;
+
+
+- (BOOL)presentFromViewController:(UIViewController *)viewController;
+
+
+
+@end
+
+@protocol DAPartialInterstitialAdDelegate <NSObject>
+
+@optional
+- (void)DAPartialInterstitialAdDidLoad:(DAPartialInterstitialAd *)partialInterstitialAd;
+
+//- (void)daInterstitialAdDidLoad;
+
+- (void)DAPartialInterstitialAd:(DAPartialInterstitialAd *)partialInterstitialAd didFailToReceiveAdWithError:(DAError *)error;
+
+- (void)DAPartialInterstitialAdWillLeaveApplication:(DAPartialInterstitialAd *)partialInterstitialAd;
+
+@end

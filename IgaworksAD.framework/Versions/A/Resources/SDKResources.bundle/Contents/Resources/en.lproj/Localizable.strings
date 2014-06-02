@@ -122,7 +122,7 @@
 "promotingLinkType" = "Link Type";
 "promotingCouponType" = "Coupon Type";
 
-"promotingItemQuantity" = "%@\nper invite";
+"promotingItemQuantity" = "%@ %@\nper invite";
 
 "invitedCount" = "Invite Success : %@ patients";
 "earnedReward" = "Obtain a total of %@ %@";
@@ -149,16 +149,9 @@
 
 "description" = "description";
 
-"canNotParticipateInThisCampaignMessage" = "Can not participate in this campaign.";
-
-"deviceNotConfiguredToSendSMSMessage" = "Device not configured to send SMS.";
-
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "install";
 "acquisition" = "acquisition";
 "alerViewCantParticipateEventMessage" = "Can not participate in events.";
 "alerViewCompletedParticipateEventMessage" = "Participation in the event is completed.";
-
-// for anypang2
-"closeConfirmMessage" = "To close the pop-up is really an event, please?\nThe float is not pop-day event.";

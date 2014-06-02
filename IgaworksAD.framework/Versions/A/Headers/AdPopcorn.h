@@ -12,6 +12,22 @@
 
 @protocol AdPopcornDelegate;
 
+/*!
+ @typedef RewardServerType enum
+ 
+ @abstract AdPopcorn reward를 사용자에게 지급하는 방식을 설정합니다.
+ 
+ @discussion
+ */
+typedef enum _RewardServerType
+{
+    /*! 고객의 자체 서버를 사용하여, 콜백 URL로 관리  */
+    AdPopcornRewardServerTypeServer,
+    /*! 자체 서버가 없이, AdPopcorn 서버로 관리  */
+    AdPopcornRewardServerTypeClient,
+    /*! 자체 reward가 없이, AdPopcorn point를 reward로 사용하는 경우 */
+} RewardServerType;
+
 
 @interface AdPopcorn : NSObject
 {
@@ -34,12 +50,8 @@
  
  @discussion
  리스트 형태의 광고를 노출한다.
- 
- @param vController          광고 리스트를 노출시킬 view controller
- @param delegate             AdPopcornDelegate
- @param userDataDictionaryForFilter    filtering(targeting)을 위한 user data
  */
-+ (void)openOfferWallWithViewController:(UIViewController *)vController delegate:(id)delegate userDataDictionaryForFilter:(NSMutableDictionary *)userDataDictionaryForFilter;
++ (void)openOfferWallWithViewController:(UIViewController *)vController userSerialNumber:(NSString *)userSerialNumber rewardServerType:(RewardServerType)rewardServerType delegate:(id)delegate userDataDictionaryForFilter:(NSMutableDictionary *)userDataDictionaryForFilter;
 
 @end
 
