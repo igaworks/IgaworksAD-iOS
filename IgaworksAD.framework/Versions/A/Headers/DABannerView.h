@@ -26,7 +26,7 @@ typedef enum _DABannerViewSizeType
 @property (nonatomic, unsafe_unretained) id<DABannerViewDelegate> delegate;
 
 
-- (id)initWithBannerViewSize:(DABannerViewSizeType)size origin:(CGPoint)origin mediaKey:(NSString *)mediaKey mediationKey:(NSString *)mediationKey viewController:(UIViewController *)viewController age:(NSUInteger)age gender:(DAGender)gender;
+- (id)initWithBannerViewSize:(DABannerViewSizeType)size origin:(CGPoint)origin mediaKey:(NSString *)mediaKey mediationKey:(NSString *)mediationKey viewController:(UIViewController *)viewController;
 
 - (void)loadRequest;
 - (void)refreshAd;

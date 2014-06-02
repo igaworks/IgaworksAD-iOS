@@ -21,7 +21,7 @@
 @property (nonatomic, unsafe_unretained) id<DAPartialInterstitialAdDelegate> delegate;
 
 
-- (id)initWithKey:(NSString *)mediaKey age:(NSUInteger)age gender:(DAGender)gender;
+- (id)initWithKey:(NSString *)mediaKey;
 
 
 - (BOOL)presentFromViewController:(UIViewController *)viewController;

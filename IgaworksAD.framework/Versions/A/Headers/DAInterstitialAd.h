@@ -21,7 +21,7 @@
 @property (nonatomic, unsafe_unretained) id<DAInterstitialAdDelegate> delegate;
 @property (nonatomic, unsafe_unretained, getter = isInterstitialAdIsVisible) BOOL interstitialAdIsVisible;
 
-- (id)initWithKey:(NSString *)mediaKey mediationKey:(NSString *)mediationKey viewController:(UIViewController *)viewController age:(NSUInteger)age gender:(DAGender)gender;
+- (id)initWithKey:(NSString *)mediaKey mediationKey:(NSString *)mediationKey viewController:(UIViewController *)viewController;
 
 
 //- (BOOL)presentInView:(UIView *)view;

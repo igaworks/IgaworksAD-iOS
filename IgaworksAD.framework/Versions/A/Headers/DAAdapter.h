@@ -12,6 +12,8 @@
 
 #import "DABannerView.h"
 
+#import "DADemo.h"
+
 #import "NSObject+IgaworksADBlocksAdditions.h"
 
 #import "AdPopcornLog.h"
