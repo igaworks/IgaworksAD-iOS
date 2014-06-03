@@ -126,7 +126,7 @@
 "promotingLinkType" = "鏈接類型";
 "promotingCouponType" = "優惠券類型";
 
-"promotingItemQuantity" = "%@ %@\n每邀請";
+"promotingItemQuantity" = "每邀請\n%@";
 
 "invitedCount" = "邀請成功 : %@ 例";
 "earnedReward" = "得到總共 %@ %@";
@@ -153,6 +153,11 @@
 
 "description" = "描述";
 
+"canNotParticipateInThisCampaignMessage" = "不能參加本次活動。";
+
+"deviceNotConfiguredToSendSMSMessage" = "設備未配置為發送短信。";
+
+"shareNotiMessage" = "消息被複製。分享在%@和要求。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

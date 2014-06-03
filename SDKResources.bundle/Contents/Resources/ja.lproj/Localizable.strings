@@ -120,7 +120,7 @@
 "promotingLinkType" = "リンク型";
 "promotingCouponType" = "クーポン型";
 
-"promotingItemQuantity" = "招待につき\n%@%@";
+"promotingItemQuantity" = "招待につき\n%@";
 
 "invitedCount" = "招待成功：%@名";
 "earnedReward" = "総 %@ %@ 獲得";
@@ -147,9 +147,15 @@
 
 "description" = "説明";
 
+"canNotParticipateInThisCampaignMessage" = "参加できるキャンペーンがありません。";
+
+"deviceNotConfiguredToSendSMSMessage" = "デバイスは、SMSを送信するように構成されていません。";
+
+"shareNotiMessage" = "メッセージがコピーされます。 %@上で共有してお願い致します。";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";
-"acquisition" = "買収";
-"alerViewCantParticipateEventMessage" = "イベントに参加することはできません。";
-"alerViewCompletedParticipateEventMessage" = "イベントへの参加が完了します。";
+"acquisition" = "獲得";
+"alerViewCantParticipateEventMessage" = "このキャンペーンに参加することはできません。";
+"alerViewCompletedParticipateEventMessage" = "既に参加完了したキャンペーンです。";

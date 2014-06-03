@@ -124,7 +124,7 @@
 "promotingLinkType" = "Länk Typ";
 "promotingCouponType" = "Kupong Typ";
 
-"promotingItemQuantity" = "%@ %@\nper inbjudningskort";
+"promotingItemQuantity" = "%@\nper inbjudningskort";
 
 "invitedCount" = "inviterar Framgång : %@ patienter";
 "earnedReward" = "Skaffa totalt of %@ %@";
@@ -150,6 +150,12 @@
 "howToParticipate" = "Hur man deltar";
 
 "description" = "beskrivning";
+
+"canNotParticipateInThisCampaignMessage" = "Kan inte delta i denna kampanj.";
+
+"deviceNotConfiguredToSendSMSMessage" = "Enheten är inte konfigurerad för att skicka SMS.";
+
+"shareNotiMessage" = "Meddelandet kopieras. Dela med dig på %@ och fråga.";
 
 
 // adbrix

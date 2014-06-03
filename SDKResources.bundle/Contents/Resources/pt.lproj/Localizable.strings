@@ -124,7 +124,7 @@
 "promotingLinkType" = "Tipo de Ligação";
 "promotingCouponType" = "Tipo de Cupom";
 
-"promotingItemQuantity" = "%@ %@\npor convite";
+"promotingItemQuantity" = "%@\npor convite";
 
 "invitedCount" = "Convidar Sucesso : %@ pacientes";
 "earnedReward" = "Obter um total de %@ %@";
@@ -151,7 +151,11 @@
 
 "description" = "descrição";
 
+"canNotParticipateInThisCampaignMessage" = "Não pode participar nesta campanha.";
 
+"deviceNotConfiguredToSendSMSMessage" = "O dispositivo não configurado para enviar SMS.";
+
+"shareNotiMessage" = "A mensagem é copiada. Compartilhe no %@ e perguntar.";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

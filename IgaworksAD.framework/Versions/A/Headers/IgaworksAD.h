@@ -17,7 +17,7 @@ typedef enum _gender
     IgaworksADGenderFemale = 1
 } Gender;
 
-typedef enum _IgaworksADLogLogLevel
+typedef enum _IgaworksADLogLevel
 {
     /*! only info logging  */
     IgaworksADLogInfo,
@@ -25,16 +25,34 @@ typedef enum _IgaworksADLogLogLevel
     IgaworksADLogDebug,
     /*! all logging */
     IgaworksADLogTrace
-} IgaworksADLogLogLevel;
- 
+} IgaworksADLogLevel;
+
+
 
 @interface IgaworksAD : NSObject
 
-
-@property (nonatomic, copy) NSString *appKey;
-@property (nonatomic, copy) NSString *hashKey;
+@property (nonatomic, readonly) NSString *appKey;
+@property (nonatomic, readonly) NSString *hashKey;
+@property (nonatomic, copy) NSString *userId;
+@property (nonatomic, readonly) BOOL isUseIgaworksRewardServer;
 
 @property (nonatomic, unsafe_unretained) id<IgaworksADClientRewardDelegate> clientRewardDelegate;
+
+
+
+/*!
+ @abstract
+ 초기화. init한다. Singleton method
+ 
+ @discussion
+ 발급 받은 appkey로 connect한다.
+ 
+ @param appkey              app. 등록 후, IGAWorks로부터 발급된 키.
+ @param hashkey             app. 등록 후 발급된 키.
+ @param isUseIgaworksRewardServer    igaworks에서 제공하는 reward server를 사용할것인지 여부.
+ */
++ (id)igaworksADWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
+
 
 /*!
  @abstract
@@ -45,10 +63,10 @@ typedef enum _IgaworksADLogLogLevel
  
  @param appkey              app. 등록 후, IGAWorks로부터 발급된 키.
  @param hashkey             app. 등록 후 발급된 키.
+ @param isUseIgaworksRewardServer    igaworks에서 제공하는 reward server를 사용할것인지 여부.
  */
-- (id)initWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey;
+- (id)initWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
 
-+ (id)igaworksADWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey;
 
 
 /*!
@@ -66,15 +84,7 @@ typedef enum _IgaworksADLogLogLevel
  
  @param LogLevel            log level
  */
-+ (void)setLogLevel:(IgaworksADLogLogLevel)logLevel;
-
-/*!
- @abstract
- 사용자의 demo정보를 전송하고자 할때 호출한다.
- 
- @param userDemoInfo              user demo info.
- */
-+ (void)setDemographic:(NSDictionary *)userDemoInfo;
++ (void)setLogLevel:(IgaworksADLogLevel)logLevel;
 
 /*!
  @abstract
@@ -100,6 +110,17 @@ typedef enum _IgaworksADLogLogLevel
  */
 + (void)setUserId:(NSString *)userId;
 
+/*!
+ @abstract
+ IGAWorks에 리워드 지급 확정 처리를 요청한다.
+ 
+ @discussion
+ 이곳에서 사용자에게 리워드 지급 처리를 한다. 지급 처리가 완료 되었다면, 해당 메소드를 호출하여 IGAWorks에 리워드 지급 확정 처리를 요청한다.
+ 
+ @param rewardKey            리워드 식별키
+ */
++ (void)didGiveRewardItemWithRewardKey:(NSString *)rewardKey;
+
 @end
 
 @protocol IgaworksADClientRewardDelegate <NSObject>
@@ -113,7 +134,7 @@ typedef enum _IgaworksADLogLogLevel
  @discussion
  사용자에게 아이템을 지급하고, 지급이 완료되면 didGiveRewardItemWithRewardKey 메소드를 호출하여 지급 완료 확정 처리를 한다.
  */
-- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message itemName:(NSString *)itemName itemKey:(NSString*)itemKey campaignName:(NSString *)campaignName campaignKey:(NSString*)campaignKey rewardKey:(NSString *)rewardkey quantity:(NSUInteger)quantity;
+- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message itemName:(NSString *)itemName itemKey:(NSString *)itemKey campaignName:(NSString *)campaignName campaignKey:(NSString *)campaignKey rewardKey:(NSString *)rewardKey quantity:(NSUInteger)quantity;
 
 
 /*!
@@ -123,7 +144,7 @@ typedef enum _IgaworksADLogLogLevel
  @discussion
  사용자에게 아이템을 지급하고, 지급이 완료되면 didGiveRewardItemWithRewardKey 메소드를 호출하여 지급 완료 확정 처리를 한다.
  */
-- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message items:(NSArray *)itemes;
+- (void)onRewardRequestResult:(BOOL)isSuccess withMessage:(NSString *)message items:(NSArray *)items;
 
 /*!
  @abstract

@@ -122,7 +122,7 @@
 "promotingLinkType" = "Link Type";
 "promotingCouponType" = "Coupon Type";
 
-"promotingItemQuantity" = "%@ %@\nper invite";
+"promotingItemQuantity" = "%@\nper invite";
 
 "invitedCount" = "Invite Success : %@ patients";
 "earnedReward" = "Obtain a total of %@ %@";
@@ -148,6 +148,12 @@
 "howToParticipate" = "How to participate";
 
 "description" = "description";
+
+"canNotParticipateInThisCampaignMessage" = "Can not participate in this campaign.";
+
+"deviceNotConfiguredToSendSMSMessage" = "Device not configured to send SMS.";
+
+"shareNotiMessage" = "Message is copied. Share on %@ and ask.";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
