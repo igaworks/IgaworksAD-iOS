@@ -24,8 +24,6 @@
 //- (BOOL)presentInView:(UIView *)view;
 - (BOOL)presentFromViewController:(UIViewController *)viewController;
 
-- (void)refreshAd;
-
 
 @end
 

@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 #import "DAError.h"
-
+#import "IgaworksAD.h"
 
 @protocol DABannerViewDelegate;
 
@@ -27,9 +27,9 @@ typedef enum _DABannerViewSizeType
 - (id)initWithBannerViewSize:(DABannerViewSizeType)size origin:(CGPoint)origin mediaKey:(NSString *)mediaKey mediationKey:(NSString *)mediationKey viewController:(UIViewController *)viewController;
 
 - (void)loadRequest;
-- (void)refreshAd;
 
-- (void)resetScheduleTimer;
+
+- (void)setLogLevel:(IgaworksADLogLevel)logLevel;
 
 @end
 
