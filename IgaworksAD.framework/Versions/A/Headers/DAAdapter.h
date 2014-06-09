@@ -16,7 +16,6 @@
 
 #import "NSObject+IgaworksADBlocksAdditions.h"
 
-#import "AdPopcornLog.h"
 @protocol DaAdapterDelegate;
 
 typedef enum _DAMediationGender
