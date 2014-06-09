@@ -9,8 +9,20 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+
+@protocol AdBrixDelegate;
+
 @interface AdBrix : NSObject
 
+
+@property (nonatomic, unsafe_unretained) id<AdBrixDelegate> delegate;
+
+
+/*!
+ @abstract
+ singleton AdBrix 객체를 반환한다.
+ */
++ (AdBrix *)shared;
 
 /*!
  @abstract
@@ -76,6 +88,7 @@
  */
 + (void)start;
 
+
 /*!
  @abstract
  쿠폰 이벤트를 노출합니다.
@@ -83,5 +96,11 @@
  @param parentViewController              노출시키고자 하는 view controller
  */
 + (void)showRealRewardNotice:(UIViewController *)parentViewController;
+
+@end
+
+@protocol AdBrixDelegate <NSObject>
+@optional
+- (void)adBrixDidStart;
 
 @end
