@@ -10,6 +10,7 @@
 #import <UIKit/UIKit.h>
 
 #import "DAError.h"
+#import "IgaworksAD.h"
 
 @protocol DAPartialInterstitialAdDelegate;
 
@@ -24,6 +25,7 @@
 
 - (BOOL)presentFromViewController:(UIViewController *)viewController;
 
+- (void)setLogLevel:(IgaworksADLogLevel)logLevel;
 
 
 @end
