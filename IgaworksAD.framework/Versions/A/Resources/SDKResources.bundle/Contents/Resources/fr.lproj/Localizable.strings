@@ -150,6 +150,13 @@
 
 "canNotParticipateInThisCampaignMessage" = "Vous ne pouvez pas participer à cette campagne.";
 
+"deviceNotConfiguredToSendSMSMessage" = "Le périphérique n'est pas configuré pour envoyer des SMS.";
+
+"shareNotiMessage" = "Message est copié. Partager sur %@ et demander.";
+
+"contactUs" = "Contactez-nous";
+"privacyPolicy" = "politique de confidentialité";
+"pleaseCheckInTheMailSettings" = "S'il vous plaît vérifier dans les paramètres de messagerie.";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
