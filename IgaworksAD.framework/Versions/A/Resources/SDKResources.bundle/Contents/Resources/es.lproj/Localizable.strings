@@ -152,9 +152,6 @@
 
 "canNotParticipateInThisCampaignMessage" = "No se puede participar en esta campaña.";
 
-"deviceNotConfiguredToSendSMSMessage" = "El dispositivo no configurado para enviar SMS.";
-
-"shareNotiMessage" = "Mensaje se copia. Comparte en %@ y preguntar.";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

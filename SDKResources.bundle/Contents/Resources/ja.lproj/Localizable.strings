@@ -149,10 +149,6 @@
 
 "canNotParticipateInThisCampaignMessage" = "参加できるキャンペーンがありません。";
 
-"deviceNotConfiguredToSendSMSMessage" = "デバイスは、SMSを送信するように構成されていません。";
-
-"shareNotiMessage" = "メッセージがコピーされます。 %@上で共有してお願い致します。";
-
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";
