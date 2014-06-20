@@ -68,7 +68,6 @@ static NSInteger const kDAAdapterInvokeDelegateTimeoutSeconds = 5;
 
 - (void)loadRequest;
 
-- (void)orientationChanged:(NSNotification *)notification;
 
 - (CGSize)adSize;
 

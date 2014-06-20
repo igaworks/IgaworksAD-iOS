@@ -155,6 +155,11 @@
 
 "shareNotiMessage" = "메시지가 복사되었습니다. %@에 공유 부탁드립니다.";
 
+"contactUs" = "제휴문의";
+"privacyPolicy" = "개인정보 취급방침";
+
+"pleaseCheckInTheMailSettings" = "메일 설정 확인 부탁합니다.";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "설치";

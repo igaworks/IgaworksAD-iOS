@@ -21,6 +21,8 @@
 
 @property (nonatomic, unsafe_unretained) id<AdPopcornDelegate> delegate;
 
+@property (nonatomic, unsafe_unretained) BOOL doNotShowContactUs;
+
 
 /*!
  @abstract

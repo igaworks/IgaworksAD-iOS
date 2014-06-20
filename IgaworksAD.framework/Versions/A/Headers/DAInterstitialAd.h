@@ -15,7 +15,6 @@
 @interface DAInterstitialAd : NSObject
 
 
-
 @property (nonatomic, unsafe_unretained) id<DAInterstitialAdDelegate> delegate;
 @property (nonatomic, unsafe_unretained, getter = isInterstitialAdIsVisible) BOOL interstitialAdIsVisible;
 

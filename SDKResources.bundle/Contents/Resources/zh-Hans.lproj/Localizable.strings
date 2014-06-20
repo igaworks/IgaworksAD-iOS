@@ -160,6 +160,10 @@
 
 "shareNotiMessage" = "消息被复制。分享在%@和要求。";
 
+"contactUs" = "联系我们";
+"privacyPolicy" = "隐私政策";
+"pleaseCheckInTheMailSettings" = "请在邮件设置。";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安装";

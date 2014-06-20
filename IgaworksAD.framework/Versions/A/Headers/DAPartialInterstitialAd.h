@@ -21,12 +21,8 @@
 
 
 - (id)initWithKey:(NSString *)mediaKey;
-
-
 - (BOOL)presentFromViewController:(UIViewController *)viewController;
-
 - (void)setLogLevel:(IgaworksADLogLevel)logLevel;
-
 
 @end
 
@@ -34,8 +30,6 @@
 
 @optional
 - (void)DAPartialInterstitialAdDidLoad:(DAPartialInterstitialAd *)partialInterstitialAd;
-
-//- (void)daInterstitialAdDidLoad;
 
 - (void)DAPartialInterstitialAd:(DAPartialInterstitialAd *)partialInterstitialAd didFailToReceiveAdWithError:(DAError *)error;
 

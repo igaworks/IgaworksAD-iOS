@@ -155,6 +155,10 @@
 
 "shareNotiMessage" = "Nachricht wird kopiert. Teilen auf %@ und fragen.";
 
+"contactUs" = "Kontaktieren Sie uns";
+"privacyPolicy" = "Datenschutz";
+"pleaseCheckInTheMailSettings" = "Bitte überprüfen Sie in den Mail-Einstellungen";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

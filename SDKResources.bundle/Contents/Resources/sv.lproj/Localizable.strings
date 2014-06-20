@@ -157,6 +157,10 @@
 
 "shareNotiMessage" = "Meddelandet kopieras. Dela med dig på %@ och fråga.";
 
+"contactUs" = "Kontakta oss";
+"privacyPolicy" = "Integritetspolicy";
+"pleaseCheckInTheMailSettings" = "Kontrollera i postinställningarna.";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

@@ -159,6 +159,10 @@
 
 "shareNotiMessage" = "消息被複製。分享在%@和要求。";
 
+"contactUs" = "聯繫我們";
+"privacyPolicy" = "隱私政策";
+"pleaseCheckInTheMailSettings" = "請在郵件設置。";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安裝";

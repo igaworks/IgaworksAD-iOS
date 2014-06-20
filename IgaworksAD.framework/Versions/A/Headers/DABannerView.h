@@ -20,7 +20,6 @@ typedef enum _DABannerViewSizeType
 
 @interface DABannerView : UIView
 
-
 @property (nonatomic, unsafe_unretained) id<DABannerViewDelegate> delegate;
 
 
@@ -30,6 +29,7 @@ typedef enum _DABannerViewSizeType
 
 
 - (void)setLogLevel:(IgaworksADLogLevel)logLevel;
+
 
 @end
 
