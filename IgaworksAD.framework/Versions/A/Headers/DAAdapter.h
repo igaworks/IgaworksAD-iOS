@@ -60,10 +60,11 @@ static NSInteger const kDAAdapterInvokeDelegateTimeoutSeconds = 5;
 
 + (DAAdapter *)sharedInstance;
 
-- (void)setViewController:(UIViewController *)viewController origin:(CGPoint)origin size:(CGSize)size bannerView:(DABannerView *)bannerView;
-- (void)setViewController:(UIViewController *)viewController;
+- (void)setOrigin:(CGPoint)origin size:(CGSize)size bannerView:(DABannerView *)bannerView;
 
-- (void)loadAd;
+
+- (void)loadAd:(UIViewController *)viewController adType:(DAAdType)adType;
+
 - (void)closeAd;
 
 - (void)loadRequest;
