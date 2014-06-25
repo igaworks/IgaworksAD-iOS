@@ -159,6 +159,8 @@
 "privacyPolicy" = "Datenschutz";
 "pleaseCheckInTheMailSettings" = "Bitte überprüfen Sie in den Mail-Einstellungen";
 
+"linkCopy" = "Link kopieren";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

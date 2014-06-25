@@ -161,6 +161,8 @@
 "privacyPolicy" = "Integritetspolicy";
 "pleaseCheckInTheMailSettings" = "Kontrollera i postinställningarna.";
 
+"linkCopy" = "kopiera";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

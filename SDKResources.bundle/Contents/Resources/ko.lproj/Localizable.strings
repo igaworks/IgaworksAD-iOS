@@ -131,7 +131,8 @@
 "copy" = "복사";
 "viewRanking" = "순위보기";
 
-"promotingPartipateMethod1" = "1. 다양한 방법으로 친구들에게 앱을 소개합니다. 소개 글은 직접 편집에서 사용하실 수 있습니다.";
+//"promotingPartipateMethod1" = "1. 다양한 방법으로 친구들에게 앱을 소개합니다. 소개 글은 직접 편집에서 사용하실 수 있습니다.";
+"promotingPartipateMethod1" = "1. 페이스북, 카카오톡등 다양한 방법으로 친구들에게 %@를(을) 소개해보세요(소개글은 본인이 직접 편집할 수 있습니다.) ";
 "promotingPartipateMethod2" = "2. 소개글의 설치 링크를 통해 친구가 앱을 설치, 실행하면\n3. 참여한 친구 수만큼 아이템을 획득하게됩니다.";
 
 "promotingCautionMessage" = "주의! 친구초대는 앱을 소개하기 위한 서비스이므로 본인이 설치한 앱은 리워드 획득에서 제외됩니다.";
@@ -159,6 +160,8 @@
 "privacyPolicy" = "개인정보 취급방침";
 
 "pleaseCheckInTheMailSettings" = "메일 설정 확인 부탁합니다.";
+
+"linkCopy" = "링크복사";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

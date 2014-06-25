@@ -163,6 +163,8 @@
 "privacyPolicy" = "隱私政策";
 "pleaseCheckInTheMailSettings" = "請在郵件設置。";
 
+"linkCopy" = "複製鏈接";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安裝";

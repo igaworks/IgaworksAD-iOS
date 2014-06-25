@@ -43,6 +43,8 @@
  */
 + (void)openOfferWallWithViewController:(UIViewController *)vController delegate:(id)delegate userDataDictionaryForFilter:(NSMutableDictionary *)userDataDictionaryForFilter;
 
++ (void)openPromotionEvent:(UIViewController *)vController delegate:(id)delegate;
+
 @end
 
 
@@ -82,5 +84,38 @@
  @discussion
  */
 - (void)didCloseOfferWall;
+
+/*!
+ @abstract
+ promotion event가 열리기 전에 호출된다.
+ 
+ @discussion
+ */
+- (void)willOpenPromotionEvent;
+
+/*!
+ @abstract
+ promotion event가 열린직 후 호출된다.
+ 
+ @discussion
+ */
+- (void)didOpenPromotionEvent;
+
+/*!
+ @abstract
+ promotion event가 닫히기 전에 호출된다.
+ 
+ @discussion
+ */
+- (void)willClosePromotionEvent;
+
+/*!
+ @abstract
+ promotion event가 닫힌직 후 호출된다.
+ 
+ @discussion
+ */
+- (void)didClosePromotionEvent;
+   
 
 @end
