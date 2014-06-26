@@ -51,6 +51,8 @@ typedef NS_ENUM(NSInteger, AdPopcornRewardCheckThemeColor)
 @property (nonatomic, unsafe_unretained) UIColor *adPopcornCustomRewardThemeColor;
 @property (nonatomic, unsafe_unretained) UIColor *adPopcornCustomRewardCheckThemeColor;
 
+@property (nonatomic, copy) NSString *adPopcornOfferWallTitle;
+
 + (AdPopcornStyle *)sharedInstance;
 
 @end

@@ -160,6 +160,8 @@
 "privacyPolicy" = "política de privacidad";
 "pleaseCheckInTheMailSettings" = "Por favor verifique en los ajustes de correo.";
 
+"linkCopy" = "copiar el vínculo";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "instalar";

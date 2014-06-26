@@ -159,6 +159,8 @@
 "privacyPolicy" = "Privacy policy";
 "pleaseCheckInTheMailSettings" = "Please check in the mail settings.";
 
+"linkCopy" = "Link copy";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "install";

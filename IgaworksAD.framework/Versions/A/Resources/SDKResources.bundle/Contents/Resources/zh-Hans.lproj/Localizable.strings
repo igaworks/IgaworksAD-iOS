@@ -164,6 +164,8 @@
 "privacyPolicy" = "隐私政策";
 "pleaseCheckInTheMailSettings" = "请在邮件设置。";
 
+"linkCopy" = "复制链接";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安装";
