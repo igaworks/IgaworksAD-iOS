@@ -161,6 +161,8 @@
 
 "linkCopy" = "Link kopieren";
 
+"remainQuantity" = "[verbleibende menge:%@]";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

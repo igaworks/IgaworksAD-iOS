@@ -165,6 +165,8 @@
 
 "linkCopy" = "複製鏈接";
 
+"remainQuantity" = "[剩餘數量:%@]";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安裝";

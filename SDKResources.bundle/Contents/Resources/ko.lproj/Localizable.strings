@@ -163,6 +163,8 @@
 
 "linkCopy" = "링크복사";
 
+"remainQuantity" = "[남은수량:%@건]";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "설치";

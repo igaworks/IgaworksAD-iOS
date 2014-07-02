@@ -159,6 +159,8 @@
 
 "linkCopy" = "リンクのコピー";
 
+"remainQuantity" = "[残り数量:%@]";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";

@@ -163,6 +163,8 @@
 
 "linkCopy" = "copiar link";
 
+"remainQuantity" = "[quantidade restante:%@]";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "instalar";
