@@ -162,6 +162,13 @@
 
 "remainQuantity" = "[quantité restante:%@]";
 
+"notice" = "délai";
+
+"viralPromotionNoticeMessage" = "Diffusion de fausses informations et la promotion des liens dans un but de récompense peut entraîner le retrait et la suppression de tous vos avantages acquis et compte d'utilisateur.";
+
+"agree" = "se mettre d'accord";
+"deny" = "nier";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "installer";

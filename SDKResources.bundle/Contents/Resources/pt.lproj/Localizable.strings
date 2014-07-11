@@ -165,6 +165,13 @@
 
 "remainQuantity" = "[quantidade restante:%@]";
 
+"notice" = "aviso";
+
+"viralPromotionNoticeMessage" = "Divulgação de informações falsas e promover o link para um propósito recompensa pode resultar em retirada e exclusão de todos os seus benefícios adquiridos e conta de usuário.";
+
+"agree" = "concordar";
+"deny" = "negar";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "instalar";

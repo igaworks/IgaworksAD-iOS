@@ -163,6 +163,13 @@
 
 "remainQuantity" = "[verbleibende menge:%@]";
 
+"notice" = "Bekanntmachung";
+
+"viralPromotionNoticeMessage" = "Verbreitung falscher Informationen und Förderung der Link für eine Belohnung Zweck kann im Rückzug und löschen Sie alle Ihre erworbenen Belohnungen und Benutzerkonto führen.";
+
+"agree" = "zustimmen";
+"deny" = "leugnen";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

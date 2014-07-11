@@ -167,6 +167,13 @@
 
 "remainQuantity" = "[剩餘數量:%@]";
 
+"notice" = "通知";
+
+"viralPromotionNoticeMessage" = "散佈虛假信息，推動連桿的獎勵目的，可能會導致退出並刪除所有獲得獎勵和用戶帳戶。";
+
+"agree" = "同意";
+"deny" = "否認";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安裝";

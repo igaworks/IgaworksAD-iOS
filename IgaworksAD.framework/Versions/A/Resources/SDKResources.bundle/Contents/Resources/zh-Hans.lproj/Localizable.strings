@@ -168,6 +168,13 @@
 
 "remainQuantity" = "[剩余数量:%@]";
 
+"notice" = "通知";
+
+"viralPromotionNoticeMessage" = "散布虚假信息，推动连杆的奖励目的，可能会导致退出并删除所有获得奖励和用户帐户。";
+
+"agree" = "同意";
+"deny" = "否认";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安装";

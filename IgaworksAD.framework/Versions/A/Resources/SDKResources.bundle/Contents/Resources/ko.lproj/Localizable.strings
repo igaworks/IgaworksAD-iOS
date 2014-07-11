@@ -165,6 +165,13 @@
 
 "remainQuantity" = "[남은수량:%@건]";
 
+"notice" = "알림";
+
+"viralPromotionNoticeMessage" = "허위사실이나 보상으로 링크를 홍보할 경우, 획득 아이템 전량회수 및 유저ID 삭제 등의 불이익이 발생될 수 있습니다.";
+
+"agree" = "동의";
+"deny" = "동의안함";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "설치";

@@ -165,6 +165,13 @@
 
 "remainQuantity" = "[resterande kvantitet:%@]";
 
+"notice" = "Meddelande";
+
+"viralPromotionNoticeMessage" = "Att sprida falsk information och främja länk för en belöning ändamål kan leda till att dra tillbaka och ta bort alla dina förvärvade belöningar och användarkonto.";
+
+"agree" = "enas";
+"deny" = "neka";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";

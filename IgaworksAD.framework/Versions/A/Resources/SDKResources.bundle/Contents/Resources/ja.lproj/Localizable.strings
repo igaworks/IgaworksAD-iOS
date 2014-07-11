@@ -161,6 +161,13 @@
 
 "remainQuantity" = "[残り数量:%@]";
 
+"notice" = "予告";
+
+"viralPromotionNoticeMessage" = "虚偽の事実やリワードの目的でリンクを広報する場合、獲得アイテムの全量回収及びユーザID削除などの 不利益が発生する可能性があります。";
+
+"agree" = "同意する";
+"deny" = "否定する";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";

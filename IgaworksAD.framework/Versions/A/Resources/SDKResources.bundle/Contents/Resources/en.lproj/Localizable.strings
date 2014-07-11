@@ -163,6 +163,13 @@
 
 "remainQuantity" = "[remaining quantity:%@]";
 
+"notice" = "Notice";
+
+"viralPromotionNoticeMessage" = "Spreading false information and promoting the link for a reward purpose may result in withdrawing and deleting all of your acquired rewards and user account.";
+
+"agree" = "agree";
+"deny" = "deny";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "install";
