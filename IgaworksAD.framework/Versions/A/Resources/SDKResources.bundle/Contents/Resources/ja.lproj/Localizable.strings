@@ -174,3 +174,5 @@
 "acquisition" = "獲得";
 "alerViewCantParticipateEventMessage" = "このキャンペーンに参加することはできません。";
 "alerViewCompletedParticipateEventMessage" = "既に参加完了したキャンペーンです。";
+
+"getPromotingCPITrackingURLFailMessage" = "共有リンクアドレスが無効です。カスタマーサービスまでご連絡ください。";

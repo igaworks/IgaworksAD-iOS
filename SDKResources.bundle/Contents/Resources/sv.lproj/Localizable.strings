@@ -179,3 +179,5 @@
 "acquisition" = "förvärv";
 "alerViewCantParticipateEventMessage" = "Kan inte delta i evenemang.";
 "alerViewCompletedParticipateEventMessage" = "Deltagande i händelsen är avslutad.";
+
+"getPromotingCPITrackingURLFailMessage" = "Dela länkadressen är ogiltig. Vänligen kontakta kundtjänst.";

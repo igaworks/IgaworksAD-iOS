@@ -178,3 +178,5 @@
 "acquisition" = "획득";
 "alerViewCantParticipateEventMessage" = "참여할 수 없는 이벤트입니다.";
 "alerViewCompletedParticipateEventMessage" = "참여 완료된 이벤트입니다.";
+
+"getPromotingCPITrackingURLFailMessage" = "공유 링크 주소가 잘못되었습니다. 고객센터로 문의바랍니다.";

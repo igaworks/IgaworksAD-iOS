@@ -181,3 +181,5 @@
 "acquisition" = "获得";
 "alerViewCantParticipateEventMessage" = "不能参加活动。";
 "alerViewCompletedParticipateEventMessage" = "参与事件完成。";
+
+"getPromotingCPITrackingURLFailMessage" = "分享链接地址是无效的。请联系客户服务。";

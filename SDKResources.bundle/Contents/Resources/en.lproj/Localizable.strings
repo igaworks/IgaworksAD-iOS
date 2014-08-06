@@ -176,3 +176,5 @@
 "acquisition" = "acquisition";
 "alerViewCantParticipateEventMessage" = "Can not participate in events.";
 "alerViewCompletedParticipateEventMessage" = "Participation in the event is completed.";
+
+"getPromotingCPITrackingURLFailMessage" = "Share link address is invalid. Please contact Customer Service.";
