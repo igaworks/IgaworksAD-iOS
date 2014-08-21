@@ -23,6 +23,8 @@ typedef enum _DABannerViewSizeType
 
 
 @property (nonatomic, unsafe_unretained) id<DABannerViewDelegate> delegate;
+
+// 최소 30초에서 최대 120초로 설정.
 @property (nonatomic, unsafe_unretained) NSInteger adRefreshRate;
 
 
