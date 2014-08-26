@@ -163,17 +163,6 @@
 
 "remainQuantity" = "[verbleibende menge:%@]";
 
-"notice" = "Bekanntmachung";
-
-"viralPromotionNoticeMessage" = "Verbreitung falscher Informationen und Förderung der Link für eine Belohnung Zweck kann im Rückzug und löschen Sie alle Ihre erworbenen Belohnungen und Benutzerkonto führen.";
-
-"agree" = "zustimmen";
-"deny" = "leugnen";
-
-"contactUsMailMessage" = "Warten für die Beteiligung von Unternehmen und zuständig mit adPOPcorn.\n<Partnerschaft>\n*Name der Firma : \n*Kontakt : \n*Kontakt : \n*E-Mail : \n*Inhalt : ";
-
-"contactUsAlertMessage" = "Dieses Menü ist engagierte Partnerschaft. Bitte akzeptieren Sie die Teilnahme der Customer Contact Center-bezogene Anzeigen. Wollen Sie an den Kontakt-Menü gehen?";
-
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -181,5 +170,3 @@
 "acquisition" = "Erwerb";
 "alerViewCantParticipateEventMessage" = "Kann nicht an Veranstaltungen teilzunehmen.";
 "alerViewCompletedParticipateEventMessage" = "Die Teilnahme an der Veranstaltung ist abgeschlossen.";
-
-"getPromotingCPITrackingURLFailMessage" = "Teilen Link-Adresse ist ungültig. Bitte kontaktieren Sie Kundenservice.";

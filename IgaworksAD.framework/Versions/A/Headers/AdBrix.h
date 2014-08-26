@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
 
 @interface AdBrix : NSObject
 
@@ -75,7 +74,5 @@
  Unity plugin의 경우 traceWithAppKey:andHashKey: 메소드 호출 후에, start 메소드를 호출한다.
  */
 + (void)start;
-
-+ (void)showViralCPINotice:(UIViewController *)viewController;
 
 @end

@@ -9,15 +9,13 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-/// NSError codes for error domain.
+/// NSError codes for GAD error domain.
 typedef NS_ENUM(NSInteger, AdPopcornThemeColor)
 {
     AdPopcornThemeBlueColor = 1,
     AdPopcornThemeRedColor = 2,
     AdPopcornThemeYellowColor = 3
 };
-
-
 
 
 

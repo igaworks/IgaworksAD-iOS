@@ -153,24 +153,13 @@
 
 "shareNotiMessage" = "メッセージがコピーされます。 %@上で共有してお願い致します。";
 
-"contactUs" = "お問い合わせ";
-"privacyPolicy" = "個人情報保護";
+"contactUs" = "お問い合わせは";
+"privacyPolicy" = "個人情報保護方針";
 "pleaseCheckInTheMailSettings" = "メールの設定をご確認下さい。";
 
 "linkCopy" = "リンクのコピー";
 
 "remainQuantity" = "[残り数量:%@]";
-
-"notice" = "予告";
-
-"viralPromotionNoticeMessage" = "虚偽の事実やリワードの目的でリンクを広報する場合、獲得アイテムの全量回収及びユーザID削除などの 不利益が発生する可能性があります。";
-
-"agree" = "同意する";
-"deny" = "否定する";
-
-"contactUsMailMessage" = "adPOPcornと一緒にする力量のある企業の参加をお待ちます。\n<連携に関してのお問い合わせ>\n*会社名 : \n*担当者 : \n*連絡先 : \n*メールアドレス : \n*内容: ";
-
-"contactUsAlertMessage" = "このメニューは、提携のお問い合わせ専用です。広告参加に関するお問い合わせは、お客様センターを介して受信してください。お客様センターのメニューに移動しますか？";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -178,5 +167,3 @@
 "acquisition" = "獲得";
 "alerViewCantParticipateEventMessage" = "このキャンペーンに参加することはできません。";
 "alerViewCompletedParticipateEventMessage" = "既に参加完了したキャンペーンです。";
-
-"getPromotingCPITrackingURLFailMessage" = "共有リンクアドレスが無効です。カスタマーサービスまでご連絡ください。";

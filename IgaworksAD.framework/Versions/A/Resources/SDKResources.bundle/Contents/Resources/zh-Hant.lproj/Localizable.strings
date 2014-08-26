@@ -167,22 +167,9 @@
 
 "remainQuantity" = "[剩餘數量:%@]";
 
-"notice" = "通知";
-
-"viralPromotionNoticeMessage" = "散佈虛假信息，推動連桿的獎勵目的，可能會導致退出並刪除所有獲得獎勵和用戶帳戶。";
-
-"agree" = "同意";
-"deny" = "否認";
-
-"contactUsMailMessage" = "adPOPcorn期待所有有能力的企業加盟\n<加盟諮詢>\n*公司名 : \n*負責人 : \n*聯繫方式 : \n*郵件 : \n*內容 : ";
-
-"contactUsAlertMessage" = "這個菜單是專門夥伴關係。請接受參與由客戶聯絡中心相關的廣告。你想不想去聯繫我們的菜單嗎？";
-
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安裝";
 "acquisition" = "獲得";
 "alerViewCantParticipateEventMessage" = "不能參加活動。";
 "alerViewCompletedParticipateEventMessage" = "參與事件完成。";
-
-"getPromotingCPITrackingURLFailMessage" = "分享鏈接地址是無效的。請聯繫客戶服務。";
