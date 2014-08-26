@@ -162,9 +162,22 @@
 
 "remainQuantity" = "[quantité restante:%@]";
 
+"notice" = "délai";
+
+"viralPromotionNoticeMessage" = "Diffusion de fausses informations et la promotion des liens dans un but de récompense peut entraîner le retrait et la suppression de tous vos avantages acquis et compte d'utilisateur.";
+
+"agree" = "se mettre d'accord";
+"deny" = "nier";
+
+"contactUsMailMessage" = "Attendez que la participation des entreprises et être compétente adPOPcorn.\n<Partenariat>\n*Nom de l'entreprise : \n*Contact : \n*Contacts : \n*E-mail : \n*Contenu : ";
+
+"contactUsAlertMessage" = "Ce menu est dédié partenariat. S'il vous plaît accepter la participation des annonces liées au centre contact client. Voulez-vous aller dans le menu Contactez-nous?";
+
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "installer";
 "acquisition" = "acquisition";
 "alerViewCantParticipateEventMessage" = "Vous ne pouvez pas participer à des événements.";
 "alerViewCompletedParticipateEventMessage" = "Participation à l'événement est terminé.";
+
+"getPromotingCPITrackingURLFailMessage" = "Partager adresse du lien est invalide. S'il vous plaît contacter le Service Client.";

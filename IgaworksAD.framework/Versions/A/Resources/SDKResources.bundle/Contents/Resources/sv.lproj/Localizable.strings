@@ -165,6 +165,17 @@
 
 "remainQuantity" = "[resterande kvantitet:%@]";
 
+"notice" = "Meddelande";
+
+"viralPromotionNoticeMessage" = "Att sprida falsk information och främja länk för en belöning ändamål kan leda till att dra tillbaka och ta bort alla dina förvärvade belöningar och användarkonto.";
+
+"agree" = "enas";
+"deny" = "neka";
+
+"contactUsMailMessage" = "Vänta på deltagande företag och vara behörig med adPOPcorn.\n<Partnerskap>\n*Företag : \n*Kontaktperson : \n*Kontaktuppgifter : \n*E-post : \n*Innehåll : ";
+
+"contactUsAlertMessage" = "Den här menyn är dedikerad Partnership. Vänligen acceptera deltagande av kundtjänstrelaterade annonser. Vill du gå till Kontakta oss menyn?";
+
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -172,3 +183,5 @@
 "acquisition" = "förvärv";
 "alerViewCantParticipateEventMessage" = "Kan inte delta i evenemang.";
 "alerViewCompletedParticipateEventMessage" = "Deltagande i händelsen är avslutad.";
+
+"getPromotingCPITrackingURLFailMessage" = "Dela länkadressen är ogiltig. Vänligen kontakta kundtjänst.";
