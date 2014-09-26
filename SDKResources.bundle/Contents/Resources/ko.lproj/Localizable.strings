@@ -123,7 +123,10 @@
 "promotingLinkType" = "링크형";
 "promotingCouponType" = "쿠폰형";
 
-"promotingItemQuantity" = "초대 건당\n%@";
+"commonPromotingItemQuantity" = "친구가 접속 시 마다\n%@";
+"CPIPromotingItemQuantity" = "친구가 실행하면\n%@";
+"LoginPromotingItemQuantity" = "친구가 로그인하면\n%@";
+"CPAPromotingItemQuantity" = "친구가 회원가입하면\n%@";
 
 "invitedCount" = "초대성공 : %@명";
 "earnedReward" = "총 %@ %@ 획득";
@@ -133,7 +136,13 @@
 
 //"promotingPartipateMethod1" = "1. 다양한 방법으로 친구들에게 앱을 소개합니다. 소개 글은 직접 편집에서 사용하실 수 있습니다.";
 "promotingPartipateMethod1" = "1. 페이스북, 카카오톡등 다양한 방법으로 친구들에게 %@를(을) 소개해보세요(소개글은 본인이 직접 편집할 수 있습니다.) ";
-"promotingPartipateMethod2" = "2. 소개글의 설치 링크를 통해 친구가 앱을 설치, 실행하면\n3. 참여한 친구 수만큼 아이템을 획득하게됩니다.";
+"promotingPartipateMethod2LinkType" = "2. 소개글의 설치 링크를 클릭하여 친구가 %@를(을) %@하면, 친구 수 만큼 보상이 즉시 지급됩니다.";
+"promotingPartipateMethod2CouponType" = "2. 소개글의 설치 링크를 클릭하여 친구가 %@를(을), %@ 후 쿠폰번호를 입력하면, 친구 수 만큼 보상이 즉시 지급됩니다.";
+
+"install&connect" = "설치&접속";
+"install&execute" = "설치&실행";
+"install&login" = "설치&로그인";
+"install&reg" = "설치&회원가입";
 
 "promotingCautionMessage" = "주의! 친구초대는 앱을 소개하기 위한 서비스이므로 본인이 설치한 앱은 리워드 획득에서 제외됩니다.";
 
@@ -167,7 +176,7 @@
 
 "notice" = "알림";
 
-"viralPromotionNoticeMessage" = "허위사실이나 보상으로 링크를 홍보할 경우, 획득 아이템 전량회수 및 유저ID 삭제 등의 불이익이 발생될 수 있습니다.";
+"viralPromotionNoticeMessage" = "친구초대 시 허위사실을 유포하여 이득을 취할 경우 부당이득 전량 회수 및 계정 제재 처리를 받게 됩니다.";
 
 "agree" = "동의";
 "deny" = "동의안함";

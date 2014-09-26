@@ -123,7 +123,10 @@
 "promotingLinkType" = "Tipo de enlace";
 "promotingCouponType" = "Tipo Cupón";
 
-"promotingItemQuantity" = "%@\npor invitación";
+"commonPromotingItemQuantity" = "%@\npor lanzamiento";
+"CPIPromotingItemQuantity" = "%@\npor lanzamiento";
+"LoginPromotingItemQuantity" = "%@\npor login";
+"CPAPromotingItemQuantity" = "%@\npor registro";
 
 "invitedCount" = "Invite éxito : %@ pacientes";
 "earnedReward" = "Obtener un total de %@ %@";
@@ -131,8 +134,14 @@
 "copy" = "copia";
 "viewRanking" = "Ver rango";
 
-"promotingPartipateMethod1" = "1. En una variedad de maneras de introducir amigos a la aplicación. Introducción se puede editar utilizar directamente.";
-"promotingPartipateMethod2" = "2. Amigos a través de la introducción del enlace de instalación para instalar la aplicación, ejecute el\n3. Numero de amigos para que participen en el artículo comprado.";
+"promotingPartipateMethod1" = "1. Presente %@ a tus amigos a través de Facebook, KakaoTalk, y así sucesivamente. (Puede introducir la aplicación a sus amigos con su propio mensaje)";
+"promotingPartipateMethod2LinkType" = "2. Una vez que sus amigos, haga clic en el enlace y completa el %@ %@ para usted será recompensado por completo.";
+"promotingPartipateMethod2CouponType" = "2.Una vez que tus amigos hacen clic en el enlace y completa el %@ para %@, y entra el número de cupón, usted será recompensado por completo.";
+
+"install&connect" = "Instalación y lanzamiento";
+"install&execute" = "Instalación y lanzamiento";
+"install&login" = "Instalar y Acceder";
+"install&reg" = "Instalación y Registro";
 
 "promotingCautionMessage" = "¡Atención! Invite a un amigo para presentarle a la aplicación, por lo que he instalado las recompensas de servicios de aplicaciones serán excluidos de la adquisición.";
 
@@ -166,7 +175,7 @@
 
 "notice" = "aviso";
 
-"viralPromotionNoticeMessage" = "Difundir información falsa y promueve el vínculo para un propósito recompensa puede dar lugar a la retirada y eliminación de todos sus premios adquiridos y cuenta de usuario.";
+"viralPromotionNoticeMessage" = "Si obtiene la recompensa por difundir información falsa, tu recompensa será reclamado y la cuenta será suspendida.";
 
 "agree" = "acordar";
 "deny" = "negar";

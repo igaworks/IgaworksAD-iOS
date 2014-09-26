@@ -121,7 +121,10 @@
 "promotingLinkType" = "type de lien";
 "promotingCouponType" = "Type de coupon";
 
-"promotingItemQuantity" = "%@\npar invitation";
+"commonPromotingItemQuantity" = "%@\npar le lancement";
+"CPIPromotingItemQuantity" = "%@\npar le lancement";
+"LoginPromotingItemQuantity" = "%@\npar login";
+"CPAPromotingItemQuantity" = "%@\npar registre";
 
 "invitedCount" = "Invitez succès : %@ patients";
 "earnedReward" = "Obtenir un total de %@ %@";
@@ -129,8 +132,15 @@
 "copy" = "copie";
 "viewRanking" = "Voir classement";
 
-"promotingPartipateMethod1" = "1. Dans une variété de façons d'introduire des amis à l'application. Introduction peut être modifié directement utilisé.";
-"promotingPartipateMethod2" = "2. Amis à travers la mise en place de la liaison Installer pour installer l'application, exécutez la\n3. Nombre d'amis pour participer à l'article acheté.";
+"promotingPartipateMethod1" = "1. Présentez %@ de vos amis sur Facebook, Kakaotalk, et ainsi de suite. (Vous pouvez introduire l'application à vos amis avec votre propre message)";
+"promotingPartipateMethod2LinkType" = "2. Une fois que vos amis cliquez sur le lien et complète l'%@ %@ pour vous serez récompensé par complet.";
+"promotingPartipateMethod2CouponType" = "2.Une fois que vos amis cliquent sur le lien et complète l'%@ %@ de, et entre dans le nombre de coupons, vous serez récompensé par complet.";
+
+"install&connect" = "Installez et lancement";
+"install&execute" = "Installez et lancement";
+"install&login" = "Installer et connecter";
+"install&reg" = "Installez et s'inscrire";
+
 
 "promotingCautionMessage" = "Attention! Inviter un ami à vous présenter à l'application, j'ai donc installé les récompenses de service de l'application seront exclus de l'acquisition.";
 
@@ -164,7 +174,7 @@
 
 "notice" = "délai";
 
-"viralPromotionNoticeMessage" = "Diffusion de fausses informations et la promotion des liens dans un but de récompense peut entraîner le retrait et la suppression de tous vos avantages acquis et compte d'utilisateur.";
+"viralPromotionNoticeMessage" = "Si vous obtenez la récompense en répandant de fausses informations, votre récompense sera récupéré et le compte sera suspendu.";
 
 "agree" = "se mettre d'accord";
 "deny" = "nier";
