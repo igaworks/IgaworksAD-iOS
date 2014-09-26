@@ -122,7 +122,11 @@
 "promotingLinkType" = "Link Type";
 "promotingCouponType" = "Coupon Type";
 
-"promotingItemQuantity" = "%@\nper invite";
+
+"commonPromotingItemQuantity" = "%@\nper launch";
+"CPIPromotingItemQuantity" = "%@\nper launch";
+"LoginPromotingItemQuantity" = "%@\nper login";
+"CPAPromotingItemQuantity" = "%@\nper register";
 
 "invitedCount" = "Invite Success : %@ patients";
 "earnedReward" = "Obtain a total of %@ %@";
@@ -130,8 +134,15 @@
 "copy" = "Copy";
 "viewRanking" = "View rank";
 
-"promotingPartipateMethod1" = "1. In a variety of ways to introduce friends to the app. Introduction can be edited directly used.";
-"promotingPartipateMethod2" = "2. Friends through the introduction of the Install link to install the app, run the\n3. Number of friends to participate in the purchased item.";
+"promotingPartipateMethod1" = "1. Introduce %@ to your friends through Facebook, KakaoTalk, and so forth. (You can introduce the app to your friends with your own message)";
+"promotingPartipateMethod2LinkType" = "2. Once your friends click the link and completes the %@ for %@ you will be rewarded per complete.";
+"promotingPartipateMethod2CouponType" = "2. Once your friends click the link and completes the %@ for %@, and enters the coupon numbers, you will be rewarded per complete.";
+
+"install&connect" = "Install&Launch";
+"install&execute" = "Install&Launch";
+"install&login" = "Install&Login";
+"install&reg" = "Install&Register";
+
 
 "promotingCautionMessage" = "Attention! Invite a friend to introduce you to the app, so I have installed the app service Rewards will be excluded from acquisition.";
 
@@ -165,7 +176,7 @@
 
 "notice" = "Notice";
 
-"viralPromotionNoticeMessage" = "Spreading false information and promoting the link for a reward purpose may result in withdrawing and deleting all of your acquired rewards and user account.";
+"viralPromotionNoticeMessage" = "If you get the reward by spreading false information, your reward will be reclaimed and the account will be suspended.";
 
 "agree" = "agree";
 "deny" = "deny";

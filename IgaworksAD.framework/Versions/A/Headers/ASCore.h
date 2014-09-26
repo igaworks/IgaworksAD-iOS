@@ -11,14 +11,6 @@
 
 @interface ASCore : NSObject
 
-@property (nonatomic) NSString* adBrixAppKey;
-//@property NSMutableDictionary* subclassMap;
-
-
-
-+ (void)initAppServiceWithAppKey:(NSString*)adBrix_appKey;
-//+ (void)initAppService:(NSString*)adBrix_appKey;
-
-//+ (void)registerSubclass:(Class)subclass collectionName:(NSString*)name;
++ (void)initAppService;
 
 @end

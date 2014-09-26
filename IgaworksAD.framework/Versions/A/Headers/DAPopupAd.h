@@ -32,7 +32,7 @@
 @optional
 - (void)DAPopupAdDidLoad:(DAPopupAd *)popupAd;
 
-- (void)DAPopupAd:(DAPopupAd *)popupAd didFailToReceivetialAdWithError:(DAError *)error;
+- (void)DAPopupAd:(DAPopupAd *)popupAd didFailToReceiveAdWithError:(DAError *)error;
 
 - (void)DAPopupAdWillLeaveApplication:(DAPopupAd *)popupAd;
 

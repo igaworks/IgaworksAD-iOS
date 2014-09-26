@@ -7,12 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "ASObject.h"
+
 
 typedef void (^FindInBackgroundBlock)(NSArray* list, NSError* error);
 //typedef void (^GetInBackgroundBlock)(ASObject* obj, NSError* error);
 
-
+@class ASObject;
 
 @interface ASQuery : NSObject
 

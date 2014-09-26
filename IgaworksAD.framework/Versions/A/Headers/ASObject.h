@@ -32,4 +32,6 @@ typedef void (^ASSaveCallback)(NSError* error);
 - (void)save:(ASSaveCallback)block;
 - (void)delete:(ASSaveCallback)block;
 
+- (NSDictionary*)getModifiedAttrs;
+
 @end

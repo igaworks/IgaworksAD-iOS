@@ -8,17 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
-typedef void (^ASUserLoginCompleteCallback)( NSString* objectId );
+typedef void (^ASUserLoginWorkCallback)();
 
 @interface ASUser : NSObject
 
-@property (nonatomic) NSMutableArray* loginWaitingCallbacks;
-
 + (void)login;
-+ (NSString*)getSessionId;
-+ (NSString*)getObjectId;
 
-+ (void)setLoginCompleteCallback:(ASUserLoginCompleteCallback)block;
++ (void)setLoginCompleteCallback:(ASUserLoginWorkCallback)block;
+
++ (NSString*)getObjectId;
 
 + (void)setTargetingData:(id)obj withKey:(NSString*)key;
 + (id)getTargetingDataWithKey:(NSString*)key;
