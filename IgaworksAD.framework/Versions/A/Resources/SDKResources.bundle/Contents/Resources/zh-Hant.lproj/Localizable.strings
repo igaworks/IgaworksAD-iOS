@@ -58,7 +58,7 @@
 "notYetisFavoriteComplete" = "還是喜歡是不完整的。要求確認。";
 
 "participate" = "參與";
-"viewDetail" = "了解更多";
+"viewDetail" = "詳細說明";
 
 "rewardConditionMessageCPIIns" = "賺取條件\ n在安裝前，請確認安裝。";
 "wrongURLAddress" = "無效的URL地址。請聯繫客戶服務。";
@@ -72,7 +72,7 @@
 "rewardCompleted" = "完成付款";
 
 
-"participateListTableHeaderText" = "完整的補償支付的廣告由參與完成狀態，由於網絡，它可能需要長達2個小時。";
+"participateListTableHeaderText" = "道具發放根據網絡狀況，最長可能需花費2小時的時間。";
 
 "csGuideText" = "如果您有任何疑問，請離開這裡。在回答，讓我快。";
 
@@ -80,7 +80,7 @@
 
 
 "inquiry" = "查詢";
-"receiveAReplyEmail" = "收到回复電子郵件";
+"receiveAReplyEmail" = "聯絡電子信箱";
 "pleaseEnterYourEmail"= "請輸入您的電子郵件地址。";
 
 
@@ -111,7 +111,7 @@
 "notSupportThisFunctionMessage" = "不支持此功能了。";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "請選擇您想要聯繫的事件。";
+"pleaseSelectTheEventYouWantToContactTitle" = "請選擇欲提問的活動。";
 
 "couponList" = "優惠券列表";
 

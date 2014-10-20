@@ -57,7 +57,7 @@
 "notYetisFavoriteComplete" = "Still like is not complete. Ask for confirmation.";
 
 "participate" = "Participate";
-"viewDetail" = "Learn more";
+"viewDetail" = "See details";
 
 "rewardConditionMessageCPIIns" = "Earn conditions\nAfter the installation, please verify the installation.";
 "wrongURLAddress" = "Invalid URL address. Please contact Customer Service.";
@@ -71,13 +71,13 @@
 "rewardCompleted" = "Complete payment";
 
 
-"participateListTableHeaderText" = "Complete compensation paid advertising by participation in the completion status, due to the network, it may take up to 2 hours.";
+"participateListTableHeaderText" = "It may take up to 2 hours for the reward to be delivered depending on your network situation.";
 "csGuideText" = "If you have any questions, please leave here. In answer, let me quickly.";
 "csNotiText" = "*The collected personal information (email address) is used for CS processing and problem solving, and will be deleted after a period of storage.";
 
 
 "inquiry" = "Inquiry";
-"receiveAReplyEmail" = "Receive A Reply Email";
+"receiveAReplyEmail" = "Your email";
 "pleaseEnterYourEmail"= "Please Enter Your Email.";
 
 "alertNoEmailMessage" = "Please enter your email address to receive replies.";
@@ -107,7 +107,7 @@
 "notSupportThisFunctionMessage" = "This feature is not supported anymore.";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "Please select the event you want to contact.";
+"pleaseSelectTheEventYouWantToContactTitle" = "Select the campaign.";
 
 "couponList" = "Coupon List";
 
@@ -115,9 +115,9 @@
 
 "send" = "Send";
 
-"adParticiateButtonText" = "Ads participation";
-"particiateHistoryButtonText" = "History of participation";
-"promotingButtonText" = "Invite a friend";
+"adParticiateButtonText" = "Offer";
+"particiateHistoryButtonText" = "History";
+"promotingButtonText" = "Invite offer";
 
 "promotingLinkType" = "Link Type";
 "promotingCouponType" = "Coupon Type";
@@ -128,7 +128,7 @@
 "LoginPromotingItemQuantity" = "%@\nper login";
 "CPAPromotingItemQuantity" = "%@\nper register";
 
-"invitedCount" = "Invite Success : %@ patients";
+"invitedCount" = "Total Invitations : %@";
 "earnedReward" = "Obtain a total of %@ %@";
 
 "copy" = "Copy";
@@ -172,7 +172,7 @@
 
 "linkCopy" = "Link copy";
 
-"remainQuantity" = "[remaining quantity:%@]";
+"remainQuantity" = "[remaining qty:%@]";
 
 "notice" = "Notice";
 

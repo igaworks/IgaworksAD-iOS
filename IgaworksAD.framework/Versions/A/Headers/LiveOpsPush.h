@@ -15,7 +15,8 @@
 
 @property (nonatomic) NSDate* sentTime;
 @property (nonatomic) NSString* bodyText;
-@property (nonatomic) NSDictionary* customData;
+@property (nonatomic) NSString* deepLinkUrl;
+@property (nonatomic) NSDictionary* deepLink;
 
 @end
 

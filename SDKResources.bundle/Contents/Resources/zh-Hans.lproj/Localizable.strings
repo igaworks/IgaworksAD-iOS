@@ -58,7 +58,7 @@
 "notYetisFavoriteComplete" = "还是喜欢是不完整的。要求确认。";
 
 "participate" = "参与";
-"viewDetail" = "了解更多";
+"viewDetail" = "详细说明";
 
 "rewardConditionMessageCPIIns" = "赚取条件\ n在安装前，请确认安装。";
 "wrongURLAddress" = "无效的URL地址。请联系客户服务。";
@@ -72,7 +72,7 @@
 "rewardCompleted" = "完成付款";
 
 
-"participateListTableHeaderText" = "完整的补偿支付的广告由参与完成状态，由于网络，它可能需要长达2个小时。";
+"participateListTableHeaderText" = "道具发放根据网络状况，最长可能需花费2小时的时间。";
 
 "csGuideText" = "如果您有任何疑问，请离开这里。在回答，让我快。";
 
@@ -80,7 +80,7 @@
 
 
 "inquiry" = "查询";
-"receiveAReplyEmail" = "收到回复电子邮件";
+"receiveAReplyEmail" = "联络电子邮件";
 "pleaseEnterYourEmail"= "请输入您的电子邮件地址。";
 
 
@@ -111,7 +111,7 @@
 "notSupportThisFunctionMessage" = "不支持此功能了。";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "请选择您想要联系的事件。";
+"pleaseSelectTheEventYouWantToContactTitle" = "请选择欲提问的活动。";
 
 "couponList" = "优惠券列表";
 

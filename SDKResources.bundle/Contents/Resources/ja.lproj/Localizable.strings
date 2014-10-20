@@ -56,7 +56,7 @@
 "notYetisFavoriteComplete" = "まだいいね！しておりません。ご確認お願い致します。";
 
 "participate" = "参加する";
-"viewDetail" = "詳細はこちら";
+"viewDetail" = "詳細を見る";
 
 "rewardConditionMessageCPIIns" = "獲得条件\nインストール後、インストール確認してください。";
 "wrongURLAddress" = "無効なURLアドレス。カスタマーサービスまでご連絡ください。";
@@ -69,12 +69,12 @@
 "rewardWaiting" = "発行待機中";
 "rewardCompleted" = "発行完了";
 
-"participateListTableHeaderText" = "アイテム発行はネットワーク状態によって最大２時間かかる場合もあります。";
+"participateListTableHeaderText" = "ネットワーク事情によりアイテムの配布に最大2時間程度かかります。";
 "csGuideText" = "ご不明な点がございましたら、こちらコメントお願い致します。直ぐにお返事させていただきます。";
 "csNotiText" = "*収集した個人情報（メールアドレス）は、CS処理や問題解決のために使用され、保存期間後に削除されます。";
 
 "inquiry" = "お問い合わせ";
-"receiveAReplyEmail" = "返信先メールアドレス";
+"receiveAReplyEmail" = "メールアドレス";
 "pleaseEnterYourEmail"= "メールアドレスを入力してください。";
 
 "alertNoEmailMessage" = "返信先メールアドレスを入力してください。";
@@ -104,11 +104,11 @@
 "notSupportThisFunctionMessage" = "該当機能はサポートされています。";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "お問い合わせイベントを選択してください。";
+"pleaseSelectTheEventYouWantToContactTitle" = "お問い合わせの広告を選択してください。";
 
 "couponList" = "クーポンリスト";
 
-"customerService" = "カスタマサポートセンター";
+"customerService" = "カスタマーセンター";
 
 "send" = "送信";
 

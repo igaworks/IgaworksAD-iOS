@@ -9,6 +9,13 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+typedef NS_ENUM(NSInteger, AdBrixCustomCohortType)
+{
+    AdBrixCustomCohort_1 = 1,
+    AdBrixCustomCohort_2 = 2,
+    AdBrixCustomCohort_3 = 3
+};
+
 @interface AdBrix : NSObject
 
 
@@ -77,5 +84,7 @@
 + (void)start;
 
 + (void)showViralCPINotice:(UIViewController *)viewController;
+
++ (void)setCustomCohort:(AdBrixCustomCohortType)customCohortType filterName:(NSString *)filterName;
 
 @end

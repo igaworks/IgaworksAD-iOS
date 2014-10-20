@@ -14,7 +14,7 @@
 
 #import "DADemo.h"
 
-#import "NSObject+IgaworksADBlocksAdditions.h"
+
 
 
 @protocol DaAdapterDelegate;
@@ -36,8 +36,6 @@ typedef enum _DAAdType
 #undef AdPopcornLogComponent
 #define AdPopcornLogComponent lcl_cAdPopcorn
 
-static NSInteger const kDAAdapterInvokeDelegateTimeoutSeconds = 5;
-
 @interface DAAdapter : NSObject
 {
     UIViewController *_viewController;
@@ -45,10 +43,6 @@ static NSInteger const kDAAdapterInvokeDelegateTimeoutSeconds = 5;
     CGSize _size;
     DAAdType _adType;
     DABannerView *_bannerView;
-    
-    BOOL _isInvokeDelegate;
-    
-    id _invokeDelegateTimeoutBlock;
 }
 
 @property (nonatomic, unsafe_unretained) id<DaAdapterDelegate> delegate;
@@ -93,8 +87,5 @@ static NSInteger const kDAAdapterInvokeDelegateTimeoutSeconds = 5;
 - (void)DAAdapterInterstitial:(NSObject *)interstitialAd didFailToReceiveAdWithError:(NSError *)error adapter:(DAAdapter *)adapter;
 
 - (void)DAAdapterInterstitialWillLeaveApplication:(NSObject *)interstitialAd;
-
-- (void)DAAdapterInvokeDelegateTimeout;
-
 
 @end
