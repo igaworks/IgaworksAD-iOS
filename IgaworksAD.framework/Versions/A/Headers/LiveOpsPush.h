@@ -13,10 +13,10 @@
 
 @interface LiveOpsPushInfo : NSObject
 
-@property (nonatomic) NSDate* sentTime;
-@property (nonatomic) NSString* bodyText;
-@property (nonatomic) NSString* deepLinkUrl;
-@property (nonatomic) NSDictionary* deepLink;
+@property (nonatomic,copy) NSDate* sentTime;
+@property (nonatomic,copy) NSString* bodyText;
+@property (nonatomic,copy) NSString* deepLinkUrl;
+@property (nonatomic,copy) id deepLink;
 
 @end
 
@@ -42,7 +42,7 @@ typedef void (^LiveOpsRemoteNotificationCallback)(NSArray* pushInfos, BOOL isFor
 + (BOOL)getRemotePushEnable;
 + (void)setRemotePushEnable:(BOOL)isEnabled;
 
-+ (void)registerLocalPushNotification:(NSInteger)Id date:(NSDate*)date body:(NSString*)bodyText button:(NSString*)buttonText soundName:(NSString*)sound badgeNumber:(NSInteger)badgeNum userInfo:(NSDictionary*)userInfoDict;
++ (void)registerLocalPushNotification:(NSInteger)Id date:(NSDate*)date body:(NSString*)bodyText button:(NSString*)buttonText soundName:(NSString*)sound badgeNumber:(NSInteger)badgeNum customPayload:(NSDictionary*)payloadDict;
 + (void)cancelLocalPush:(NSInteger)Id;
 
 @end
