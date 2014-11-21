@@ -60,8 +60,6 @@
 "participate" = "参与";
 "viewDetail" = "详细说明";
 
-"rewardConditionMessageCPIIns" = "赚取条件\ n在安装前，请确认安装。";
-"wrongURLAddress" = "无效的URL地址。请联系客户服务。";
 
 "checkInstall" = "验证安装";
 "checkParticipate" = "确认参与";
@@ -197,3 +195,12 @@
 "alerViewCompletedParticipateEventMessage" = "参与事件完成。";
 
 "getPromotingCPITrackingURLFailMessage" = "分享链接地址是无效的。请联系客户服务。";
+
+"quitTheVideoNowMessage" = "现在关闭视频将不会得到奖励，要关闭吗？";
+
+"videoWatchAgainMessage" = "视频尚未结束。需要继续进行观看吗？";
+
+"enterYourCouponCodeAlertTitle" = "请输入优惠券号码.";
+"enterYourCouponCodeAlertMessage" = "输入优惠券号码后，请点击确认按钮.";
+
+"couponCode" = "礼券编号";

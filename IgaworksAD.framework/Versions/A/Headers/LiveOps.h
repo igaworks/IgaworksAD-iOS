@@ -6,6 +6,7 @@
 //  Copyright (c) 2014년 IGAWorks. All rights reserved.
 //
 
+#import "LiveOpsCore.h"
 #import "LiveOpsObject.h"
 #import "LiveOpsUser.h"
 #import "LiveOpsQuery.h"

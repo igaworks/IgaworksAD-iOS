@@ -58,7 +58,6 @@
 "participate" = "Participer";
 "viewDetail" = "En savoir plus";
 
-"rewardConditionMessageCPIIns" = "Gagnez des conditions \ nUne le montage, s'il vous plaît vérifier l'installation.";
 "wrongURLAddress" = "Adresse URL valide. S'il vous plaît contacter le Service Client.";
 
 "checkInstall" = "Vérification de l'installation";
@@ -191,3 +190,12 @@
 "alerViewCompletedParticipateEventMessage" = "Participation à l'événement est terminé.";
 
 "getPromotingCPITrackingURLFailMessage" = "Partager adresse du lien est invalide. S'il vous plaît contacter le Service Client.";
+
+"quitTheVideoNowMessage" = "Si vous quittez la vidéo maintenant, vous ne recevrez pas la récompense. Etes-vous sûr de vouloir quitter?";
+
+"videoWatchAgainMessage" = "Vous avez pas fini de regarder votre vidéo. Voulez-vous recommencer?";
+
+"enterYourCouponCodeAlertTitle" = "Se il vous plaît entrer votre code de coupon.";
+"enterYourCouponCodeAlertMessage" = "Après avoir entré le code de coupon ci-dessous, appuyez sur le bouton OK.";
+
+"couponCode" = "Codes promos";

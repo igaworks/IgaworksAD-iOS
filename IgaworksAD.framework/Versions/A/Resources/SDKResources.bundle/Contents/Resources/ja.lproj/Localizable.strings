@@ -58,8 +58,6 @@
 "participate" = "参加する";
 "viewDetail" = "詳細を見る";
 
-"rewardConditionMessageCPIIns" = "獲得条件\nインストール後、インストール確認してください。";
-"wrongURLAddress" = "無効なURLアドレス。カスタマーサービスまでご連絡ください。";
 
 "checkInstall" = "インストール確認";
 "checkParticipate" = "参加確認";
@@ -191,3 +189,12 @@
 "alerViewCompletedParticipateEventMessage" = "既に参加完了したキャンペーンです。";
 
 "getPromotingCPITrackingURLFailMessage" = "共有リンクアドレスが無効です。カスタマーサービスまでご連絡ください。";
+
+"quitTheVideoNowMessage" = "視聴中の画像を終了するとリワードされません。終了しますか？";
+
+"videoWatchAgainMessage" = "動画の再生が中断されました。再度ご覧になりますか?";
+
+"enterYourCouponCodeAlertTitle" = "クーポンコードを入力して下さい。";
+"enterYourCouponCodeAlertMessage" = "以下のクーポンコードを入力した後、確認ボタンをタップして下さい。";
+
+"couponCode" = "クーポン番号";

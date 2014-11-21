@@ -60,8 +60,6 @@
 "participate" = "參與";
 "viewDetail" = "詳細說明";
 
-"rewardConditionMessageCPIIns" = "賺取條件\ n在安裝前，請確認安裝。";
-"wrongURLAddress" = "無效的URL地址。請聯繫客戶服務。";
 
 "checkInstall" = "驗證安裝";
 "checkParticipate" = "確認參與";
@@ -195,3 +193,10 @@
 "alerViewCompletedParticipateEventMessage" = "參與事件完成。";
 
 "getPromotingCPITrackingURLFailMessage" = "分享鏈接地址是無效的。請聯繫客戶服務。";
+
+"quitTheVideoNowMessage" = "現在關閉視頻將不會得到獎勵，要關閉嗎？";
+
+"enterYourCouponCodeAlertTitle" = "請輸入優惠券號碼.";
+"enterYourCouponCodeAlertMessage" = "輸入優惠券號碼後，請點擊確認按鈕.";
+
+"couponCode" = "禮券編號";
