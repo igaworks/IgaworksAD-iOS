@@ -96,7 +96,7 @@
 
 "couponCopyGuide" = "クーポンコードを長めにタップし続けるとコピーすることができます。";
 
-"noCouponListMessage" = "使用可能なクーポンがありません。;
+"noCouponListMessage" = "使用可能なクーポンがありません。";
 
 "couponCopiedMessage" = "%@ クーポンコードがコピーされました。";
 
