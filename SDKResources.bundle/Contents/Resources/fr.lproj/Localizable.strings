@@ -195,6 +195,9 @@
 
 "videoWatchAgainMessage" = "Vous avez pas fini de regarder votre vidéo. Voulez-vous recommencer?";
 
+"anUnknownErrorMessage" = "Une erreur inconnue. Se il vous plaît contacter le Customer Care Center.";
+"theCampaignEndedMessage" = "La campagne est terminée.";
+
 "enterYourCouponCodeAlertTitle" = "Se il vous plaît entrer votre code de coupon.";
 "enterYourCouponCodeAlertMessage" = "Après avoir entré le code de coupon ci-dessous, appuyez sur le bouton OK.";
 

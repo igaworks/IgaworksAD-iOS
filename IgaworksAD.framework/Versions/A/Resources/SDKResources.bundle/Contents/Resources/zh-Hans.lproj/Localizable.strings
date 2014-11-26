@@ -202,6 +202,9 @@
 
 "videoWatchAgainMessage" = "视频尚未结束。需要继续进行观看吗？";
 
+"anUnknownErrorMessage" = "未知错误。请联系客户服务中心。";
+"theCampaignEndedMessage" = "此役结束。";
+
 "enterYourCouponCodeAlertTitle" = "请输入优惠券号码.";
 "enterYourCouponCodeAlertMessage" = "输入优惠券号码后，请点击确认按钮.";
 

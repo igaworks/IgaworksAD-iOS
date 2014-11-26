@@ -198,6 +198,9 @@
 
 "videoWatchAgainMessage" = "Você não terminou assistindo o vídeo. Gostaria de começar de novo?";
 
+"anUnknownErrorMessage" = "Um erro desconhecido. Entre em contato com o Serviço de Atendimento ao Cliente.";
+"theCampaignEndedMessage" = "A campanha terminou.";
+
 "enterYourCouponCodeAlertTitle" = "Digite seu código de cupom.";
 "enterYourCouponCodeAlertMessage" = "Depois de inserir o código do cupom abaixo, pressione o botão OK.";
 

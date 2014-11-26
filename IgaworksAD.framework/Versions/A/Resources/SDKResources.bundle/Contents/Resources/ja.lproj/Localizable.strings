@@ -105,7 +105,7 @@
 "notSupportThisFunctionMessage" = "この機能は現在使われていません。";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "対象の[イベント]を選択してください。";
+"pleaseSelectTheEventYouWantToContactTitle" = "お問い合わせ対象";
 
 "couponList" = "クーポンリスト";
 
@@ -114,17 +114,17 @@
 "send" = "送信";
 
 
-"adParticiateButtonText" = "[イベント]参加";
+"adParticiateButtonText" = "[イベント]";
 "particiateHistoryButtonText" = "参加履歴";
 "promotingButtonText" = "友達招待";
 
 "promotingLinkType" = "リンク型";
 "promotingCouponType" = "クーポン型";
 
-"commonPromotingItemQuantity" = "招待されたお友達がアクセスする度に %@";
-"CPIPromotingItemQuantity" = "招待されたお友達がアプリを起動すると %@";
-"LoginPromotingItemQuantity" = "招待されたお友達がログインすると %@";
-"CPAPromotingItemQuantity" = "招待されたお友達が会員登録すると %@";
+"commonPromotingItemQuantity" = "お友達がアクセスする度 %@";
+"CPIPromotingItemQuantity" = "お友達が起動する度 %@";
+"LoginPromotingItemQuantity" = "お友達がログインする度 %@";
+"CPAPromotingItemQuantity" = "お友達が会員登録する度 %@";
 
 "invitedCount" = "招待成功：%@名";
 "earnedReward" = "合計 %@ %@ 獲得";
@@ -134,6 +134,7 @@
 
 "promotingPartipateMethod1" = "１．Facebook、LINEなど、SNSを使って友達に%@を紹介してください。招待メッセージはご自身で編集することができます。";
 "promotingPartipateMethod2LinkType" = "２．招待されたお友達が、招待メッセージに含まれるインストールリンクをタップし、%@を%@すると、参加した人数分の報酬がお客様に付与されます。";
+
 "promotingPartipateMethod2CouponType" = "２．招待されたお友達が、招待メッセージに含まれるインストールリンクをタップし、%@を%@した後、参加したお友達の人数に応じて、お客様に報酬が付与されます。";
 
 
@@ -142,8 +143,8 @@
 "install&login" = "インストール後ログイン";
 "install&reg" = "インストール後会員登録";
 
+"promotingCautionMessage" = "「お友達招待」はアプリをお友達に紹介するサービスであり、ご自身のインストールは報酬の対象外となります。";
 
-"promotingCautionMessage" = "ご注意！「お友達招待」はアプリをご紹介いただくためのプログラムのため、お客様ご自身のインストール分は報酬の対象外となります。";
 
 "textCopied" = "コピーされました。";
 
@@ -182,7 +183,7 @@
 
 "contactUsMailMessage" = "adPOPcornを導入される企業様を募集しています。\n<連携に関してのお問合せ>\n*御社名 : \n*ご担当者様 : \n*ご連絡先 : \n*メールアドレス : \n**内容 : ";
 
-"contactUsAlertMessage" = "このメニューは、[イベント]提供システムの連携に関する問合せの専用窓口になります。[イベント]参加に関するお問合せは、「カスタマセンター」または「こちら」でお願いします。";
+"contactUsAlertMessage" = "このメニューは、[イベント］提供システムの提携に関する問い合わせ専用窓口です。[イベント］参加に関するお問い合わせは「カスタマーセンター」までお願いします。「カスタマーセンター」まで移動しますか？";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
@@ -196,6 +197,9 @@
 "quitTheVideoNowMessage" = "視聴中の動画を終了すると報酬が付与されません。終了しますか？";
 
 "videoWatchAgainMessage" = "動画の再生が中断されました。再度ご覧になりますか?";
+
+"anUnknownErrorMessage" = "不明なエラーです。お客様センターにお問い合わせください。";
+"theCampaignEndedMessage" = "終了したキャンペーンです。";
 
 "enterYourCouponCodeAlertTitle" = "クーポンコードを入力して下さい。";
 "enterYourCouponCodeAlertMessage" = "以下のクーポンコードを入力した後、確認ボタンをタップして下さい。";

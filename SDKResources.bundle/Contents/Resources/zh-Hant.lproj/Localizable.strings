@@ -196,6 +196,9 @@
 
 "quitTheVideoNowMessage" = "現在關閉視頻將不會得到獎勵，要關閉嗎？";
 
+"anUnknownErrorMessage" = "未知錯誤。請聯繫客戶服務中心。";
+"theCampaignEndedMessage" = "此役結束。";
+
 "enterYourCouponCodeAlertTitle" = "請輸入優惠券號碼.";
 "enterYourCouponCodeAlertMessage" = "輸入優惠券號碼後，請點擊確認按鈕.";
 

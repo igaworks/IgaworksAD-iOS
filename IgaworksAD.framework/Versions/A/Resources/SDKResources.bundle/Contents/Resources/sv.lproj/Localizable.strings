@@ -199,6 +199,9 @@
 
 "videoWatchAgainMessage" = "Du har inte tittat klart på videon. Vill du börja om igen?";
 
+"anUnknownErrorMessage" = "Ett okänt fel. Vänligen kontakta kundtjänst.";
+"theCampaignEndedMessage" = "Kampanjen avslutades.";
+
 "enterYourCouponCodeAlertTitle" = "Ange din kupongkod.";
 "enterYourCouponCodeAlertMessage" = "När du anger kupongkod nedan, tryck på OK-knappen.";
 

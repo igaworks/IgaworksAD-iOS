@@ -196,6 +196,9 @@
 
 "videoWatchAgainMessage" = "No ha terminado de ver el vídeo. ¿Quieres empezar de nuevo?";
 
+"anUnknownErrorMessage" = "Ein unbekannter Fehler ist. Bitte kontaktieren Sie das Customer Care Center.";
+"theCampaignEndedMessage" = "Die Kampagne beendet.";
+
 "enterYourCouponCodeAlertTitle" = "Bitte geben Sie Ihren Gutschein-Code.";
 "enterYourCouponCodeAlertMessage" = "Nachdem Sie den Gutschein-Code unten eingeben, drücken Sie die OK-Taste.";
 

@@ -197,6 +197,9 @@
 
 "videoWatchAgainMessage" = "You have not finished watching your video. Would you like to start again?";
 
+"anUnknownErrorMessage" = "An unknown error. Please contact the Customer Care Center.";
+"theCampaignEndedMessage" = "The campaign ended.";
+
 "enterYourCouponCodeAlertTitle" = "Please enter your coupon code.";
 "enterYourCouponCodeAlertMessage" = "After you enter the coupon code below, press the OK button.";
 
