@@ -7,7 +7,7 @@
  */
 
 /* Title used for offer wall top bar */
-"offerWallTopBarTitle" = "イベント";
+"offerWallTopBarTitle" = "[イベント]";
 
 /* Title used for offer wall table cell */
 "max" = "最大";
@@ -16,13 +16,13 @@
 "alertViewTitle" = "アドポップコーン";
 
 /* Message used for alert view message for general error */
-"alertViewGeneralErrorMessage" = "広告要請がスムーズではありません。\nしばらく後にまたご利用お願い致します。";
+"alertViewGeneralErrorMessage" = "サーバへのアクセスが集中しています。\nしばらくしてから、もう一度お試しください。";
 
 /* Message used for alert view message for no campaign error */
 "alertViewNoCampaignErrorMessage" = "該当キャンペーンがありません。";
 
 /* Message used for alert view message for already participated campaign error */
-"alertViewAlreadyParticipatedCampaignErrorMessage" = "既に参加したキャンペーンです。";
+"alertViewAlreadyParticipatedCampaignErrorMessage" = "既に参加した[イベント]です。";
 
 /* Message used for alert view message for mediakeys were incorrect error */
 "alertViewMediaKeyIncorrectErrorMessage" = "メディアキーが間違っています。";
@@ -34,75 +34,78 @@
 "close" = "閉じる";
 
 /* Message used for bridge view of popup view */
-"moving" = "に移動中です。";
+"moving" = "に移動しています。";
 
 /* Title used for bridgr view of back button */
 "back" = "戻る";
 
-"alerViewAlreadyInstalledAppMessage" = "すでにアプリケーションインストールされています。そして、参加することはできません。ご確認をお願い致します。";
+"alerViewAlreadyInstalledAppMessage" = "このアプリは既にインストールされています。";
 
-"alerViewNotYetInstalledMessage" = "まだインストールされていません。インストール画面に移動しますか？";
-"alerViewNotOpenToInstallAppURLMessage" = "App Storeは移動できません。カスタマーサービスまでご連絡ください。";
+"alerViewNotYetInstalledMessage" = "まだアプリがインストールされていません。インストールページに移動しますか？";
+"alerViewNotOpenToInstallAppURLMessage" = "App Storeに移動できません。カスタマーサービスまでご連絡ください。";
 
 "checkParticipate" = "参加確認";
 "participating" = "参加中";
-"checkingScheme" = "スキーム確認中";
-"checkingIsFavorite" = "いいね確認中";
+"checkingScheme" = "インストール確認中";
+"checkingIsFavorite" = "「いいね！」確認中";
 
-"alreadyfavorited" = "既にいいねしました！残念ながら今回のイベントに参加できません。";
+"alreadyfavorited" = "既にファンになっている方は、この[イベント]への参加ができません。";
 
-"rewardComplete" = "正常的にアイテム発行要請を完了しました。ネットワーク事情によってアイテム発行は最大５分程かかる場合がありません。";
+"rewardComplete" = "報酬付与リクエストが完了しました。通信状況によっては、報酬付与に最大5分かかる場合があります。";
 
-"notYetisFavoriteComplete" = "まだいいね！しておりません。ご確認お願い致します。";
+"notYetisFavoriteComplete" = "まだ「いいね！」をしていません。「いいね！」をした後、もう一度お試しください。";
 
 "participate" = "参加する";
-"viewDetail" = "詳細を見る";
+"viewDetail" = "詳細を見る。";
+
+"wrongURLAddress" = "URLが正しくありません。カスタマーセンターまでご連絡ください。";
 
 
 "checkInstall" = "インストール確認";
 "checkParticipate" = "参加確認";
 
-"copyRecommendCode" = "推奨コードがコピーされました。";
+"copyRecommendCode" = "クーポンコードがコピーされました。";
 
-"rewardWaiting" = "発行待機中";
-"rewardCompleted" = "発行完了";
+"rewardWaiting" = "付与待機中";
+"rewardCompleted" = "付与完了";
 
-"participateListTableHeaderText" = "ネットワーク事情によりアイテムの配布に最大2時間程度かかります。";
-"csGuideText" = "ご不明な点がございましたら、こちらコメントお願い致します。直ぐにお返事させていただきます。";
-"csNotiText" = "*収集した個人情報（メールアドレス）は、CS処理や問題解決のために使用され、保存期間後に削除されます。";
+"participateListTableHeaderText" = "通信状況によっては、[イベント]参加完了から報酬付与に最大2時間かかる場合があります。";
+"csGuideText" = "ご不明な点がございましたら、こちらまでお問合せください。";
 
-"inquiry" = "お問い合わせ";
-"receiveAReplyEmail" = "メールアドレス";
+"csNotiText" = "*取得した個人情報（メールアドレス）は、お客様とのご連絡及び問題解決の目的で使用し、一定期間保管した後に削除されます。";
+
+"inquiry" = "お問合せ内容";
+"receiveAReplyEmail" = "返信先メールアドレス";
 "pleaseEnterYourEmail"= "メールアドレスを入力してください。";
 
 "alertNoEmailMessage" = "返信先メールアドレスを入力してください。";
-"alertNoAskMessage" = "お問い合わせ内容入力してください。";
+"alertNoAskMessage" = "お問合せ内容を入力して下さい。;
 
 "alertCSAddedMessage" = "お問い合わせが受信されました。";
 
-"alertSendMailFailMessage" = "メール配信に失敗しました。";
+"alertSendMailFailMessage" = "メールの送信に失敗しました。";
 
 "cancel" = "キャンセル";
 "select" = "選択";
 
-"wrongEmailFormatMessage" = "メール形式が正しくありません。ご確認お願い致します。";
+"wrongEmailFormatMessage" = "入力されたメールアドレスが正しくありません。(例:test@test.com)";
 
 "csTypeEmailSubject" = "【お問い合わせ先 AdPopcorn]%@";
 
 "csTypeEmailMessageBody" = "返信先メールアドレス : %@\nお問い合わせ : %@";
 
-"couponCopyGuide" = "クーポンコードを長く押すと、コピーされます。";
+"couponCopyGuide" = "クーポンコードを長めにタップし続けるとコピーすることができます。";
 
-"noCouponListMessage" = "クーポンが存在しません。";
+"noCouponListMessage" = "使用可能なクーポンがありません。;
 
 "couponCopiedMessage" = "%@ クーポンコードがコピーされました。";
 
 "noPopiconFunctionNotiMessage" = "Popicon機能はもはやサポートされていません。 offwall機能を使用してください。";
 
-"notSupportThisFunctionMessage" = "該当機能はサポートされています。";
+"notSupportThisFunctionMessage" = "この機能は現在使われていません。";
 
 
-"pleaseSelectTheEventYouWantToContactTitle" = "お問い合わせの広告を選択してください。";
+"pleaseSelectTheEventYouWantToContactTitle" = "対象の[イベント]を選択してください。";
 
 "couponList" = "クーポンリスト";
 
@@ -111,43 +114,43 @@
 "send" = "送信";
 
 
-"adParticiateButtonText" = "広告参加";
+"adParticiateButtonText" = "[イベント]参加";
 "particiateHistoryButtonText" = "参加履歴";
 "promotingButtonText" = "友達招待";
 
 "promotingLinkType" = "リンク型";
 "promotingCouponType" = "クーポン型";
 
-"commonPromotingItemQuantity" = "招待者がアクセスする度 %@";
-"CPIPromotingItemQuantity" = "招待者がアプリ実行すると %@";
-"LoginPromotingItemQuantity" = "招待者がログインすると %@";
-"CPAPromotingItemQuantity" = "招待者が会員登録すると %@";
+"commonPromotingItemQuantity" = "招待されたお友達がアクセスする度に %@";
+"CPIPromotingItemQuantity" = "招待されたお友達がアプリを起動すると %@";
+"LoginPromotingItemQuantity" = "招待されたお友達がログインすると %@";
+"CPAPromotingItemQuantity" = "招待されたお友達が会員登録すると %@";
 
 "invitedCount" = "招待成功：%@名";
-"earnedReward" = "総 %@ %@ 獲得";
+"earnedReward" = "合計 %@ %@ 獲得";
 
 "copy" = "コピー";
-"viewRanking" = "ランクをみる";
+"viewRanking" = "ランキングを見る。";
 
-"promotingPartipateMethod1" = "１．Facebook、カカオトーク等を多様な方法で友達に%@を紹介して下さい。(紹介文は本人が直接編集出来ます。)";
-"promotingPartipateMethod2LinkType" = "２．紹介文のインストールリンクをクリックして友達が%@を %@したら参加した回数にあわせて直ぐリワード頂けます。";
-"promotingPartipateMethod2CouponType" = "２．紹介文のインストールリンクをクリックして友達が%@を %@した後クーポン番号を入力したら参加した回数にあわせて直ぐリワード頂けます。";
-
-
-"install&connect" = "インストール及びアクセス";
-"install&execute" = "インストール及びアプリ実行";
-"install&login" = "インストール及びログイン";
-"install&reg" = "インストール及び会員登録";
+"promotingPartipateMethod1" = "１．Facebook、LINEなど、SNSを使って友達に%@を紹介してください。招待メッセージはご自身で編集することができます。";
+"promotingPartipateMethod2LinkType" = "２．招待されたお友達が、招待メッセージに含まれるインストールリンクをタップし、%@を%@すると、参加した人数分の報酬がお客様に付与されます。";
+"promotingPartipateMethod2CouponType" = "２．招待されたお友達が、招待メッセージに含まれるインストールリンクをタップし、%@を%@した後、参加したお友達の人数に応じて、お客様に報酬が付与されます。";
 
 
-"promotingCautionMessage" = "ご注意！友達招待はアプリを紹介するためのサービスになりますので本人のインストールは対象外になります。";
+"install&connect" = "インストール後アクセス";
+"install&execute" = "インストール後起動";
+"install&login" = "インストール後ログイン";
+"install&reg" = "インストール後会員登録";
+
+
+"promotingCautionMessage" = "ご注意！「お友達招待」はアプリをご紹介いただくためのプログラムのため、お客様ご自身のインストール分は報酬の対象外となります。";
 
 "textCopied" = "コピーされました。";
 
-"inviteCompensation" = "招待リワード";
-"rankCompensation" = "ランクリワード";
+"inviteCompensation" = "お友達招待報酬";
+"rankCompensation" = "ランキング達成報酬";
 
-"isOverseaOfferMessage" = "選択した広告は”海外広告”なので、参加リワード対象は最初一回のみになります。リワード獲得はネットワーク事情によって最大２時間かかる場合もあります。続いて進めますか？";
+"isOverseaOfferMessage" = "過去にアプリをダウンロードされたことのある方は、この[イベント]に参加されても報酬は付与されません。また、ネットワーク状況によっては、報酬付与まで最大2時間かかる場合があります。続けますか？";
 
 "yes" = "はい";
 "no" = "いいえ";
@@ -156,41 +159,41 @@
 
 "description" = "説明";
 
-"canNotParticipateInThisCampaignMessage" = "参加できるキャンペーンがありません。";
+"canNotParticipateInThisCampaignMessage" = "現在、参加できる[イベント]がありません。";
 
-"deviceNotConfiguredToSendSMSMessage" = "デバイスは、SMSを送信するように構成されていません。";
+"deviceNotConfiguredToSendSMSMessage" = "メッセージの送信が出来るように設定して下さい。";
 
-"shareNotiMessage" = "メッセージがコピーされます。 %@上で共有してお願い致します。";
+"shareNotiMessage" = "メッセージがコピーされました。 %@上で共有してください。";
 
 "contactUs" = "お問い合わせ";
 "privacyPolicy" = "個人情報保護";
-"pleaseCheckInTheMailSettings" = "メールの設定をご確認下さい。";
+"pleaseCheckInTheMailSettings" = "iPhoneの設定＞メール/連絡先/カレンダー>アカウントでアカウントを設定してください。";
 
-"linkCopy" = "リンクのコピー";
+"linkCopy" = "ダウンロードリンクをコピーする。";
 
 "remainQuantity" = "[残り数量:%@]";
 
-"notice" = "予告";
+"notice" = "お知らせ";
 
-"viralPromotionNoticeMessage" = "友達招待の時、偽の事実を流布して利を得る場合、不当利得の全量回収及びアカウントを制裁することになります。";
+"viralPromotionNoticeMessage" = "「お友達招待」にて、虚偽の事実を記載するなどにより、不正に報酬を獲得された場合、報酬の剥奪及びアカウントの登録解除をさせていただく場合があります。";
 
 "agree" = "同意する";
-"deny" = "否定する";
+"deny" = "同意しない";
 
-"contactUsMailMessage" = "adPOPcornと一緒にする力量のある企業の参加をお待ちます。\n<連携に関してのお問い合わせ>\n*会社名 : \n*担当者 : \n*連絡先 : \n*メールアドレス : \n*内容: ";
+"contactUsMailMessage" = "adPOPcornを導入される企業様を募集しています。\n<連携に関してのお問合せ>\n*御社名 : \n*ご担当者様 : \n*ご連絡先 : \n*メールアドレス : \n**内容 : ";
 
-"contactUsAlertMessage" = "このメニューは、提携のお問い合わせ専用です。広告参加に関するお問い合わせは、お客様センターを介して受信してください。お客様センターのメニューに移動しますか？";
+"contactUsAlertMessage" = "このメニューは、[イベント]提供システムの連携に関する問合せの専用窓口になります。[イベント]参加に関するお問合せは、「カスタマセンター」または「こちら」でお願いします。";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "インストール";
 "acquisition" = "獲得";
-"alerViewCantParticipateEventMessage" = "このキャンペーンに参加することはできません。";
-"alerViewCompletedParticipateEventMessage" = "既に参加完了したキャンペーンです。";
+"alerViewCantParticipateEventMessage" = "参加できない[イベント]です。";
+"alerViewCompletedParticipateEventMessage" = "既に参加した[イベント]です。";
 
-"getPromotingCPITrackingURLFailMessage" = "共有リンクアドレスが無効です。カスタマーサービスまでご連絡ください。";
+"getPromotingCPITrackingURLFailMessage" = "ダウンロードリンクが正しくありません。お手数ですが、「カスタマーセンター」までご連絡ください。";
 
-"quitTheVideoNowMessage" = "視聴中の画像を終了するとリワードされません。終了しますか？";
+"quitTheVideoNowMessage" = "視聴中の動画を終了すると報酬が付与されません。終了しますか？";
 
 "videoWatchAgainMessage" = "動画の再生が中断されました。再度ご覧になりますか?";
 
@@ -198,3 +201,6 @@
 "enterYourCouponCodeAlertMessage" = "以下のクーポンコードを入力した後、確認ボタンをタップして下さい。";
 
 "couponCode" = "クーポン番号";
+
+"freeDownload" = "無料ダウンロード";
+"learnMore" = "アプリの詳細";

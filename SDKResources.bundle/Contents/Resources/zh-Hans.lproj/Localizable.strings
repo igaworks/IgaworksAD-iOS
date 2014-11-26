@@ -61,6 +61,8 @@
 "viewDetail" = "详细说明";
 
 
+"wrongURLAddress" = "URLが正しくありません。カスタマーセンターまでご連絡ください。";
+
 "checkInstall" = "验证安装";
 "checkParticipate" = "确认参与";
 
@@ -204,3 +206,6 @@
 "enterYourCouponCodeAlertMessage" = "输入优惠券号码后，请点击确认按钮.";
 
 "couponCode" = "礼券编号";
+
+"freeDownload" = "免费下载";
+"learnMore" = "了解更多";
