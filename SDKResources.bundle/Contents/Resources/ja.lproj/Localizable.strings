@@ -133,9 +133,10 @@
 "viewRanking" = "ランキングを見る。";
 
 "promotingPartipateMethod1" = "１．Facebook、LINEなど、SNSを使って友達に%@を紹介してください。招待メッセージはご自身で編集することができます。";
-"promotingPartipateMethod2LinkType" = "２．招待されたお友達が、招待メッセージに含まれるインストールリンクをタップし、%@を%@すると、参加した人数分の報酬がお客様に付与されます。";
 
-"promotingPartipateMethod2CouponType" = "２．招待されたお友達が、招待メッセージに含まれるインストールリンクをタップし、%@を%@した後、参加したお友達の人数に応じて、お客様に報酬が付与されます。";
+"promotingPartipateMethod2LinkType" = "２．招待されたお友達が、招待メッセージにあるリンクをタップ、%@を%@すると、参加した人数分の報酬が付与されます。";
+
+"promotingPartipateMethod2CouponType" = "2. 招待されたお友達が招待メッセージのリンクをタップし、 %@を %@すると、招待されたお友達の人数に応じて報酬が付与されます。";
 
 
 "install&connect" = "インストール後アクセス";
