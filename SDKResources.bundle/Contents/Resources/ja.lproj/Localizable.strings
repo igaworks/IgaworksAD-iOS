@@ -136,6 +136,7 @@
 
 "promotingPartipateMethod2LinkType" = "２．招待されたお友達が、招待メッセージにあるリンクをタップ、%@を%@すると、参加した人数分の報酬が付与されます。";
 
+
 "promotingPartipateMethod2CouponType" = "2. 招待されたお友達が招待メッセージのリンクをタップし、 %@を %@すると、招待されたお友達の人数に応じて報酬が付与されます。";
 
 
@@ -147,7 +148,7 @@
 "promotingCautionMessage" = "「お友達招待」はアプリをお友達に紹介するサービスであり、ご自身のインストールは報酬の対象外となります。";
 
 
-"textCopied" = "コピーされました。";
+"textCopied" = "コピーしました。";
 
 "inviteCompensation" = "お友達招待報酬";
 "rankCompensation" = "ランキング達成報酬";
@@ -171,7 +172,6 @@
 "privacyPolicy" = "個人情報保護";
 "pleaseCheckInTheMailSettings" = "iPhoneの設定＞メール/連絡先/カレンダー>アカウントでアカウントを設定してください。";
 
-"linkCopy" = "ダウンロードリンクをコピーする。";
 
 "remainQuantity" = "[残り数量:%@]";
 

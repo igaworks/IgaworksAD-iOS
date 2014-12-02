@@ -39,10 +39,9 @@ typedef void (^LiveOpsRemoteNotificationCallback)(NSArray* pushInfos, BOOL isFor
 + (void)setLocalNotificationListener:(LiveOpsLocalNotificationCallback)block;
 + (void)setRemoteNotificationListener:(LiveOpsRemoteNotificationCallback)block;
 
-+ (BOOL)getRemotePushEnable;
 + (void)setRemotePushEnable:(BOOL)isEnabled;
 
-+ (void)registerLocalPushNotification:(NSInteger)Id date:(NSDate*)date body:(NSString*)bodyText button:(NSString*)buttonText soundName:(NSString*)sound badgeNumber:(NSInteger)badgeNum userInfo:(NSDictionary*)userInfoDict;
++ (void)registerLocalPushNotification:(NSInteger)Id date:(NSDate*)date body:(NSString*)bodyText button:(NSString*)buttonText soundName:(NSString*)sound badgeNumber:(NSInteger)badgeNum customPayload:(NSDictionary*)payloadDict;
 + (void)cancelLocalPush:(NSInteger)Id;
 
 @end

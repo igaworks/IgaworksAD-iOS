@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "IgaworksAD"
-s.version      = "5.2.0"
+s.version      = "6.0.0"
 s.summary      = "IgaworksAD SDK"
 s.homepage     = "https://github.com/igaworks/IgaworksAD-iOS"
 

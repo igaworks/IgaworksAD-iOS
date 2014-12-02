@@ -11,6 +11,7 @@
 
 @interface LiveOpsCore : NSObject
 
-+ (void)initLiveOps;
+//+ (void)initLiveOps;
++ (void)initLiveOpsWithAppKey:(NSString*)appKey;
 
 @end

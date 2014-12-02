@@ -12,7 +12,6 @@ typedef void (^LiveOpsUserLoginWorkCallback)();
 
 @interface LiveOpsUser : NSObject
 
-+ (void)login:(NSString*)userId;
 + (void)setLoginCompleteCallback:(LiveOpsUserLoginWorkCallback)block;
 
 + (NSString*)getUserId;
