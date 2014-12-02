@@ -15,8 +15,6 @@
 #import "DADemo.h"
 
 
-
-
 @protocol DaAdapterDelegate;
 
 typedef enum _DAMediationGender
@@ -53,6 +51,7 @@ typedef enum _DAAdType
 
 
 
+
 - (void)setViewController:(UIViewController *)viewController origin:(CGPoint)origin size:(CGSize)size bannerView:(DABannerView *)bannerView;
 - (void)setViewController:(UIViewController *)viewController;
 
@@ -74,7 +73,7 @@ typedef enum _DAAdType
 
 @optional
 
-- (void)DAAdapterBannerViewDidLoadAd:(UIView *)bannerView;
+- (void)DAAdapterBannerViewDidLoadAd:(UIView *)bannerView adapter:(DAAdapter *)adapter;
 - (void)DAAdapterBannerView:(UIView *)bannerView didFailToReceiveAdWithError:(NSError *)error adapter:(DAAdapter *)adapter;
 
 - (void)DAAdapterBannerViewWillLeaveApplication:(UIView *)bannerView;

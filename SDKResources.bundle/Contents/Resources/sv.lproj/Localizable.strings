@@ -58,7 +58,6 @@
 "participate" = "Delta";
 "viewDetail" = "Läs mer";
 
-"rewardConditionMessageCPIIns" = "Tjäna villkor \ nNär den installation, vänligen verifiera installationen.";
 "wrongURLAddress" = "Ogiltig URL-adress. Vänligen kontakta kundtjänst.";
 
 "checkInstall" = "Verifiera installationen";
@@ -171,7 +170,6 @@
 "privacyPolicy" = "Integritetspolicy";
 "pleaseCheckInTheMailSettings" = "Kontrollera i postinställningarna.";
 
-"linkCopy" = "kopiera";
 
 "remainQuantity" = "[resterande kvantitet:%@]";
 
@@ -195,3 +193,18 @@
 "alerViewCompletedParticipateEventMessage" = "Deltagande i händelsen är avslutad.";
 
 "getPromotingCPITrackingURLFailMessage" = "Dela länkadressen är ogiltig. Vänligen kontakta kundtjänst.";
+
+"quitTheVideoNowMessage" = "Om du avslutar videon nu, kommer du inte få belöningen. Är du säker på att du vill avsluta?";
+
+"videoWatchAgainMessage" = "Du har inte tittat klart på videon. Vill du börja om igen?";
+
+"anUnknownErrorMessage" = "Ett okänt fel. Vänligen kontakta kundtjänst.";
+"theCampaignEndedMessage" = "Kampanjen avslutades.";
+
+"enterYourCouponCodeAlertTitle" = "Ange din kupongkod.";
+"enterYourCouponCodeAlertMessage" = "När du anger kupongkod nedan, tryck på OK-knappen.";
+
+"couponCode" = "rabattkoder";
+
+"freeDownload" = "Gratis nedladdning";
+"learnMore" = "Läs mer";

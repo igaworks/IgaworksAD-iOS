@@ -59,7 +59,6 @@
 "participate" = "Participate";
 "viewDetail" = "See details";
 
-"rewardConditionMessageCPIIns" = "Earn conditions\nAfter the installation, please verify the installation.";
 "wrongURLAddress" = "Invalid URL address. Please contact Customer Service.";
 
 "checkInstall" = "Verifying the Installation";
@@ -170,7 +169,6 @@
 "privacyPolicy" = "Privacy policy";
 "pleaseCheckInTheMailSettings" = "Please check in the mail settings.";
 
-"linkCopy" = "Link copy";
 
 "remainQuantity" = "[remaining qty:%@]";
 
@@ -193,3 +191,18 @@
 "alerViewCompletedParticipateEventMessage" = "Participation in the event is completed.";
 
 "getPromotingCPITrackingURLFailMessage" = "Share link address is invalid. Please contact Customer Service.";
+
+"quitTheVideoNowMessage" = "If you quit the video now, you will not recieve the reward. Are you sure you want to quit?";
+
+"videoWatchAgainMessage" = "You have not finished watching your video. Would you like to start again?";
+
+"anUnknownErrorMessage" = "An unknown error. Please contact the Customer Care Center.";
+"theCampaignEndedMessage" = "The campaign ended.";
+
+"enterYourCouponCodeAlertTitle" = "Please enter your coupon code.";
+"enterYourCouponCodeAlertMessage" = "After you enter the coupon code below, press the OK button.";
+
+"couponCode" = "Coupon codes";
+
+"freeDownload" = "Free Download";
+"learnMore" = "Learn More";

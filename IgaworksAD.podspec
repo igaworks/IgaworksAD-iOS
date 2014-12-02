@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "IgaworksAD"
-s.version      = "5.2.0"
+s.version      = "6.0.0"
 s.summary      = "IgaworksAD SDK"
 s.homepage     = "https://github.com/igaworks/IgaworksAD-iOS"
 
@@ -20,7 +20,7 @@ s.author       = { "wonje,song" => "wonje@igaworks.com" }
 s.source       = { :git => "https://github.com/igaworks/IgaworksAD-iOS.git", :tag => "#{s.version}" }
 s.resources = "SDKResources.bundle"
 s.ios.vendored_frameworks = 'IgaworksAD.framework'
-s.frameworks = 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreData', 'QuartzCore', 'CoreTelephony', 'AdSupport', 'Security', 'MessageUI', 'ImageIO', 'CoreText', 'MobileCoreServices', 'Foundation', 'Social'
+s.frameworks = 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreData', 'QuartzCore', 'CoreTelephony', 'AdSupport', 'Security', 'MessageUI', 'ImageIO', 'CoreText', 'MobileCoreServices', 'Foundation', 'Social', 'MediaPlayer'
 s.libraries = 'xml2'
 s.xcconfig     = { 'HEADER_SEARCH_PATHS' => '"$(SDKROOT)/usr/include/libxml2"' }
 end
