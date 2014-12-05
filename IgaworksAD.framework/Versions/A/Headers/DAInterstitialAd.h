@@ -41,5 +41,10 @@
 
 //- (void)daInterstitialAdDidLoad;
 
+- (void)willOpenDAInterstitialAd;
+- (void)didOpenDAInterstitialAd;
+- (void)willCloseDAInterstitialAd;
+- (void)didCloseDAInterstitialAd;
+
 
 @end

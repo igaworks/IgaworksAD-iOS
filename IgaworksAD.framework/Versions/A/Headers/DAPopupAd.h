@@ -36,4 +36,9 @@
 
 - (void)DAPopupAdWillLeaveApplication:(DAPopupAd *)popupAd;
 
+- (void)willOpenDAPopupAd;
+- (void)didOpenDAPopupAd;
+- (void)willCloseDAPopupAd;
+- (void)didCloseDAPopupAd;
+
 @end
