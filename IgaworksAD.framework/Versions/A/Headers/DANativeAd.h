@@ -24,7 +24,7 @@
 
 @property (nonatomic, strong) id nativeAdvertisingResultJson;
 
-- (id)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey;
+- (instancetype)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey NS_DESIGNATED_INITIALIZER;
 
 - (void)loadAd;
 

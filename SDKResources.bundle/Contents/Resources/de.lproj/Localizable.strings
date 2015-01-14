@@ -62,7 +62,6 @@
 "wrongURLAddress" = "Ungültige URL-Adresse. Bitte kontaktieren Sie Kundenservice.";
 
 "checkInstall" = "Überprüfen der Installation";
-"checkParticipate" = "Teilnahme bestätigen";
 
 "copyRecommendCode" = "Empfohlen Code wurde kopiert.";
 
@@ -102,7 +101,6 @@
 
 "couponCopiedMessage" = "%@ Gutschein-Code wurde kopiert.";
 
-"noPopiconFunctionNotiMessage" = "Popicon Funktion wird nicht mehr unterstützt. Bitte verwenden offwall Funktion.";
 
 "notSupportThisFunctionMessage" = "Diese Funktion wird nicht mehr unterstützt.";
 

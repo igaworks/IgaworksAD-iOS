@@ -61,7 +61,6 @@
 "wrongURLAddress" = "잘못된 URL 주소입니다. 고객센터로 문의바랍니다.";
 
 "checkInstall" = "설치확인";
-"checkParticipate" = "참여확인";
 
 "copyRecommendCode" = "추천 코드가 복사되었습니다.";
 
@@ -102,7 +101,6 @@
 
 "couponCopiedMessage" = "%@ 쿠폰 번호가 복사되었습니다.";
 
-"noPopiconFunctionNotiMessage" = "Popicon 기능은 더이상 지원하지 않습니다. offwall 기능을 이용하시기 바랍니다.";
 
 "notSupportThisFunctionMessage" = "해당 기능은 더이상 지원하지 않습니다.";
 

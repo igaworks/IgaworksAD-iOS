@@ -18,16 +18,16 @@
 "alertViewTitle" = "廣告爆米花";
 
 /* Message used for alert view message for general error */
-"alertViewGeneralErrorMessage" = "廣告請求並不順利。\n在幾分鐘後，再次詢問。";
+"alertViewGeneralErrorMessage" = "廣告加載緩慢。\n請稍後再次嘗試。";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "沒有可用的活動。";
+"alertViewNoCampaignErrorMessage" = "沒有執行的活動。";
 
 /* Message used for alert view message for already participated campaign error */
-"alertViewAlreadyParticipatedCampaignErrorMessage" = "已經參加這項運動。";
+"alertViewAlreadyParticipatedCampaignErrorMessage" = "已參加此活動。";
 
 /* Message used for alert view message for mediakeys were incorrect error */
-"alertViewMediaKeyIncorrectErrorMessage" = "他的媒體鍵是不正確的。";
+"alertViewMediaKeyIncorrectErrorMessage" = "媒體Key發生錯誤。";
 
 /* Title used for alert view confirm button */
 "confirm" = "確認";
@@ -39,72 +39,72 @@
 "moving" = " 移動。";
 
 /* Title used for bridgr view of back button */
-"back" = "背面";
+"back" = "返回";
 
-"alerViewAlreadyInstalledAppMessage" = "已安裝應用程序。那麼不能參加。要求確認。";
+"alerViewAlreadyInstalledAppMessage" = "已安裝此應用，無法再次參與。請確認。";
 
-"alerViewNotYetInstalledMessage" = "未安裝的應用程序呢。你想要去的設定畫面？";
-"alerViewNotOpenToInstallAppURLMessage" = "App Store中無法移動。請聯繫客戶服務。";
+"alerViewNotYetInstalledMessage" = "未安裝此應用，需要跳轉至安裝界面嗎？";
+"alerViewNotOpenToInstallAppURLMessage" = "無法跳轉至App Store，請聯繫客服中心。";
 
 "checkParticipate" = "確認參與";
-"participating" = "參與..";
-"checkingScheme" = "檢查模式..";
-"checkingIsFavorite" = "像檢查..";
+"participating" = "參與中";
+"checkingScheme" = "檢查模式中";
+"checkingIsFavorite" = "檢查點贊中";
 
-"alreadyfavorited" = "你是一個球迷了！不幸的是，風扇的身份已經是可能參與該事件。";
+"alreadyfavorited" = "原來已成為粉絲！很可惜粉絲不可參與此活動。";
 
-"rewardComplete" = "此產品已成功付款要求。付款須支付網絡項目可能需要長達5分鐘。";
+"rewardComplete" = "已成功提交支付道具申請。根據網絡狀況，道具支付最長需花費5分鐘。";
 
-"notYetisFavoriteComplete" = "還是喜歡是不完整的。要求確認。";
+"notYetisFavoriteComplete" = "尚未點贊，請確認。";
 
 "participate" = "參與";
 "viewDetail" = "詳細說明";
 
+"wrongURLAddress" = "URL地址發送錯誤，請聯繫客服中心。";
 
-"checkInstall" = "驗證安裝";
-"checkParticipate" = "確認參與";
 
-"copyRecommendCode" = "推薦代碼被複製。";
+"checkInstall" = "確認安裝";
+
+"copyRecommendCode" = "推薦代碼已復制。";
 
 "rewardWaiting" = "待付款";
 "rewardCompleted" = "完成付款";
 
 
-"participateListTableHeaderText" = "道具發放根據網絡狀況，最長可能需花費2小時的時間。";
+"participateListTableHeaderText" = "根據網絡狀況，道具支付最長需花費2個小時。";
 
-"csGuideText" = "如果您有任何疑問，請離開這裡。在回答，讓我快。";
+"csGuideText" = "有任何疑問，請再次留言。我們將盡快為您答复。";
 
-"csNotiText" = "*所收集的個人信息（電子郵件地址）被用於CS處理和解決問題的能力，並在一段存儲後會被刪除。";
-
-
-"inquiry" = "查詢";
-"receiveAReplyEmail" = "聯絡電子信箱";
-"pleaseEnterYourEmail"= "請輸入您的電子郵件地址。";
+"csNotiText" = "*收集的個人信息(邮箱)是被用於CS處理和問題解決，儲存一段時間後將被刪除";
 
 
-"alertNoEmailMessage" = "請輸入您的電子郵件地址來接收回复。";
-"alertNoAskMessage" = "請輸入您的聯繫方式。";
+"inquiry" = "諮詢內容";
+"receiveAReplyEmail" = "接收回复的郵箱";
+"pleaseEnterYourEmail"= "請輸入郵箱。";
 
-"alertCSAddedMessage" = "聯繫信息已經收到。";
 
-"alertSendMailFailMessage" = "郵件傳遞失敗。";
+"alertNoEmailMessage" = "請輸入接收回复的郵箱。";
+"alertNoAskMessage" = "請輸入諮詢內容。";
+
+"alertCSAddedMessage" = "已提交諮詢內容。";
+
+"alertSendMailFailMessage" = "郵件發送失敗。";
 
 "cancel" = "取消";
 "select" = "選擇";
 
-"wrongEmailFormatMessage" = "電子郵件格式不正確。請檢查並重新輸入。";
+"wrongEmailFormatMessage" = "郵箱格式不正確,請檢查後重新輸入。";
 
-"csTypeEmailSubject" = "[聯繫AdPopcorn]%@";
+"csTypeEmailSubject" = "[聯繫adPOPcorn]%@";
 
-"csTypeEmailMessageBody" = "收到回复的電子郵件地址 : %@\n查詢 : %@";
+"csTypeEmailMessageBody" = "接收回复的郵箱 : %@\n諮詢內容 : %@";
 
-"couponCopyGuide" = "按住優惠券代碼將被複製。";
+"couponCopyGuide" = "長按優惠券代碼即可複制。";
 
 "noCouponListMessage" = "優惠券不存在。";
 
-"couponCopiedMessage" = "%@ 優惠券代碼被複製。";
+"couponCopiedMessage" = "優惠券代碼%@已復制。";
 
-"noPopiconFunctionNotiMessage" = "不支持Popicon功能了。請使用offwall功能。";
 
 "notSupportThisFunctionMessage" = "不支持此功能了。";
 
@@ -113,95 +113,100 @@
 
 "couponList" = "優惠券列表";
 
-"customerService" = "顧客服務";
+"customerService" = "客服中心";
 
 "send" = "發送";
 
 "adParticiateButtonText" = "廣告參與";
 "particiateHistoryButtonText" = "參與歷史";
-"promotingButtonText" = "邀請朋友";
+"promotingButtonText" = "朋友邀請";
 
 "promotingLinkType" = "鏈接類型";
 "promotingCouponType" = "優惠券類型";
 
-"commonPromotingItemQuantity" = "每次朋友訪問的時候 %@";
-"CPIPromotingItemQuantity" = "朋友運行的話 %@";
-"LoginPromotingItemQuantity" = "朋友登錄的話 %@";
-"CPAPromotingItemQuantity" = "朋友加入會員的話 %@";
+"commonPromotingItemQuantity" = "朋友訪問時,\n%@";
+"CPIPromotingItemQuantity" = "朋友運行時,\n%@";
+"LoginPromotingItemQuantity" = "朋友登錄時,\n%@";
+"CPAPromotingItemQuantity" = "朋友註冊時,\n%@";
 
-"invitedCount" = "邀請成功 : %@ 例";
-"earnedReward" = "得到總共 %@ %@";
+"invitedCount" = "成功邀請 : %@名";
+"earnedReward" = "總共獲得%@ %@";
 
 "copy" = "複製";
 "viewRanking" = "查看排名";
 
-"promotingPartipateMethod1" = "1. 通過FACEBOOK，KAKAO TALK等多樣化方法給朋友%@介紹看看（可以自己編輯介紹文）";
-"promotingPartipateMethod2LinkType" = "2. 點擊介紹裡的設置鏈接後，朋友%@進入%@的話，按照朋友數量的多少立即可以獲得收入";
-"promotingPartipateMethod2CouponType" = "2. 點擊介紹裡的設置連接後，朋友%@進入%@後輸入優惠券號碼的話，按照朋友數量多少可以立即獲得收入";
+"promotingPartipateMethod1" = "1. 通過WeChat, QQ等多種方法向朋友推薦%@。 (可自定義推薦內容)";
 
-"install&connect" = "設置與訪問";
-"install&execute" = "設置與運行";
-"install&login" = "設置與登錄";
-"install&reg" = "者置與加入會員";
+"promotingPartipateMethod2LinkType" = "2. 當朋友點擊推薦鏈接，並%@ %@后，將按照朋友數量立即發送獎勵。";
 
-"promotingCautionMessage" = "注意！邀請朋友給你介紹的應用程序，所以我已經安裝了應用程序服務獎勵將被排除在收購。";
+"promotingPartipateMethod2CouponType" = "2. 當朋友點擊推薦鏈接，%@ %@，並輸入優惠券號碼后，將按照朋友數量立即發送獎勵。";
 
-"textCopied" = "複製";
+"install&connect" = "安裝&訪問";
+"install&execute" = "安裝&運行";
+"install&login" = "安裝&登錄";
+"install&reg" = "安裝&會員註冊";
 
-"inviteCompensation" = "邀請補償";
-"rankCompensation" = "等級補償";
+"promotingCautionMessage" = "注意！朋友邀請作為應用推薦的途徑，對於本人安裝應用不進行獎勵。";
 
-"isOverseaOfferMessage" = "廣告選擇海外廣告。如果您已經下載了應用程序，以獎勵過去的歷史沒有支付。獎勵費的規定到網絡，它可能需要長達2個小時。你要繼續嗎？";
+"textCopied" = "已複製";
 
-"yes" = "是的";
-"no" = "無";
+"inviteCompensation" = "邀請獎勵";
+"rankCompensation" = "等級獎勵";
 
-"howToParticipate" = "如何參與";
+"isOverseaOfferMessage" = "此廣告為“海外廣告”，只最初參與時進行獎勵。根據網絡狀態，獎勵支付最長需花費2個小時。要繼續嗎？";
+
+"yes" = "是";
+"no" = "否";
+
+"howToParticipate" = "參與方法";
 
 "description" = "描述";
 
-"canNotParticipateInThisCampaignMessage" = "不能參加本次活動。";
+"canNotParticipateInThisCampaignMessage" = "沒有可參加的活動。";
 
-"deviceNotConfiguredToSendSMSMessage" = "設備未配置為發送短信。";
+"deviceNotConfiguredToSendSMSMessage" = "設備未配置發送短信功能。";
 
-"shareNotiMessage" = "消息被複製。分享在%@和要求。";
+"shareNotiMessage" = "消息已復制，分享到%@。";
 
 "contactUs" = "聯繫我們";
 "privacyPolicy" = "隱私政策";
-"pleaseCheckInTheMailSettings" = "請在郵件設置。";
+"pleaseCheckInTheMailSettings" = "請確認郵件設置。";
 
 
-"remainQuantity" = "[剩餘數量:%@]";
+"remainQuantity" = "[剩餘數量:%@個]";
 
 "notice" = "通知";
 
-"viralPromotionNoticeMessage" = "邀請好友時，通過散佈虛假信息來獲利的情況，不法收益金額將被沒收並進行處罰。";
+"viralPromotionNoticeMessage" = "通過發送虛假信息邀請好友來獲利的情況，將沒收全部非法收益及刪除賬號。";
 
 "agree" = "同意";
-"deny" = "否認";
+"deny" = "不同意";
 
-"contactUsMailMessage" = "adPOPcorn期待所有有能力的企業加盟\n<加盟諮詢>\n*公司名 : \n*負責人 : \n*聯繫方式 : \n*郵件 : \n*內容 : ";
+"contactUsMailMessage" = "adPOPcorn期待所有實力公司的合作。\n<合作諮詢>\n*公司名: \n*負責人: \n*聯繫方式: \n*郵箱: \n*內容 : ";
 
-"contactUsAlertMessage" = "這個菜單是專門夥伴關係。請接受參與由客戶聯絡中心相關的廣告。你想不想去聯繫我們的菜單嗎？";
+"contactUsAlertMessage" = "此菜單為合作專用通道，廣告參與詳情請通過客服中心進行諮詢。需要跳轉至客服中心嗎？";
 
 // adbrix
 "alertViewTitleForAdBrix" = "AdBrix";
 "install" = "安裝";
 "acquisition" = "獲得";
-"alerViewCantParticipateEventMessage" = "不能參加活動。";
-"alerViewCompletedParticipateEventMessage" = "參與事件完成。";
+"alerViewCantParticipateEventMessage" = "無法參加此活動。";
+"alerViewCompletedParticipateEventMessage" = "已參與此活動。";
 
-"getPromotingCPITrackingURLFailMessage" = "分享鏈接地址是無效的。請聯繫客戶服務。";
+"getPromotingCPITrackingURLFailMessage" = "分享鏈接地址出錯，請聯繫客服中心。";
 
-"quitTheVideoNowMessage" = "現在關閉視頻將不會得到獎勵，要關閉嗎？";
 
-"anUnknownErrorMessage" = "未知錯誤。請聯繫客戶服務中心。";
-"theCampaignEndedMessage" = "此役結束。";
+"quitTheVideoNowMessage" = "現在關閉視頻將無法獲得獎勵，確定要關閉嗎？";
+"videoWatchAgainMessage" = "視頻尚未結束，需要繼續進行觀看嗎？";
 
-"enterYourCouponCodeAlertTitle" = "請輸入優惠券號碼.";
-"enterYourCouponCodeAlertMessage" = "輸入優惠券號碼後，請點擊確認按鈕.";
 
-"couponCode" = "禮券編號";
+"anUnknownErrorMessage" = "發生未知錯誤，請聯繫客服中心。";
+"theCampaignEndedMessage" = "此活動已結束。";
+
+"enterYourCouponCodeAlertTitle" = "請輸入優惠券代碼。";
+"enterYourCouponCodeAlertMessage" = "請輸入優惠券代碼後，點擊確認按鈕。";
+
+"couponCode" = "優惠券代碼";
 
 "freeDownload" = "免費下載";
 "learnMore" = "了解更多";

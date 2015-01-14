@@ -61,7 +61,7 @@ typedef enum _DAAdType
 - (void)loadRequest;
 
 
-- (CGSize)adSize;
+@property (NS_NONATOMIC_IOSONLY, readonly) CGSize adSize;
 
 - (void)setAge:(NSInteger)age;
 - (void)setGender:(DAGender)gender;

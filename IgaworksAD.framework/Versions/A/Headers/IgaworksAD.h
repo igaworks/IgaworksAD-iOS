@@ -31,10 +31,10 @@ typedef enum _IgaworksADLogLevel
 
 @interface IgaworksAD : NSObject
 
-@property (nonatomic, readonly) NSString *appKey;
-@property (nonatomic, readonly) NSString *hashKey;
+@property (nonatomic, copy) NSString *appKey;
+@property (nonatomic, copy) NSString *hashKey;
 @property (nonatomic, copy) NSString *userId;
-@property (nonatomic, readonly) BOOL isUseIgaworksRewardServer;
+@property (nonatomic, unsafe_unretained) BOOL isUseIgaworksRewardServer;
 
 @property (nonatomic, unsafe_unretained) id<IgaworksADClientRewardDelegate> clientRewardDelegate;
 
@@ -51,21 +51,7 @@ typedef enum _IgaworksADLogLevel
  @param hashkey             app. 등록 후 발급된 키.
  @param isUseIgaworksRewardServer    igaworks에서 제공하는 reward server를 사용할것인지 여부.
  */
-+ (id)igaworksADWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
-
-
-/*!
- @abstract
- 초기화. init한다.
- 
- @discussion
- 발급 받은 appkey로 connect한다.
- 
- @param appkey              app. 등록 후, IGAWorks로부터 발급된 키.
- @param hashkey             app. 등록 후 발급된 키.
- @param isUseIgaworksRewardServer    igaworks에서 제공하는 reward server를 사용할것인지 여부.
- */
-- (id)initWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
++ (instancetype)igaworksADWithAppKey:(NSString *)appKey andHashKey:(NSString *)hashKey andIsUseIgaworksRewardServer:(BOOL)isUseIgaworksRewardServer;
 
 
 

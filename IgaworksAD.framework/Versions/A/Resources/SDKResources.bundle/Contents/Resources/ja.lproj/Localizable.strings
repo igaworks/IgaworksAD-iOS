@@ -62,7 +62,6 @@
 
 
 "checkInstall" = "インストール確認";
-"checkParticipate" = "参加確認";
 
 "copyRecommendCode" = "クーポンコードがコピーされました。";
 
@@ -100,7 +99,6 @@
 
 "couponCopiedMessage" = "%@ クーポンコードがコピーされました。";
 
-"noPopiconFunctionNotiMessage" = "Popicon機能はもはやサポートされていません。 offwall機能を使用してください。";
 
 "notSupportThisFunctionMessage" = "この機能は現在使われていません。";
 

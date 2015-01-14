@@ -28,7 +28,7 @@ typedef enum _DABannerViewSizeType
 @property (nonatomic, unsafe_unretained) NSInteger adRefreshRate;
 
 
-- (id)initWithBannerViewSize:(DABannerViewSizeType)size origin:(CGPoint)origin appKey:(NSString *)appKey spotKey:(NSString *)spotKey viewController:(UIViewController *)viewController;
+- (instancetype)initWithBannerViewSize:(DABannerViewSizeType)size origin:(CGPoint)origin appKey:(NSString *)appKey spotKey:(NSString *)spotKey viewController:(UIViewController *)viewController NS_DESIGNATED_INITIALIZER;
 
 - (void)loadRequest;
 

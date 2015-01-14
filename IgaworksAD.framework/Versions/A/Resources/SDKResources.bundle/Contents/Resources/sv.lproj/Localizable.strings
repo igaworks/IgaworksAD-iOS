@@ -61,7 +61,6 @@
 "wrongURLAddress" = "Ogiltig URL-adress. Vänligen kontakta kundtjänst.";
 
 "checkInstall" = "Verifiera installationen";
-"checkParticipate" = "Bekräfta deltagande";
 
 "copyRecommendCode" = "Rekommenderad kod kopierades.";
 
@@ -102,7 +101,6 @@
 
 "couponCopiedMessage" = "%@ kupongkod kopierades.";
 
-"noPopiconFunctionNotiMessage" = "Popicon stöds inte längre. Vänligen använd offwall funktion.";
 
 "notSupportThisFunctionMessage" = "Den här funktionen stöds inte längre.";
 

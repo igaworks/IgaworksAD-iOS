@@ -62,7 +62,6 @@
 "wrongURLAddress" = "Dirección URL no válida. Por favor, póngase en contacto con Servicio al Cliente.";
 
 "checkInstall" = "Verificación de la instalación";
-"checkParticipate" = "Confirmar participación";
 
 "copyRecommendCode" = "Se copió código Recomendado.";
 
@@ -102,7 +101,6 @@
 
 "couponCopiedMessage" = "%@ se copió el código de cupón.";
 
-"noPopiconFunctionNotiMessage" = "Característica Popicon no se admite más. Utilice offwall función.";
 
 "notSupportThisFunctionMessage" = "Esta función no se admite más.";
 

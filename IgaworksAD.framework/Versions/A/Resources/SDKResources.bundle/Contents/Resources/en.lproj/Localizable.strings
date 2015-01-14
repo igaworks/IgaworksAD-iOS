@@ -62,7 +62,6 @@
 "wrongURLAddress" = "Invalid URL address. Please contact Customer Service.";
 
 "checkInstall" = "Verifying the Installation";
-"checkParticipate" = "Confirm participation";
 
 "copyRecommendCode" = "Recommended code was copied.";
 
@@ -101,7 +100,6 @@
 
 "couponCopiedMessage" = "%@ coupon code was copied.";
 
-"noPopiconFunctionNotiMessage" = "Popicon feature is not supported anymore. Please use offwall function.";
 
 "notSupportThisFunctionMessage" = "This feature is not supported anymore.";
 

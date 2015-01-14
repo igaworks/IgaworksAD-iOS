@@ -62,7 +62,6 @@
 "wrongURLAddress" = "Endereço URL inválido. Entre em contato com Atendimento ao Cliente.";
 
 "checkInstall" = "Verificando a instalação";
-"checkParticipate" = "Confirmar participação";
 
 "copyRecommendCode" = "Código recomendada foi copiado.";
 
@@ -103,7 +102,6 @@
 
 "couponCopiedMessage" = "%@ código de cupom foi copiado.";
 
-"noPopiconFunctionNotiMessage" = "Característica Popicon não é mais suportado. Utilize offwall função.";
 
 "notSupportThisFunctionMessage" = "Este recurso não é mais suportado.";
 
