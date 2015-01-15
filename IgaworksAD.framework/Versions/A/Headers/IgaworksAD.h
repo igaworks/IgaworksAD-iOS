@@ -38,6 +38,8 @@ typedef enum _IgaworksADLogLevel
 
 @property (nonatomic, unsafe_unretained) id<IgaworksADClientRewardDelegate> clientRewardDelegate;
 
+@property (nonatomic, unsafe_unretained) BOOL live;
+
 
 
 /*!
