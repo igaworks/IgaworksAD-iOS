@@ -16,8 +16,18 @@ typedef NS_ENUM(NSInteger, AdBrixCustomCohortType)
     AdBrixCustomCohort_3 = 3
 };
 
+@protocol AdBrixDelegate;
+
 @interface AdBrix : NSObject
 
+@property (nonatomic, unsafe_unretained) id<AdBrixDelegate> delegate;
+
+
+/*!
+ @abstract
+ singleton AdBrix 객체를 반환한다.
+ */
++ (AdBrix *)shared;
 
 /*!
  @abstract
@@ -86,5 +96,13 @@ typedef NS_ENUM(NSInteger, AdBrixCustomCohortType)
 + (void)showViralCPINotice:(UIViewController *)viewController;
 
 + (void)setCustomCohort:(AdBrixCustomCohortType)customCohortType filterName:(NSString *)filterName;
+
+@end
+
+
+@protocol AdBrixDelegate <NSObject>
+
+@optional
+- (void)didSaveConversionKey:(NSUInteger)conversionKey subReferralKey:(NSInteger)subReferralKey;
 
 @end
