@@ -21,7 +21,7 @@
 @property (nonatomic, unsafe_unretained) id<DAPopupAdDelegate> delegate;
 
 
-- (instancetype)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey NS_DESIGNATED_INITIALIZER;
+- (instancetype)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey;
 - (BOOL)presentFromViewController:(UIViewController *)viewController;
 - (void)setLogLevel:(IgaworksADLogLevel)logLevel;
 

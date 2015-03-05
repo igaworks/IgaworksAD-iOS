@@ -19,7 +19,7 @@
 @property (nonatomic, unsafe_unretained) id<DAInterstitialAdDelegate> delegate;
 @property (nonatomic, unsafe_unretained, getter = isInterstitialAdIsVisible) BOOL interstitialAdIsVisible;
 
-- (instancetype)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey viewController:(UIViewController *)viewController NS_DESIGNATED_INITIALIZER;
+- (instancetype)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey viewController:(UIViewController *)viewController;
 
 
 //- (BOOL)presentInView:(UIView *)view;
