@@ -17,7 +17,7 @@ LICENSE
 
 s.platform = :ios, '6.0'
 s.author       = { "wonje,song" => "wonje@igaworks.com" }
-s.source       = { :git => "https://github.com/igaworks/IgaworksAD-iOS.git", :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/igaworks/IgaworksAD-iOS.git", :branch => "7.1.1_forXcode_5.1.1" }
 s.resources = "SDKResources.bundle"
 s.ios.vendored_frameworks = 'IgaworksAD.framework'
 s.frameworks = 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreData', 'QuartzCore', 'CoreTelephony', 'AdSupport', 'Security', 'MessageUI', 'ImageIO', 'CoreText', 'MobileCoreServices', 'Foundation', 'Social', 'MediaPlayer', 'iAd'
