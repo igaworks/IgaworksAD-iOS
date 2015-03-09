@@ -16,6 +16,18 @@ typedef NS_ENUM(NSInteger, AdBrixCustomCohortType)
     AdBrixCustomCohort_3 = 3
 };
 
+typedef NS_ENUM(NSInteger, AdBrixCurrencyType)
+{
+  AdBrixCurrencyKRW = 1,
+  AdBrixCurrencyUSD = 2,
+  AdBrixCurrencyJPY = 3,
+  AdBrixCurrencyEUR = 4,
+  AdBrixCurrencyGBP = 5,
+  AdBrixCurrencyCHY = 6,
+  AdBrixCurrencyTWD = 7,
+  AdBrixCurrencyHKD = 8
+};
+
 @protocol AdBrixDelegate;
 
 @interface AdBrix : NSObject
@@ -95,7 +107,39 @@ typedef NS_ENUM(NSInteger, AdBrixCustomCohortType)
 
 + (void)showViralCPINotice:(UIViewController *)viewController;
 
+/*!
+ @abstract
+ cohort 분석시 호출한다.
+ 
+ @param customCohortType          cohort type : AdBrixCustomCohortType
+ @param filterName                filter Name
+ */
 + (void)setCustomCohort:(AdBrixCustomCohortType)customCohortType filterName:(NSString *)filterName;
+
+
+/*!
+ @abstract
+ purchase의 Activity에 해당할때 호출한다.
+ 
+ @param productId              상품 고유 ID.
+ @param price                  상품 가격.
+ @param currency               상품 가격 통화 기준.
+ @param category               상품 카테고리 (Dot(.)으로 구분하여 최대 5개 Tier까지 입력 가능).
+ 
+ */
++ (void)purchase:(NSString *)productId price:(double)price currency:(AdBrixCurrencyType)currency category:(NSString *)category;
+
+/*!
+ @abstract
+ purchase의 Activity에 해당할때 호출한다.
+ 
+ @param productId              상품 고유 ID.
+ @param price                  상품 가격.
+ @param currencyString         상품 가격 통화 기준.
+ @param category               상품 카테고리 (Dot(.)으로 구분하여 최대 5개 Tier까지 입력 가능).
+ */
+
++ (void)purchase:(NSString *)productId price:(double)price currencyString:(NSString *)currencyString category:(NSString *)category;
 
 @end
 
