@@ -22,10 +22,11 @@
 - (instancetype)initWithKey:(NSString *)appKey spotKey:(NSString *)spotKey viewController:(UIViewController *)viewController NS_DESIGNATED_INITIALIZER;
 
 
-//- (BOOL)presentInView:(UIView *)view;
 - (BOOL)presentFromViewController:(UIViewController *)viewController;
 
 - (void)setLogLevel:(IgaworksADLogLevel)logLevel;
+
+- (void)showInterstitialAdForNendAd_IMobile;
 
 
 @end

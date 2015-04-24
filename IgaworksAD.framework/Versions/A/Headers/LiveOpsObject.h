@@ -25,6 +25,7 @@ typedef void (^LiveOpsSaveCallback)(NSError* error);
 
 - (id)get:(NSString*)key;
 - (id)objectForKeyedSubscript:(NSString*)key;
+- (NSDictionary*)getAll;
 
 - (void)put:(id)object withKey:(NSString*)key;
 - (void)setObject:(id)object forKeyedSubscript:(NSString*)key;

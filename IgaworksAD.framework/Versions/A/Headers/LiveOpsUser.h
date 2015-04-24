@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-typedef void (^LiveOpsUserLoginWorkCallback)();
+typedef void (^LiveOpsUserLoginWorkCallback)(NSString* userObjectId);
 
 @interface LiveOpsUser : NSObject
 

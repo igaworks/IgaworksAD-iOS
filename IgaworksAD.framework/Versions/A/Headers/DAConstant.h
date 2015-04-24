@@ -34,12 +34,12 @@ extern NSString *const kDAMediationAdMob;
 extern NSString *const kDAMediationAdam;
 extern NSString *const kDAMediationCauly;
 extern NSString *const kDAMediationAdPost;
-extern NSString *const kDAMediationShallWeAd;
 extern NSString *const kDAMediationTAd;
-extern NSString *const kDAMediationAdHub;
 extern NSString *const kDAMediationInmobi;
 extern NSString *const kDAMediationAppLift;
 extern NSString *const kDAMediationMMedia;
+extern NSString *const kDAMediationNendAd;
+extern NSString *const kDAMediationIMobile;
 
 // adapter
 extern NSString *const kDAMediationAdapterIAd;
@@ -47,11 +47,11 @@ extern NSString *const kDAMediationAdapterAdMob;
 extern NSString *const kDAMediationAdapterAdam;
 extern NSString *const kDAMediationAdapterCauly;
 extern NSString *const kDAMediationAdapterAdPost;
-extern NSString *const kDAMediationAdapterShallWeAd;
 extern NSString *const kDAMediationAdapterTAd;
-extern NSString *const kDAMediationAdapterAdHub;
 extern NSString *const kDAMediationAdapterInmobi;
 extern NSString *const kDAMediationAdapterMMedia;
+extern NSString *const kDAMediationAdapterNendAd;
+extern NSString *const kDAMediationAdapterIMobile;
 
 extern NSInteger const kDAIphoneBannerSizeWidth;
 extern NSInteger const kDAIphoneBannerSizeHeight;

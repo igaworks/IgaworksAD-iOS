@@ -21,6 +21,8 @@ typedef NS_ENUM(NSInteger, DAErrorCode) {
     DAInvalidSpotKey = 2030,
     DAEmptyCampaign = 2100,
     DANativeSpotDoesNotInitialized = 3200,
+    DAMediationInvalidIntegrationKey = 4000,
+    DAMediationAdapterNotInitialized = 4001,
     DAServerTimeout = 5000,
     DALoadAdFailed = 5001,
     DANoAd = 5002

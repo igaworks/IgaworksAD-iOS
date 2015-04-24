@@ -30,6 +30,7 @@ typedef enum _DAAdType
 } DAAdType;
 
 
+
 // Set Logging Component
 #undef AdPopcornLogComponent
 #define AdPopcornLogComponent lcl_cAdPopcorn
@@ -59,6 +60,7 @@ typedef enum _DAAdType
 - (void)closeAd;
 
 - (void)loadRequest;
+
 
 
 @property (NS_NONATOMIC_IOSONLY, readonly) CGSize adSize;
