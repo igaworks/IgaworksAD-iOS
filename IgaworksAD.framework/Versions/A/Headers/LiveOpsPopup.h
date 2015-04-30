@@ -6,6 +6,7 @@
 //  Copyright (c) 2015년 wonje,song. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
 typedef void (^LiveOpsPopupCompleteCallback)();
@@ -16,6 +17,7 @@ typedef void (^LiveOpsPopupLinkCallback)(NSString* popupSpaceKey, NSDictionary* 
 
 + (void)getPopups:(LiveOpsPopupCompleteCallback)block;
 + (void)showPopups:(NSString*)popupSpaceKey;
++ (void)showPopups:(NSString*)popupSpaceKey withViewController:(UIViewController*)viewCtrler;
 
 + (void)setPopupLinkListener:(LiveOpsPopupLinkCallback)block;
 
