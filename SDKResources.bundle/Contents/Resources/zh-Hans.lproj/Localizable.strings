@@ -22,7 +22,7 @@
 
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "没有执行的活动。";
+"alertViewNoCampaignErrorMessage" = "没有可参与的广告行销活动\n参考具体指南点击下面的按钮";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "已参加此活动。";
@@ -42,6 +42,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "返回";
+
+"move" = "举";
 
 "alerViewAlreadyInstalledAppMessage" = "已安装此应用，无法再次参与。请确认。";
 

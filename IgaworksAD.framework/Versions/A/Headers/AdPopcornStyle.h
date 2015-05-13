@@ -21,6 +21,7 @@ typedef NS_ENUM(NSInteger, AdPopcornThemeColor)
 
 
 
+
 @interface AdPopcornStyle : NSObject
 
 @property (nonatomic, unsafe_unretained) AdPopcornThemeColor adPopcornThemeColor;

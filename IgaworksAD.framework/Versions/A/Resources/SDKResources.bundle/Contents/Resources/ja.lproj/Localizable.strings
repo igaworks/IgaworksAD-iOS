@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "サーバへのアクセスが集中しています。\nしばらくしてから、もう一度お試しください。";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "該当キャンペーンがありません。";
+"alertViewNoCampaignErrorMessage" = "現在、参加できる[イベント]がありません。\n詳しい内容を確認するには、以下のボタンをタップしてください。";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "既に参加した[イベント]です。";
@@ -38,6 +38,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "戻る";
+
+"move" = "移動";
 
 "alerViewAlreadyInstalledAppMessage" = "このアプリは既にインストールされています。";
 

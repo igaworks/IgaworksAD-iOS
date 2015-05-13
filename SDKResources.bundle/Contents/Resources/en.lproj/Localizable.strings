@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "Ad request is not smooth. \nAsk again in a few minutes.";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "There is no available campaign.";
+"alertViewNoCampaignErrorMessage" = "There are no available campaigns. Click the button below for more detail";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "Already Participated this Campaign.";
@@ -38,6 +38,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "Back";
+
+"move" = "move";
 
 
 "alerViewAlreadyInstalledAppMessage" = "Already installed App. Then can not participate. Ask for confirmation.";

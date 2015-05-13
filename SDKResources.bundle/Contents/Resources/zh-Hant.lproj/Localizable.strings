@@ -21,7 +21,7 @@
 "alertViewGeneralErrorMessage" = "廣告加載緩慢。\n請稍後再次嘗試。";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "沒有執行的活動。";
+"alertViewNoCampaignErrorMessage" = "沒有可參與的廣告行銷活動\n參考具體指南點擊下面的按鈕";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "已參加此活動。";
@@ -40,6 +40,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "返回";
+
+"move" = "舉";
 
 "alerViewAlreadyInstalledAppMessage" = "已安裝此應用，無法再次參與。請確認。";
 
