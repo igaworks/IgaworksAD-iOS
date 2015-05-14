@@ -39,7 +39,7 @@
 /* Title used for bridgr view of back button */
 "back" = "Back";
 
-"move" = "move";
+"move" = "Move";
 
 
 "alerViewAlreadyInstalledAppMessage" = "Already installed App. Then can not participate. Ask for confirmation.";
