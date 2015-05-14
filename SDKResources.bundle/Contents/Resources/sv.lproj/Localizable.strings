@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "Ad begäran inte jämn. \nFråga igen om några minuter.";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "Det finns ingen tillgänglig kampanj.";
+"alertViewNoCampaignErrorMessage" = "Det finns inga tillgängliga kampanjer.\nKlicka på knappen nedan för mer information.";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "Redan deltagit denna kampanj.";
@@ -38,6 +38,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "Tillbaka";
+
+"move" = "drag";
 
 "alerViewAlreadyInstalledAppMessage" = "Redan installerat App. Då inte kan delta. Be om bekräftelse.";
 

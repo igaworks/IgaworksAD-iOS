@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "Ad request is not smooth. \nAsk again in a few minutes.";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "There are no available campaigns. Click the button below for more detail";
+"alertViewNoCampaignErrorMessage" = "There are no available campaigns. Click the button below for more detail.";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "Already Participated this Campaign.";

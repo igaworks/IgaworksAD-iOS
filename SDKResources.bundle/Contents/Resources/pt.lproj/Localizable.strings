@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "Solicitação de anúncio não é bom. \nPergunte novamente em alguns minutos.";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "Não há nenhuma campanha disponível.";
+"alertViewNoCampaignErrorMessage" = "Não há campanhas disponíveis.\nClique no botão abaixo para mais detalhes.";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "Já participaram desta Campanha.";
@@ -38,6 +38,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "De volta";
+
+"move" = "jogada";
 
 
 "alerViewAlreadyInstalledAppMessage" = "Já instalado App. Em seguida, não podem participar. Pedir confirmação.";

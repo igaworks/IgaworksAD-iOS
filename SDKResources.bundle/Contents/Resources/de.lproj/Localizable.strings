@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "Ad Anfrage ist nicht glatt. \nFragen Sie es in ein paar Minuten.";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "Es gibt keine verfügbaren Kampagne.";
+"alertViewNoCampaignErrorMessage" = "Es gibt keine verfügbaren Kampagnen.\nKlicken Sie den Button für weitere Einzelheiten";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "Bereits Teilnahme dieser Kampagne.";
@@ -38,6 +38,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "Zurück";
+
+"move" = "Umzug";
 
 
 "alerViewAlreadyInstalledAppMessage" = "Bereits installierte App. Dann kann nicht teilnehmen. Fragen Sie nach Bestätigung.";

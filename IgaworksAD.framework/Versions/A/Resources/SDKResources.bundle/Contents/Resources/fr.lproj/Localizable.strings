@@ -19,7 +19,7 @@
 "alertViewGeneralErrorMessage" = "Demande d'annonce n'est pas lisse. \nDemandez à nouveau dans quelques minutes.";
 
 /* Message used for alert view message for no campaign error */
-"alertViewNoCampaignErrorMessage" = "Il n'ya pas de campagne disponibles.";
+"alertViewNoCampaignErrorMessage" = "No hay campañas disponibles.\nHaga clic en el botón de abajo para obtener más detalles";
 
 /* Message used for alert view message for already participated campaign error */
 "alertViewAlreadyParticipatedCampaignErrorMessage" = "Déjà participé cette campagne.";
@@ -38,6 +38,8 @@
 
 /* Title used for bridgr view of back button */
 "back" = "Arrière";
+
+"move" = "movimiento";
 
 "alerViewAlreadyInstalledAppMessage" = "Déjà installé App. Alors ne peuvent pas participer. Demandez confirmation.";
 
