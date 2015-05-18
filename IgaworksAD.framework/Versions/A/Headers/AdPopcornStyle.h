@@ -29,10 +29,10 @@ typedef NS_ENUM(NSInteger, AdPopcornThemeColor)
 @property (nonatomic, unsafe_unretained) AdPopcornThemeColor adPopcornRewardThemeColor;
 @property (nonatomic, unsafe_unretained) AdPopcornThemeColor adPopcornRewardCheckThemeColor;
 
-@property (nonatomic, unsafe_unretained) UIColor *adPopcornCustomThemeColor;
-@property (nonatomic, unsafe_unretained) UIColor *adPopcornCustomTextThemeColor;
-@property (nonatomic, unsafe_unretained) UIColor *adPopcornCustomRewardThemeColor;
-@property (nonatomic, unsafe_unretained) UIColor *adPopcornCustomRewardCheckThemeColor;
+@property (nonatomic, strong) UIColor *adPopcornCustomThemeColor;
+@property (nonatomic, strong) UIColor *adPopcornCustomTextThemeColor;
+@property (nonatomic, strong) UIColor *adPopcornCustomRewardThemeColor;
+@property (nonatomic, strong) UIColor *adPopcornCustomRewardCheckThemeColor;
 
 @property (nonatomic, copy) NSString *adPopcornOfferWallTitle;
 
