@@ -147,6 +147,6 @@ typedef NS_ENUM(NSInteger, AdBrixCurrencyType)
 @protocol AdBrixDelegate <NSObject>
 
 @optional
-- (void)didSaveConversionKey:(NSUInteger)conversionKey subReferralKey:(NSInteger)subReferralKey;
+- (void)didSaveConversionKey:(NSInteger)conversionKey subReferralKey:(NSString *)subReferralKey;
 
 @end
