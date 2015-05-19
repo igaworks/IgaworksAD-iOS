@@ -19,4 +19,7 @@ typedef void (^LiveOpsUserLoginWorkCallback)(NSString* userObjectId);
 
 + (void)setTargetingData:(id)obj withKey:(NSString*)key;
 + (id)getTargetingDataWithKey:(NSString*)key;
+
++ (void)flush;
+
 @end
