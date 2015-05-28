@@ -35,6 +35,8 @@ typedef enum _DABannerViewSizeType
 
 - (void)setLogLevel:(IgaworksADLogLevel)logLevel;
 
+- (void)stopAd;
+
 @end
 
 

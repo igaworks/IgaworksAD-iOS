@@ -40,6 +40,7 @@ extern NSString *const kDAMediationAppLift;
 extern NSString *const kDAMediationMMedia;
 extern NSString *const kDAMediationNendAd;
 extern NSString *const kDAMediationIMobile;
+extern NSString *const kDAMediationMezzoMedia;
 
 // adapter
 extern NSString *const kDAMediationAdapterIAd;
@@ -52,6 +53,7 @@ extern NSString *const kDAMediationAdapterInmobi;
 extern NSString *const kDAMediationAdapterMMedia;
 extern NSString *const kDAMediationAdapterNendAd;
 extern NSString *const kDAMediationAdapterIMobile;
+extern NSString *const kDAMediationAdapterMezzoMedia;
 
 extern NSInteger const kDAIphoneBannerSizeWidth;
 extern NSInteger const kDAIphoneBannerSizeHeight;
