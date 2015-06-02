@@ -18,6 +18,8 @@ typedef void (^LiveOpsPopupLinkCallback)(NSString* popupSpaceKey, NSDictionary* 
 + (void)getPopups:(LiveOpsPopupCompleteCallback)block;
 + (void)showPopups:(NSString*)popupSpaceKey;
 + (void)showPopups:(NSString*)popupSpaceKey withViewController:(UIViewController*)viewCtrler;
++ (void)destroyPopup;
++ (void)destroyAllPopups;
 
 + (void)setPopupLinkListener:(LiveOpsPopupLinkCallback)block;
 
