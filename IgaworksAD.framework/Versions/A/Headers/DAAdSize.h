@@ -11,7 +11,8 @@
 
 typedef enum _DABannerViewRealSizeType
 {
-    DABannerViewSizeIphonePotriat320x50
+    DABannerViewSizeIphonePotriat320x50,
+    DABannerViewSizeIphonePotriat375x50
 } DABannerViewRealSizeType;
 
 @interface DAAdSize : NSObject

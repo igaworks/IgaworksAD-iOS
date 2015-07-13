@@ -16,7 +16,8 @@
 
 typedef enum _DABannerViewSizeType
 {
-    DABannerViewSize320x50
+    DABannerViewSize320x50,
+    DABannerViewSize375x50
 } DABannerViewSizeType;
 
 @interface DABannerView : UIView
